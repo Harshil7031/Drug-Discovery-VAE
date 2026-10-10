@@ -1,0 +1,25 @@
+# Python and IDEs
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.env/
+venv/
+env/
+.anaconda/
+.conda/
+
+# Datasets (Too heavy for GitHub, causes errors)
+data/raw/
+data/processed/
+data/interim/
+
+# Results (Optional: ignore if you don't want 1000s of images tracked)
+# results/
+
+# Model Weights (Uncomment if you want to ignore models)
+# models/*.pt
+
+# Private/Unwanted files (Just in case they ever get copied back)
+Recovered_Drug_Discovery_Chat.md
+Project Breakdown.docx
+Project Breakdown.pdf
