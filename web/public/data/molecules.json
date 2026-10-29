@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "smiles": "Cc1ccccc1NC(=O)N1CCN(Cc2ccccn2)CC1",
+    "qed": 0.948,
+    "logP": 2.74,
+    "sas": 1.82,
+    "svg": "/molecules/1.svg"
+  },
+  {
+    "id": 2,
+    "smiles": "Cc1ccoc1CNC(=O)N1CCO[C@@H](c2ccccc2)C1",
+    "qed": 0.948,
+    "logP": 2.871,
+    "sas": 2.885,
+    "svg": "/molecules/2.svg"
+  },
+  {
+    "id": 3,
+    "smiles": "CC(C)([NH2+][C@H]1CSc2ccccc21)c1ccc(Cl)nn1",
+    "qed": 0.948,
+    "logP": 2.776,
+    "sas": 3.959,
+    "svg": "/molecules/3.svg"
+  },
+  {
+    "id": 4,
+    "smiles": "Cc1ccccc1N1C[C@@H](C(=O)Nc2cnccc2C)CC1=O",
+    "qed": 0.948,
+    "logP": 2.69,
+    "sas": 2.482,
+    "svg": "/molecules/4.svg"
+  },
+  {
+    "id": 5,
+    "smiles": "C=C1Cc2cc(NS(=O)(=O)c3ccc(F)cc3)ccc2O1",
+    "qed": 0.948,
+    "logP": 3.075,
+    "sas": 2.413,
+    "svg": "/molecules/5.svg"
+  },
+  {
+    "id": 6,
+    "smiles": "O=C(NCc1ccc(Cl)cc1)c1ccc2c(c1)OCCO2",
+    "qed": 0.948,
+    "logP": 3.041,
+    "sas": 1.725,
+    "svg": "/molecules/6.svg"
+  },
+  {
+    "id": 7,
+    "smiles": "Cc1ccc(S(=O)(=O)Nc2cc(Cl)ccc2F)cn1",
+    "qed": 0.948,
+    "logP": 2.983,
+    "sas": 1.957,
+    "svg": "/molecules/7.svg"
+  },
+  {
+    "id": 8,
+    "smiles": "CC(=O)N1CCC(c2cc(C(F)F)[nH]n2)[C@@H](c2ccco2)C1",
+    "qed": 0.948,
+    "logP": 3.06,
+    "sas": 3.887,
+    "svg": "/molecules/8.svg"
+  },
+  {
+    "id": 9,
+    "smiles": "CCn1c(=O)n(C)c2cc(NC(=O)C3CCCCC3)ccc21",
+    "qed": 0.947,
+    "logP": 2.879,
+    "sas": 2.054,
+    "svg": "/molecules/9.svg"
+  },
+  {
+    "id": 10,
+    "smiles": "Cc1sc(C(=O)Nc2ccc(C)c(Cl)c2)cc1C(=O)[O-]",
+    "qed": 0.947,
+    "logP": 2.634,
+    "sas": 2.495,
+    "svg": "/molecules/10.svg"
+  },
+  {
+    "id": 11,
+    "smiles": "CCc1nn(C)cc1NC(=O)c1ccccc1Br",
+    "qed": 0.947,
+    "logP": 2.997,
+    "sas": 2.243,
+    "svg": "/molecules/11.svg"
+  },
+  {
+    "id": 12,
+    "smiles": "Cc1cc(C(=O)Nc2ccc(Cl)cc2)cc(C(=O)[O-])c1C",
+    "qed": 0.947,
+    "logP": 2.573,
+    "sas": 2.192,
+    "svg": "/molecules/12.svg"
+  },
+  {
+    "id": 13,
+    "smiles": "CN1C(=O)N(CCc2ccccc2)Nc2ccccc2C1=O",
+    "qed": 0.947,
+    "logP": 2.764,
+    "sas": 2.371,
+    "svg": "/molecules/13.svg"
+  },
+  {
+    "id": 14,
+    "smiles": "C[C@@H]1CCC[C@H](C)N1C(=O)c1nc2ccccc2n1CCO",
+    "qed": 0.947,
+    "logP": 2.432,
+    "sas": 3.138,
+    "svg": "/molecules/14.svg"
+  },
+  {
+    "id": 15,
+    "smiles": "Cc1nnc(N2CCC([C@H](O)c3cccc(F)c3)CC2)s1",
+    "qed": 0.947,
+    "logP": 2.936,
+    "sas": 2.828,
+    "svg": "/molecules/15.svg"
+  },
+  {
+    "id": 16,
+    "smiles": "C[C@@H]1C(=O)CCN1c1ccc(C(=O)Nc2cccs2)cc1",
+    "qed": 0.947,
+    "logP": 3.168,
+    "sas": 2.851,
+    "svg": "/molecules/16.svg"
+  },
+  {
+    "id": 17,
+    "smiles": "C[C@H]1C[C@H]([NH3+])CN(C(=O)c2ccc(Oc3ccccc3)cc2)C1",
+    "qed": 0.947,
+    "logP": 2.571,
+    "sas": 3.101,
+    "svg": "/molecules/17.svg"
+  },
+  {
+    "id": 18,
+    "smiles": "Cc1cc(CC(=O)Nc2ccccc2Br)no1",
+    "qed": 0.947,
+    "logP": 2.927,
+    "sas": 1.968,
+    "svg": "/molecules/18.svg"
+  },
+  {
+    "id": 19,
+    "smiles": "Cc1nn(C)c(C)c1C(=O)N[C@@H]1CCCN(c2ccccc2)C1",
+    "qed": 0.947,
+    "logP": 2.436,
+    "sas": 2.5,
+    "svg": "/molecules/19.svg"
+  },
+  {
+    "id": 20,
+    "smiles": "CCc1c(C)sc(NC(=O)[C@@H]2Cc3ccccc3CN2C)n1",
+    "qed": 0.947,
+    "logP": 3.009,
+    "sas": 2.869,
+    "svg": "/molecules/20.svg"
+  },
+  {
+    "id": 21,
+    "smiles": "NC(=O)[C@@H]1CCCN1c1ccc(-c2cc(F)ccc2F)cc1",
+    "qed": 0.947,
+    "logP": 3.086,
+    "sas": 2.465,
+    "svg": "/molecules/21.svg"
+  },
+  {
+    "id": 22,
+    "smiles": "C[NH2+][C@@H]1[C@H](Sc2ccc3ccccc3c2)SC(=O)N1C",
+    "qed": 0.947,
+    "logP": 2.576,
+    "sas": 4.099,
+    "svg": "/molecules/22.svg"
+  },
+  {
+    "id": 23,
+    "smiles": "Cc1cc[nH+]c(N2CCC[C@@H](C(=O)Nc3ccccc3F)C2)c1",
+    "qed": 0.947,
+    "logP": 2.803,
+    "sas": 3.372,
+    "svg": "/molecules/23.svg"
+  },
+  {
+    "id": 24,
+    "smiles": "N#Cc1cccnc1C(=O)NCc1ccc(Cl)cc1Cl",
+    "qed": 0.947,
+    "logP": 3.19,
+    "sas": 2.156,
+    "svg": "/molecules/24.svg"
+  },
+  {
+    "id": 25,
+    "smiles": "CCOc1ccc2[nH]c(N3CCO[C@@H]4CCC[C@H]4C3)nc2c1",
+    "qed": 0.947,
+    "logP": 2.967,
+    "sas": 3.241,
+    "svg": "/molecules/25.svg"
+  },
+  {
+    "id": 26,
+    "smiles": "Cn1nccc1C(=O)N[C@H]1CCC[C@@H]1c1ccccc1Cl",
+    "qed": 0.947,
+    "logP": 3.14,
+    "sas": 2.998,
+    "svg": "/molecules/26.svg"
+  },
+  {
+    "id": 27,
+    "smiles": "Cc1cc(C)n([C@@H](C)C(=O)N[C@@H]2CCc3ccccc3C2)n1",
+    "qed": 0.947,
+    "logP": 2.735,
+    "sas": 2.946,
+    "svg": "/molecules/27.svg"
+  },
+  {
+    "id": 28,
+    "smiles": "Cc1cncc(CC(=O)Nc2cc(Cl)c3c(c2)COC3)c1",
+    "qed": 0.947,
+    "logP": 3.255,
+    "sas": 2.534,
+    "svg": "/molecules/28.svg"
+  },
+  {
+    "id": 29,
+    "smiles": "CC(C)(C)c1nc([C@H]2CCCN(Cc3ccccn3)C2)n[nH]1",
+    "qed": 0.947,
+    "logP": 2.877,
+    "sas": 3.03,
+    "svg": "/molecules/29.svg"
+  },
+  {
+    "id": 30,
+    "smiles": "O=C(NCc1ccc2c(c1)OCO2)c1cc(Cl)cs1",
+    "qed": 0.947,
+    "logP": 3.06,
+    "sas": 2.251,
+    "svg": "/molecules/30.svg"
+  },
+  {
+    "id": 31,
+    "smiles": "COc1cccc(C(=O)Nc2ncc(Cl)cc2Cl)[nH+]1",
+    "qed": 0.946,
+    "logP": 2.463,
+    "sas": 3.429,
+    "svg": "/molecules/31.svg"
+  },
+  {
+    "id": 32,
+    "smiles": "C[C@@H](NC(=O)c1ccccc1Cl)c1nn2c(n1)SCC2",
+    "qed": 0.946,
+    "logP": 2.528,
+    "sas": 3.204,
+    "svg": "/molecules/32.svg"
+  },
+  {
+    "id": 33,
+    "smiles": "Cc1cccc(NC(=O)CSC2=NC(=O)c3ccccc32)c1",
+    "qed": 0.946,
+    "logP": 3.267,
+    "sas": 2.223,
+    "svg": "/molecules/33.svg"
+  },
+  {
+    "id": 34,
+    "smiles": "Cc1n[nH]c(C)c1CC(=O)N1CC=C(c2ccccc2)CC1",
+    "qed": 0.946,
+    "logP": 2.885,
+    "sas": 2.369,
+    "svg": "/molecules/34.svg"
+  },
+  {
+    "id": 35,
+    "smiles": "Cc1nn(Cc2cc(C3CC3)cc(Cl)c2Cl)c(=O)[nH]1",
+    "qed": 0.946,
+    "logP": 3.112,
+    "sas": 2.932,
+    "svg": "/molecules/35.svg"
+  },
+  {
+    "id": 36,
+    "smiles": "COc1ccc2oc(C(=O)N3C[C@H](CO)C[C@H](C)C3)cc2c1",
+    "qed": 0.946,
+    "logP": 2.532,
+    "sas": 3.003,
+    "svg": "/molecules/36.svg"
+  },
+  {
+    "id": 37,
+    "smiles": "C[C@@H](c1ccccc1O)N(C)c1ncc(Br)cn1",
+    "qed": 0.946,
+    "logP": 3.142,
+    "sas": 2.961,
+    "svg": "/molecules/37.svg"
+  },
+  {
+    "id": 38,
+    "smiles": "N#C[C@H]1CN(Cc2ccc(F)cc2)C[C@@H](c2ccccc2)N1",
+    "qed": 0.946,
+    "logP": 2.864,
+    "sas": 3.174,
+    "svg": "/molecules/38.svg"
+  },
+  {
+    "id": 39,
+    "smiles": "Cc1ccc(C(=O)NCc2nc(Br)cs2)cc1",
+    "qed": 0.946,
+    "logP": 3.144,
+    "sas": 2.056,
+    "svg": "/molecules/39.svg"
+  },
+  {
+    "id": 40,
+    "smiles": "Cc1cc(C(=O)N[C@H](C)c2ccc(F)c(Cl)c2)n(C)n1",
+    "qed": 0.946,
+    "logP": 3.012,
+    "sas": 2.559,
+    "svg": "/molecules/40.svg"
+  },
+  {
+    "id": 41,
+    "smiles": "C[C@H](C(=O)Nc1nnc(Br)s1)c1cccs1",
+    "qed": 0.946,
+    "logP": 3.104,
+    "sas": 3.097,
+    "svg": "/molecules/41.svg"
+  },
+  {
+    "id": 42,
+    "smiles": "Cn1c(=O)c2c(n1C/C=C/Cl)[C@H](c1ccccc1Cl)N2",
+    "qed": 0.946,
+    "logP": 3.108,
+    "sas": 3.736,
+    "svg": "/molecules/42.svg"
+  },
+  {
+    "id": 43,
+    "smiles": "N#Cc1ccccc1[C@@H]1CCC[NH+]1Cc1cc(Cl)ccn1",
+    "qed": 0.946,
+    "logP": 2.527,
+    "sas": 4.301,
+    "svg": "/molecules/43.svg"
+  },
+  {
+    "id": 44,
+    "smiles": "O=C(Nc1ccccc1F)[C@@H]1CCCN(c2ncccn2)C1",
+    "qed": 0.946,
+    "logP": 2.471,
+    "sas": 2.397,
+    "svg": "/molecules/44.svg"
+  },
+  {
+    "id": 45,
+    "smiles": "Brc1cc(NC(=O)c2ccccc2OC)no1",
+    "qed": 0.946,
+    "logP": 2.698,
+    "sas": 2.18,
+    "svg": "/molecules/45.svg"
+  },
+  {
+    "id": 46,
+    "smiles": "O=C(Nc1ccc2c(c1)OCO2)[C@@H]1C[C@H]1c1ccccc1F",
+    "qed": 0.946,
+    "logP": 3.297,
+    "sas": 2.731,
+    "svg": "/molecules/46.svg"
+  },
+  {
+    "id": 47,
+    "smiles": "O=C(Nc1ccc2c(c1)OCO2)[C@H]1C[C@@H]1c1ccccc1F",
+    "qed": 0.946,
+    "logP": 3.297,
+    "sas": 2.731,
+    "svg": "/molecules/47.svg"
+  },
+  {
+    "id": 48,
+    "smiles": "Cc1nn(CC(=O)Nc2cc(Cl)ccc2C)c2c1CCC2",
+    "qed": 0.946,
+    "logP": 3.281,
+    "sas": 2.157,
+    "svg": "/molecules/48.svg"
+  },
+  {
+    "id": 49,
+    "smiles": "Cc1ccc(C[NH+]2CC[C@@H](C)C[C@H]2c2ccccc2C)c(=O)o1",
+    "qed": 0.946,
+    "logP": 2.813,
+    "sas": 4.349,
+    "svg": "/molecules/49.svg"
+  },
+  {
+    "id": 50,
+    "smiles": "N#Cc1ccc(Nc2cc(C(=O)[O-])cc(Cl)c2Cl)cc1",
+    "qed": 0.946,
+    "logP": 2.972,
+    "sas": 2.606,
+    "svg": "/molecules/50.svg"
+  },
+  {
+    "id": 51,
+    "smiles": "Oc1ccccc1Oc1ccc(F)cc1C(=O)N1CCOCC1",
+    "qed": 0.946,
+    "logP": 2.796,
+    "sas": 1.99,
+    "svg": "/molecules/51.svg"
+  },
+  {
+    "id": 52,
+    "smiles": "COC1CCC(Cc2c[nH+]cc3ccccc23)[C@@H](C)C(=O)N1",
+    "qed": 0.945,
+    "logP": 2.331,
+    "sas": 4.612,
+    "svg": "/molecules/52.svg"
+  },
+  {
+    "id": 53,
+    "smiles": "Cc1ccc(S(=O)(=O)Nc2ccc(C#N)cc2Cl)cc1",
+    "qed": 0.945,
+    "logP": 3.321,
+    "sas": 1.854,
+    "svg": "/molecules/53.svg"
+  },
+  {
+    "id": 54,
+    "smiles": "CC(C)c1nnc(NC(=O)N2CCC[C@@H]2c2ccccc2)n1C",
+    "qed": 0.945,
+    "logP": 3.308,
+    "sas": 2.848,
+    "svg": "/molecules/54.svg"
+  },
+  {
+    "id": 55,
+    "smiles": "C[C@H]1CCCC[C@@H]1N(C)C(=O)Nc1cnc(-n2cccn2)cc1",
+    "qed": 0.945,
+    "logP": 3.31,
+    "sas": 3.168,
+    "svg": "/molecules/55.svg"
+  },
+  {
+    "id": 56,
+    "smiles": "Cc1nc(CNC(=O)c2ccccc2C(F)(F)F)oc1C#N",
+    "qed": 0.945,
+    "logP": 2.804,
+    "sas": 2.649,
+    "svg": "/molecules/56.svg"
+  },
+  {
+    "id": 57,
+    "smiles": "N#Cc1cccc(NC(=O)CN2CCc3ccccc3C2)c1",
+    "qed": 0.945,
+    "logP": 2.555,
+    "sas": 1.904,
+    "svg": "/molecules/57.svg"
+  },
+  {
+    "id": 58,
+    "smiles": "C[NH2+][C@H](c1ccc(C)c2ccncc12)[C@H]1CSCCS1",
+    "qed": 0.945,
+    "logP": 2.626,
+    "sas": 4.433,
+    "svg": "/molecules/58.svg"
+  },
+  {
+    "id": 59,
+    "smiles": "N#Cc1ccc(S(=O)(=O)Nc2ccccc2Cl)cc1",
+    "qed": 0.945,
+    "logP": 3.012,
+    "sas": 1.737,
+    "svg": "/molecules/59.svg"
+  },
+  {
+    "id": 60,
+    "smiles": "N#Cc1ccc(CNC(=O)c2ccc(Br)cc2)cc1",
+    "qed": 0.945,
+    "logP": 3.251,
+    "sas": 1.631,
+    "svg": "/molecules/60.svg"
+  },
+  {
+    "id": 61,
+    "smiles": "C[C@@H]([NH2+][C@H]1[C@@H]2CCN(c3cccnc3C2)[C@H]1C)c1ccccc1",
+    "qed": 0.945,
+    "logP": 2.546,
+    "sas": 5.002,
+    "svg": "/molecules/61.svg"
+  },
+  {
+    "id": 62,
+    "smiles": "C[C@@H](NC(=O)c1cccnc1)C(=O)N1c2ccccc2C[C@H]1C",
+    "qed": 0.945,
+    "logP": 2.178,
+    "sas": 2.803,
+    "svg": "/molecules/62.svg"
+  },
+  {
+    "id": 63,
+    "smiles": "Cc1ccc(F)c(NC(=O)c2cccc(N3CCOC3=O)c2)c1",
+    "qed": 0.945,
+    "logP": 3.343,
+    "sas": 1.995,
+    "svg": "/molecules/63.svg"
+  },
+  {
+    "id": 64,
+    "smiles": "Cc1ccc(C(=O)N(C)Cc2nc3c(s2)CCCC3)c(O)c1",
+    "qed": 0.945,
+    "logP": 3.308,
+    "sas": 2.399,
+    "svg": "/molecules/64.svg"
+  },
+  {
+    "id": 65,
+    "smiles": "Cc1cc(C(=O)Nc2cc(N3CCCC3=O)ccc2F)no1",
+    "qed": 0.945,
+    "logP": 2.501,
+    "sas": 2.192,
+    "svg": "/molecules/65.svg"
+  },
+  {
+    "id": 66,
+    "smiles": "Cc1cc(NC(=O)c2cc(N3CCCC3=O)ccc2F)no1",
+    "qed": 0.945,
+    "logP": 2.501,
+    "sas": 2.2,
+    "svg": "/molecules/66.svg"
+  },
+  {
+    "id": 67,
+    "smiles": "CCc1onc(C)c1NC(=O)c1occc1Br",
+    "qed": 0.945,
+    "logP": 3.153,
+    "sas": 2.875,
+    "svg": "/molecules/67.svg"
+  },
+  {
+    "id": 68,
+    "smiles": "Cc1c(F)ccc(CNC(=O)c2ccc(C#N)c(C#N)c2)c1",
+    "qed": 0.945,
+    "logP": 2.807,
+    "sas": 2.128,
+    "svg": "/molecules/68.svg"
+  },
+  {
+    "id": 69,
+    "smiles": "Cc1cccc(C(=O)N[C@H]2CCN(C(=O)c3ccco3)C2)c1",
+    "qed": 0.945,
+    "logP": 2.233,
+    "sas": 2.383,
+    "svg": "/molecules/69.svg"
+  },
+  {
+    "id": 70,
+    "smiles": "CCOc1ccc([C@@H]2Nc3ccccc3N(C)C2=O)c(F)c1",
+    "qed": 0.945,
+    "logP": 3.354,
+    "sas": 2.713,
+    "svg": "/molecules/70.svg"
+  },
+  {
+    "id": 71,
+    "smiles": "CNc1ncc(Br)cc1C(=O)N(C)c1ccccc1",
+    "qed": 0.945,
+    "logP": 3.162,
+    "sas": 2.151,
+    "svg": "/molecules/71.svg"
+  },
+  {
+    "id": 72,
+    "smiles": "CCc1nn(C)c(Oc2ccc(C)cc2Br)c1N",
+    "qed": 0.945,
+    "logP": 3.428,
+    "sas": 2.414,
+    "svg": "/molecules/72.svg"
+  },
+  {
+    "id": 73,
+    "smiles": "CCc1ncc(C(=O)Nc2nnc(C(C)(C)C)s2)s1",
+    "qed": 0.945,
+    "logP": 3.107,
+    "sas": 2.623,
+    "svg": "/molecules/73.svg"
+  },
+  {
+    "id": 74,
+    "smiles": "COc1ccccc1N1CCN(c2c(C)cc(=O)[nH]c2C)CC1",
+    "qed": 0.945,
+    "logP": 2.327,
+    "sas": 2.234,
+    "svg": "/molecules/74.svg"
+  },
+  {
+    "id": 75,
+    "smiles": "COc1ccc(C(=O)Nc2sc3c(c2C#N)CCC3)cc1",
+    "qed": 0.945,
+    "logP": 3.369,
+    "sas": 1.969,
+    "svg": "/molecules/75.svg"
+  },
+  {
+    "id": 76,
+    "smiles": "Cc1nc([C@@H](C)[NH2+][C@@H](C)c2ccc3c(c2)OCO3)sc1C",
+    "qed": 0.945,
+    "logP": 2.874,
+    "sas": 3.994,
+    "svg": "/molecules/76.svg"
+  },
+  {
+    "id": 77,
+    "smiles": "CN(C)c1ncccc1NC(=O)c1ccc2c(c1)N(C)CC2",
+    "qed": 0.945,
+    "logP": 2.392,
+    "sas": 2.225,
+    "svg": "/molecules/77.svg"
+  },
+  {
+    "id": 78,
+    "smiles": "CC(=O)N(C)c1ccc(NC(=O)c2cccs2)cc1F",
+    "qed": 0.945,
+    "logP": 3.122,
+    "sas": 2.119,
+    "svg": "/molecules/78.svg"
+  },
+  {
+    "id": 79,
+    "smiles": "Cc1ccsc1CNC(=O)N1CCN(c2ccccc2)CC1",
+    "qed": 0.945,
+    "logP": 3.088,
+    "sas": 2.007,
+    "svg": "/molecules/79.svg"
+  },
+  {
+    "id": 80,
+    "smiles": "Cc1ccc(C(=O)NCc2cc(C#N)c(Cl)nn2)c(C)c1",
+    "qed": 0.945,
+    "logP": 2.549,
+    "sas": 2.435,
+    "svg": "/molecules/80.svg"
+  },
+  {
+    "id": 81,
+    "smiles": "CN(Cc1nc2c(s1)CCC[C@H]2[NH3+])c1ccccc1F",
+    "qed": 0.945,
+    "logP": 2.538,
+    "sas": 3.597,
+    "svg": "/molecules/81.svg"
+  },
+  {
+    "id": 82,
+    "smiles": "Cc1csc([C@@H]2CCCN(C(=O)NCc3cccc[nH+]3)C2)n1",
+    "qed": 0.944,
+    "logP": 2.355,
+    "sas": 3.84,
+    "svg": "/molecules/82.svg"
+  },
+  {
+    "id": 83,
+    "smiles": "C[C@@H](c1ccc2c(c1)OCCO2)[NH2+][C@H](C)c1ccc(C#N)cc1",
+    "qed": 0.944,
+    "logP": 2.715,
+    "sas": 3.687,
+    "svg": "/molecules/83.svg"
+  },
+  {
+    "id": 84,
+    "smiles": "CN(C)S(=O)(=O)N1CCC[C@H](c2c[nH]c3ccccc23)C1",
+    "qed": 0.944,
+    "logP": 2.154,
+    "sas": 2.728,
+    "svg": "/molecules/84.svg"
+  },
+  {
+    "id": 85,
+    "smiles": "COC(=O)Nc1ccc2c(c1)CN(Cc1csc(C)n1)CC2",
+    "qed": 0.944,
+    "logP": 3.188,
+    "sas": 2.242,
+    "svg": "/molecules/85.svg"
+  },
+  {
+    "id": 86,
+    "smiles": "C[C@@H]1C[C@@H]1c1cc(CNC(=O)c2ccc3c(c2)CCC3)ncn1",
+    "qed": 0.944,
+    "logP": 3.019,
+    "sas": 3.118,
+    "svg": "/molecules/86.svg"
+  },
+  {
+    "id": 87,
+    "smiles": "Cc1cc(C)cc(NC(=O)CS(=O)(=O)c2cccs2)c1",
+    "qed": 0.944,
+    "logP": 2.777,
+    "sas": 2.166,
+    "svg": "/molecules/87.svg"
+  },
+  {
+    "id": 88,
+    "smiles": "Cc1ccccc1NC(=O)CS(=O)(=O)c1ccc(C)cc1",
+    "qed": 0.944,
+    "logP": 2.716,
+    "sas": 1.698,
+    "svg": "/molecules/88.svg"
+  },
+  {
+    "id": 89,
+    "smiles": "C[C@@H](NC(=O)[C@]1(C)CC(c2ccccc2)=NO1)c1ccncc1",
+    "qed": 0.944,
+    "logP": 2.842,
+    "sas": 3.117,
+    "svg": "/molecules/89.svg"
+  },
+  {
+    "id": 90,
+    "smiles": "Cc1cc(F)ccc1S(=O)(=O)Nc1ccnn1C1CCC1",
+    "qed": 0.944,
+    "logP": 2.856,
+    "sas": 2.341,
+    "svg": "/molecules/90.svg"
+  },
+  {
+    "id": 91,
+    "smiles": "C[C@H]1CN(C(=O)[C@@H](C)Nc2ccc(-n3ccnc3)cc2)C[C@H]1C",
+    "qed": 0.944,
+    "logP": 2.787,
+    "sas": 3.368,
+    "svg": "/molecules/91.svg"
+  },
+  {
+    "id": 92,
+    "smiles": "C[C@@H]1[C@H]([NH2+]Cc2ccnc3ccccc23)[C@@H]2CCC[C@H]2C1=O",
+    "qed": 0.944,
+    "logP": 2.302,
+    "sas": 4.324,
+    "svg": "/molecules/92.svg"
+  },
+  {
+    "id": 93,
+    "smiles": "CC1CC[NH+](Cc2ccncc2Oc2ccc(C#N)cc2)CC1",
+    "qed": 0.944,
+    "logP": 2.56,
+    "sas": 3.501,
+    "svg": "/molecules/93.svg"
+  },
+  {
+    "id": 94,
+    "smiles": "CC(C)(C)c1ccc(NS(=O)(=O)c2ccccn2)cc1",
+    "qed": 0.944,
+    "logP": 3.18,
+    "sas": 1.958,
+    "svg": "/molecules/94.svg"
+  },
+  {
+    "id": 95,
+    "smiles": "C[C@H]1CN(c2cc(C(=O)Nc3ccccn3)cn2C)C[C@@H](C)O1",
+    "qed": 0.944,
+    "logP": 2.286,
+    "sas": 3.35,
+    "svg": "/molecules/95.svg"
+  },
+  {
+    "id": 96,
+    "smiles": "Cc1ccc([C@@H](C)NC(=O)N2CCN(c3ccccn3)CC2)cc1",
+    "qed": 0.944,
+    "logP": 2.983,
+    "sas": 2.346,
+    "svg": "/molecules/96.svg"
+  },
+  {
+    "id": 97,
+    "smiles": "Cc1cccc(NC(=O)c2cnn(C[C@H]3CCCO3)c2)c1C",
+    "qed": 0.944,
+    "logP": 2.931,
+    "sas": 2.593,
+    "svg": "/molecules/97.svg"
+  },
+  {
+    "id": 98,
+    "smiles": "COc1ccc(NC(=O)[C@@H]2COc3ccccc3O2)cc1Cl",
+    "qed": 0.944,
+    "logP": 3.127,
+    "sas": 2.364,
+    "svg": "/molecules/98.svg"
+  },
+  {
+    "id": 99,
+    "smiles": "CN(CCc1cccs1)C(=O)N1CCC[C@@H]1c1ncc[nH]1",
+    "qed": 0.944,
+    "logP": 2.903,
+    "sas": 3.142,
+    "svg": "/molecules/99.svg"
+  },
+  {
+    "id": 100,
+    "smiles": "CN(C(C)=O)C(=O)NCc1nc(-c2ccccc2)cs1",
+    "qed": 0.944,
+    "logP": 2.498,
+    "sas": 2.26,
+    "svg": "/molecules/100.svg"
+  },
+  {
+    "id": 101,
+    "smiles": "CC[C@](C)(NC(=O)[C@H]1COc2ccccc2C1)c1ccncc1",
+    "qed": 0.944,
+    "logP": 3.074,
+    "sas": 3.243,
+    "svg": "/molecules/101.svg"
+  },
+  {
+    "id": 102,
+    "smiles": "Cc1ccc(NC(=O)CN2CCc3ccccc3C2)cc1F",
+    "qed": 0.944,
+    "logP": 3.131,
+    "sas": 1.823,
+    "svg": "/molecules/102.svg"
+  },
+  {
+    "id": 103,
+    "smiles": "C=Cc1ccc(C(=O)Nc2ccc(S(C)(=O)=O)cc2)cc1",
+    "qed": 0.944,
+    "logP": 2.985,
+    "sas": 1.754,
+    "svg": "/molecules/103.svg"
+  },
+  {
+    "id": 104,
+    "smiles": "COc1ccccc1NC(=O)c1ccc(N2CCCC2=O)cc1",
+    "qed": 0.944,
+    "logP": 3.074,
+    "sas": 1.704,
+    "svg": "/molecules/104.svg"
+  },
+  {
+    "id": 105,
+    "smiles": "C[C@H]1CCCCN1C(=O)CCc1c[nH]c2nccc(F)c12",
+    "qed": 0.944,
+    "logP": 3.036,
+    "sas": 2.959,
+    "svg": "/molecules/105.svg"
+  },
+  {
+    "id": 106,
+    "smiles": "[NH3+][C@H](c1ccc(Br)s1)c1nc(C2CC2)no1",
+    "qed": 0.944,
+    "logP": 2.102,
+    "sas": 3.857,
+    "svg": "/molecules/106.svg"
+  },
+  {
+    "id": 107,
+    "smiles": "CC(C)c1nn(C)cc1NC(=O)c1ccc([S@@](C)=O)cc1",
+    "qed": 0.944,
+    "logP": 2.533,
+    "sas": 2.989,
+    "svg": "/molecules/107.svg"
+  },
+  {
+    "id": 108,
+    "smiles": "Nc1ccnn1CC(C)(C)[C@H]1CCCN(c2ccccc2)C1=O",
+    "qed": 0.944,
+    "logP": 2.935,
+    "sas": 3.258,
+    "svg": "/molecules/108.svg"
+  },
+  {
+    "id": 109,
+    "smiles": "COc1cccc([C@@H](O)c2cccc3c2OCOC3(C)C)c1",
+    "qed": 0.944,
+    "logP": 3.379,
+    "sas": 3.065,
+    "svg": "/molecules/109.svg"
+  },
+  {
+    "id": 110,
+    "smiles": "CCNC(=O)c1sccc1-n1cnnc1C1CCCCC1",
+    "qed": 0.944,
+    "logP": 3.126,
+    "sas": 2.635,
+    "svg": "/molecules/110.svg"
+  },
+  {
+    "id": 111,
+    "smiles": "Cn1ccnc1C[C@H]1CC[C@@H](C(=O)NC2CC2)c2ccccc21",
+    "qed": 0.944,
+    "logP": 2.902,
+    "sas": 3.35,
+    "svg": "/molecules/111.svg"
+  },
+  {
+    "id": 112,
+    "smiles": "COc1ccc(C(=O)NC[C@H]2COc3ccccc32)c(C)c1",
+    "qed": 0.944,
+    "logP": 2.91,
+    "sas": 2.555,
+    "svg": "/molecules/112.svg"
+  },
+  {
+    "id": 113,
+    "smiles": "Cc1ccc(-c2nnc(S[C@@H]3CCC[C@H]([NH3+])C3)o2)cc1",
+    "qed": 0.943,
+    "logP": 2.69,
+    "sas": 3.695,
+    "svg": "/molecules/113.svg"
+  },
+  {
+    "id": 114,
+    "smiles": "CN(Cc1cncc(Cl)c1)[C@@H]1CCc2ccc(O)cc2C1",
+    "qed": 0.943,
+    "logP": 3.43,
+    "sas": 2.891,
+    "svg": "/molecules/114.svg"
+  },
+  {
+    "id": 115,
+    "smiles": "O=C(C[C@@H]1Oc2ccccc2C1=O)NCc1ccc(Cl)cc1",
+    "qed": 0.943,
+    "logP": 2.99,
+    "sas": 2.5,
+    "svg": "/molecules/115.svg"
+  },
+  {
+    "id": 116,
+    "smiles": "Cc1ccc(C)c(S(=O)(=O)NCc2cccc(C#N)c2)c1",
+    "qed": 0.943,
+    "logP": 2.654,
+    "sas": 1.946,
+    "svg": "/molecules/116.svg"
+  },
+  {
+    "id": 117,
+    "smiles": "N#Cc1ccoc1CCNC(=O)c1cc2c(s1)CCCC2",
+    "qed": 0.943,
+    "logP": 3.064,
+    "sas": 2.794,
+    "svg": "/molecules/117.svg"
+  },
+  {
+    "id": 118,
+    "smiles": "COc1ccc(NC(=O)C[C@@H]2Cc3ccccc3O2)c(F)c1",
+    "qed": 0.943,
+    "logP": 3.167,
+    "sas": 2.433,
+    "svg": "/molecules/118.svg"
+  },
+  {
+    "id": 119,
+    "smiles": "Cc1ccccc1NC(=O)CN(C)C(=O)c1cscc1C",
+    "qed": 0.943,
+    "logP": 3.076,
+    "sas": 2.2,
+    "svg": "/molecules/119.svg"
+  },
+  {
+    "id": 120,
+    "smiles": "C[C@@H](NC(=O)c1ccc2c(c1)CCC2)c1nc(C(C)(C)C)no1",
+    "qed": 0.943,
+    "logP": 3.347,
+    "sas": 2.779,
+    "svg": "/molecules/120.svg"
+  },
+  {
+    "id": 121,
+    "smiles": "C[C@@H](C(=O)N1CCC[C@H](O)C1)c1ccc(-c2ccccc2)cc1",
+    "qed": 0.943,
+    "logP": 3.44,
+    "sas": 2.635,
+    "svg": "/molecules/121.svg"
+  },
+  {
+    "id": 122,
+    "smiles": "CN1C(=O)CCc2cc(NC(=O)c3ccc(OC)cc3C)ccc21",
+    "qed": 0.943,
+    "logP": 3.165,
+    "sas": 1.998,
+    "svg": "/molecules/122.svg"
+  },
+  {
+    "id": 123,
+    "smiles": "Oc1ccc2c(c1)C(=O)N1CN(C(=O)CCc3ccccc3)C[C@H]21",
+    "qed": 0.943,
+    "logP": 2.322,
+    "sas": 2.883,
+    "svg": "/molecules/123.svg"
+  },
+  {
+    "id": 124,
+    "smiles": "CN(C)c1nc(N2CCCCCC2)c(-c2ccccc2)nc1N",
+    "qed": 0.943,
+    "logP": 3.172,
+    "sas": 2.353,
+    "svg": "/molecules/124.svg"
+  },
+  {
+    "id": 125,
+    "smiles": "C[C@H]1C[C@@H](C)CNC(=O)[C@@H]1CCn1nc(C2CC2)n2cccc21",
+    "qed": 0.943,
+    "logP": 2.812,
+    "sas": 4.292,
+    "svg": "/molecules/125.svg"
+  },
+  {
+    "id": 126,
+    "smiles": "C[C@H]1CCC[C@H](NC(=O)c2cccc(-n3cccn3)c2)[C@@H]1C",
+    "qed": 0.943,
+    "logP": 3.427,
+    "sas": 3.038,
+    "svg": "/molecules/126.svg"
+  },
+  {
+    "id": 127,
+    "smiles": "C[C@@H](C(=O)Nc1ccc(C(=O)[O-])cc1)c1ccc(Cl)s1",
+    "qed": 0.943,
+    "logP": 2.507,
+    "sas": 3.017,
+    "svg": "/molecules/127.svg"
+  },
+  {
+    "id": 128,
+    "smiles": "Clc1cc(C(F)(F)F)nn1-c1ccccc1CCO",
+    "qed": 0.943,
+    "logP": 3.079,
+    "sas": 2.481,
+    "svg": "/molecules/128.svg"
+  },
+  {
+    "id": 129,
+    "smiles": "Cc1nn(C)c(C)c1NC(=O)[C@@H]1C[C@H]1c1ccccc1F",
+    "qed": 0.943,
+    "logP": 2.918,
+    "sas": 2.899,
+    "svg": "/molecules/129.svg"
+  },
+  {
+    "id": 130,
+    "smiles": "CC(C)(C)c1nc(C[NH2+][C@@H](C)c2ccc(Cl)cc2)no1",
+    "qed": 0.943,
+    "logP": 2.845,
+    "sas": 3.739,
+    "svg": "/molecules/130.svg"
+  },
+  {
+    "id": 131,
+    "smiles": "C[C@H]1Cc2ccccc2N1C(=O)CCNC(=O)c1cccs1",
+    "qed": 0.943,
+    "logP": 2.846,
+    "sas": 2.544,
+    "svg": "/molecules/131.svg"
+  },
+  {
+    "id": 132,
+    "smiles": "CC(C)[C@@H](NC(=O)[C@H]1OCCc2ccccc21)c1ccncc1",
+    "qed": 0.943,
+    "logP": 3.209,
+    "sas": 3.144,
+    "svg": "/molecules/132.svg"
+  },
+  {
+    "id": 133,
+    "smiles": "CCNc1snc(C2CCN(C(=O)c3cccs3)C2)n1",
+    "qed": 0.943,
+    "logP": 2.661,
+    "sas": 3.04,
+    "svg": "/molecules/133.svg"
+  },
+  {
+    "id": 134,
+    "smiles": "COc1cc(Cl)c(C)cc1NC(=O)c1ccncc1F",
+    "qed": 0.943,
+    "logP": 3.443,
+    "sas": 1.999,
+    "svg": "/molecules/134.svg"
+  },
+  {
+    "id": 135,
+    "smiles": "COc1ccc(CNC(=O)c2ccc(Cl)cc2C#N)s1",
+    "qed": 0.943,
+    "logP": 3.212,
+    "sas": 2.428,
+    "svg": "/molecules/135.svg"
+  },
+  {
+    "id": 136,
+    "smiles": "C[C@H]1CC[C@H](C)[NH+]1Cc1nc(-c2cccc(C(F)(F)F)c2)no1",
+    "qed": 0.943,
+    "logP": 2.711,
+    "sas": 4.12,
+    "svg": "/molecules/136.svg"
+  },
+  {
+    "id": 137,
+    "smiles": "COc1cccc(Nc2cc(C#N)c(Br)cn2)c1",
+    "qed": 0.943,
+    "logP": 3.468,
+    "sas": 2.259,
+    "svg": "/molecules/137.svg"
+  },
+  {
+    "id": 138,
+    "smiles": "C[C@H](O)CN(C(=O)c1nccs1)c1ccc(F)c(F)c1",
+    "qed": 0.943,
+    "logP": 2.449,
+    "sas": 3.136,
+    "svg": "/molecules/138.svg"
+  },
+  {
+    "id": 139,
+    "smiles": "Cc1cccc(C)c1NC(=O)Cn1nc(C(F)(F)F)ccc1=O",
+    "qed": 0.943,
+    "logP": 2.518,
+    "sas": 2.142,
+    "svg": "/molecules/139.svg"
+  },
+  {
+    "id": 140,
+    "smiles": "C[C@H]([NH2+][C@@H]1CCCCCCO1)c1nc(C)n(-c2ccccc2)n1",
+    "qed": 0.943,
+    "logP": 2.507,
+    "sas": 3.919,
+    "svg": "/molecules/140.svg"
+  },
+  {
+    "id": 141,
+    "smiles": "Cc1cc(C(C)C)nc([C@H]([NH3+])C2(n3cccn3)CCCCC2)n1",
+    "qed": 0.943,
+    "logP": 2.748,
+    "sas": 4.048,
+    "svg": "/molecules/141.svg"
+  },
+  {
+    "id": 142,
+    "smiles": "CC(C)C[C@@H](NC(=O)c1cccc2ccnn12)C(F)(F)F",
+    "qed": 0.943,
+    "logP": 3.041,
+    "sas": 3.303,
+    "svg": "/molecules/142.svg"
+  },
+  {
+    "id": 143,
+    "smiles": "Cc1nc(CCC(=O)Nc2nc3c(s2)CCC3)c(C)s1",
+    "qed": 0.943,
+    "logP": 3.276,
+    "sas": 2.545,
+    "svg": "/molecules/143.svg"
+  },
+  {
+    "id": 144,
+    "smiles": "Cn1c(C[C@H]2CCC[C@@H]2[NH3+])nnc1-c1ccc(Cl)cc1Cl",
+    "qed": 0.943,
+    "logP": 2.742,
+    "sas": 3.711,
+    "svg": "/molecules/144.svg"
+  },
+  {
+    "id": 145,
+    "smiles": "Cc1ccc(NC(=O)[C@@H]2CC(=O)N(Cc3cccs3)C2)cc1",
+    "qed": 0.943,
+    "logP": 3.044,
+    "sas": 2.414,
+    "svg": "/molecules/145.svg"
+  },
+  {
+    "id": 146,
+    "smiles": "Cc1ccc(NC(=O)[C@@H]2CC(=O)N(Cc3ccccc3)C2)s1",
+    "qed": 0.943,
+    "logP": 3.044,
+    "sas": 2.59,
+    "svg": "/molecules/146.svg"
+  },
+  {
+    "id": 147,
+    "smiles": "O=C(CN1CCc2ccc(F)cc2O1)Nc1ccccc1",
+    "qed": 0.943,
+    "logP": 2.616,
+    "sas": 2.398,
+    "svg": "/molecules/147.svg"
+  },
+  {
+    "id": 148,
+    "smiles": "Cc1nc(CNC(=O)[C@H]2COc3ccccc3C2)cs1",
+    "qed": 0.943,
+    "logP": 2.319,
+    "sas": 2.656,
+    "svg": "/molecules/148.svg"
+  },
+  {
+    "id": 149,
+    "smiles": "CC(C)(C)N1CC[C@H](NCc2ccn(-c3ccccc3)n2)C1=O",
+    "qed": 0.943,
+    "logP": 2.361,
+    "sas": 2.968,
+    "svg": "/molecules/149.svg"
+  },
+  {
+    "id": 150,
+    "smiles": "CCc1ccccc1NC(=O)C[C@H]1S(=O)(=O)c2ccccc21",
+    "qed": 0.943,
+    "logP": 3.106,
+    "sas": 2.886,
+    "svg": "/molecules/150.svg"
+  },
+  {
+    "id": 151,
+    "smiles": "COc1cccc(CNC(=O)c2ccc3c(c2)OCO3)c1F",
+    "qed": 0.943,
+    "logP": 2.493,
+    "sas": 1.963,
+    "svg": "/molecules/151.svg"
+  },
+  {
+    "id": 152,
+    "smiles": "Cc1ccc([C@@H](C)NC(=O)c2ccc3c(c2)OCO3)cc1C",
+    "qed": 0.943,
+    "logP": 3.523,
+    "sas": 2.303,
+    "svg": "/molecules/152.svg"
+  },
+  {
+    "id": 153,
+    "smiles": "Cc1cccc(NC(=O)CN(C)C(=O)c2ccccc2)c1C",
+    "qed": 0.943,
+    "logP": 3.014,
+    "sas": 1.674,
+    "svg": "/molecules/153.svg"
+  },
+  {
+    "id": 154,
+    "smiles": "Cc1cc2c(cc1C)O[C@@H](C(=O)N[C@H](C)c1ccco1)C2",
+    "qed": 0.943,
+    "logP": 3.077,
+    "sas": 3.071,
+    "svg": "/molecules/154.svg"
+  },
+  {
+    "id": 155,
+    "smiles": "Cc1cccc(NC(=O)[C@@H](C)Oc2ccc3c(c2)OCC3=O)c1",
+    "qed": 0.943,
+    "logP": 2.976,
+    "sas": 2.508,
+    "svg": "/molecules/155.svg"
+  },
+  {
+    "id": 156,
+    "smiles": "COc1ccc(NC(=O)Cn2nc(C(F)(F)F)cc2C)s1",
+    "qed": 0.943,
+    "logP": 2.919,
+    "sas": 2.735,
+    "svg": "/molecules/156.svg"
+  },
+  {
+    "id": 157,
+    "smiles": "CCn1c(C(=O)N2CCCC[C@@H]2CO)cc2ccccc21",
+    "qed": 0.943,
+    "logP": 2.648,
+    "sas": 2.588,
+    "svg": "/molecules/157.svg"
+  },
+  {
+    "id": 158,
+    "smiles": "COc1ccccc1CNC(=O)C1C[C@@H](C)Oc2ccccc21",
+    "qed": 0.943,
+    "logP": 3.266,
+    "sas": 2.835,
+    "svg": "/molecules/158.svg"
+  },
+  {
+    "id": 159,
+    "smiles": "CO[C@H]1CCCC[C@H]1NC(=O)c1ccc2ccccc2n1",
+    "qed": 0.943,
+    "logP": 2.922,
+    "sas": 2.745,
+    "svg": "/molecules/159.svg"
+  },
+  {
+    "id": 160,
+    "smiles": "O=C(Nc1ccc([C@H]2CCCCN2C(=O)[O-])o1)c1ccccc1",
+    "qed": 0.943,
+    "logP": 2.402,
+    "sas": 3.088,
+    "svg": "/molecules/160.svg"
+  },
+  {
+    "id": 161,
+    "smiles": "C[C@@H]1C[C@H]1NC(=O)N(C)[C@H](C)c1cnc2ccccc2n1",
+    "qed": 0.942,
+    "logP": 2.741,
+    "sas": 3.395,
+    "svg": "/molecules/161.svg"
+  },
+  {
+    "id": 162,
+    "smiles": "COc1ccc2c(C)c(C(=O)N[C@H](C)C3CC3)c(=O)sc2c1",
+    "qed": 0.942,
+    "logP": 3.107,
+    "sas": 2.92,
+    "svg": "/molecules/162.svg"
+  },
+  {
+    "id": 163,
+    "smiles": "Cc1nc(NCc2cc(F)cc(Br)c2)cn1C",
+    "qed": 0.942,
+    "logP": 3.242,
+    "sas": 2.494,
+    "svg": "/molecules/163.svg"
+  },
+  {
+    "id": 164,
+    "smiles": "C[C@H](c1cccnc1)N(C)C(=O)NCc1ccc2c(c1)OCO2",
+    "qed": 0.942,
+    "logP": 2.713,
+    "sas": 2.665,
+    "svg": "/molecules/164.svg"
+  },
+  {
+    "id": 165,
+    "smiles": "Cc1ccc(N2N=C(C(=O)Nc3nccs3)C(=O)[C@@H]2C)cc1",
+    "qed": 0.942,
+    "logP": 2.224,
+    "sas": 3.197,
+    "svg": "/molecules/165.svg"
+  },
+  {
+    "id": 166,
+    "smiles": "NC(=O)c1ccc(N2CCC[C@@H]2Cn2cccn2)cc1Cl",
+    "qed": 0.942,
+    "logP": 2.304,
+    "sas": 2.839,
+    "svg": "/molecules/166.svg"
+  },
+  {
+    "id": 167,
+    "smiles": "COc1ccc(NC(=O)CN2CCCc3ccccc32)cc1",
+    "qed": 0.942,
+    "logP": 3.087,
+    "sas": 1.717,
+    "svg": "/molecules/167.svg"
+  },
+  {
+    "id": 168,
+    "smiles": "O=C(c1ccc(O)cc1)N(Cc1ccccn1)C1CCOCC1",
+    "qed": 0.942,
+    "logP": 2.609,
+    "sas": 2.165,
+    "svg": "/molecules/168.svg"
+  },
+  {
+    "id": 169,
+    "smiles": "CC(C)([C@@]1(O)CCN(c2ccc(C#N)cc2)CC1)c1ccncc1",
+    "qed": 0.942,
+    "logP": 3.262,
+    "sas": 2.743,
+    "svg": "/molecules/169.svg"
+  },
+  {
+    "id": 170,
+    "smiles": "N#Cc1cc(F)cc(C[NH2+][C@H]2CCCN(c3ccccc3)C2)c1",
+    "qed": 0.942,
+    "logP": 2.43,
+    "sas": 3.518,
+    "svg": "/molecules/170.svg"
+  },
+  {
+    "id": 171,
+    "smiles": "O=C(N[C@@H]1C[C@@H]1c1ccc(F)cc1)c1cccc([S@](C)=O)c1",
+    "qed": 0.942,
+    "logP": 2.849,
+    "sas": 3.156,
+    "svg": "/molecules/171.svg"
+  },
+  {
+    "id": 172,
+    "smiles": "CS[C@@H]1CCC[C@@H]1NC(=O)c1ccn(-c2ccccc2C)n1",
+    "qed": 0.942,
+    "logP": 3.195,
+    "sas": 3.207,
+    "svg": "/molecules/172.svg"
+  },
+  {
+    "id": 173,
+    "smiles": "FC(F)(F)c1csc(CCNC(=O)c2ccsc2)n1",
+    "qed": 0.942,
+    "logP": 3.196,
+    "sas": 2.481,
+    "svg": "/molecules/173.svg"
+  },
+  {
+    "id": 174,
+    "smiles": "O=C(Nc1ccc(F)cc1)c1ccc(CN2CCCC2=O)cc1",
+    "qed": 0.942,
+    "logP": 3.2,
+    "sas": 1.705,
+    "svg": "/molecules/174.svg"
+  },
+  {
+    "id": 175,
+    "smiles": "CCOc1ccc(Cl)c(NC(=O)c2c(C)nn(C)c2C)c1",
+    "qed": 0.942,
+    "logP": 3.341,
+    "sas": 1.987,
+    "svg": "/molecules/175.svg"
+  },
+  {
+    "id": 176,
+    "smiles": "COc1ccc(N2/C(=N/C(=O)c3ccccc3)CCC(=O)N2)cc1",
+    "qed": 0.942,
+    "logP": 2.566,
+    "sas": 2.438,
+    "svg": "/molecules/176.svg"
+  },
+  {
+    "id": 177,
+    "smiles": "Cc1nc(C)c(C(=O)N[C@@H](C)c2ccc(N(C)C)cc2)s1",
+    "qed": 0.942,
+    "logP": 3.317,
+    "sas": 2.51,
+    "svg": "/molecules/177.svg"
+  },
+  {
+    "id": 178,
+    "smiles": "Cc1nn(CCNC(=O)c2ccc(F)cc2)c(Cl)c1Cl",
+    "qed": 0.942,
+    "logP": 3.067,
+    "sas": 2.043,
+    "svg": "/molecules/178.svg"
+  },
+  {
+    "id": 179,
+    "smiles": "CCC1CC(C(=O)Nc2cc(C)nn2-c2ccc(C)nc2)C1",
+    "qed": 0.942,
+    "logP": 3.259,
+    "sas": 2.453,
+    "svg": "/molecules/179.svg"
+  },
+  {
+    "id": 180,
+    "smiles": "CC(=O)Nc1cc(CN(C)C(=O)c2cccs2)c(C)o1",
+    "qed": 0.942,
+    "logP": 2.88,
+    "sas": 2.611,
+    "svg": "/molecules/180.svg"
+  },
+  {
+    "id": 181,
+    "smiles": "N#Cc1c(NCc2ccco2)c(C#N)sc1Br",
+    "qed": 0.942,
+    "logP": 3.459,
+    "sas": 3.11,
+    "svg": "/molecules/181.svg"
+  },
+  {
+    "id": 182,
+    "smiles": "Cc1ccc2c(c1)nc(CC(=O)Nc1nccs1)C2=O",
+    "qed": 0.942,
+    "logP": 2.749,
+    "sas": 2.722,
+    "svg": "/molecules/182.svg"
+  },
+  {
+    "id": 183,
+    "smiles": "Cc1cc2nc(C)c(C#N)c(C(=O)NC[C@@H]3CCCO3)c2cc1C",
+    "qed": 0.942,
+    "logP": 2.941,
+    "sas": 2.96,
+    "svg": "/molecules/183.svg"
+  },
+  {
+    "id": 184,
+    "smiles": "C[C@H](NS(=O)(=O)c1ccc2c(c1)OCO2)c1ccsc1",
+    "qed": 0.942,
+    "logP": 2.516,
+    "sas": 2.682,
+    "svg": "/molecules/184.svg"
+  },
+  {
+    "id": 185,
+    "smiles": "C[NH2+][C@@H](c1cccc(Cl)c1)[C@@H]1COc2ccccc2O1",
+    "qed": 0.942,
+    "logP": 2.414,
+    "sas": 3.65,
+    "svg": "/molecules/185.svg"
+  },
+  {
+    "id": 186,
+    "smiles": "C[C@@H](NC(=O)Cc1ccccc1F)[C@@H]1COc2ccccc21",
+    "qed": 0.942,
+    "logP": 3.049,
+    "sas": 2.941,
+    "svg": "/molecules/186.svg"
+  },
+  {
+    "id": 187,
+    "smiles": "COc1occc1C(=O)Nc1cc(C(F)(F)F)ccc1C#N",
+    "qed": 0.942,
+    "logP": 3.431,
+    "sas": 2.593,
+    "svg": "/molecules/187.svg"
+  },
+  {
+    "id": 188,
+    "smiles": "CCc1ccc([N-]S(=O)(=O)c2cc(Cl)c[nH]c2=O)cc1",
+    "qed": 0.942,
+    "logP": 2.985,
+    "sas": 3.445,
+    "svg": "/molecules/188.svg"
+  },
+  {
+    "id": 189,
+    "smiles": "Cc1c(C(=O)N2CCC[C@@H]2C(=O)Nc2ccccc2)cnn1C",
+    "qed": 0.942,
+    "logP": 1.972,
+    "sas": 2.416,
+    "svg": "/molecules/189.svg"
+  },
+  {
+    "id": 190,
+    "smiles": "CCOc1ccc(C(=O)NN2C=Cc3ccccc3O2)cc1",
+    "qed": 0.942,
+    "logP": 3.01,
+    "sas": 2.59,
+    "svg": "/molecules/190.svg"
+  },
+  {
+    "id": 191,
+    "smiles": "COc1ccc(CN2CCc3c(cccc3C(N)=O)C2)cc1",
+    "qed": 0.942,
+    "logP": 2.352,
+    "sas": 1.923,
+    "svg": "/molecules/191.svg"
+  },
+  {
+    "id": 192,
+    "smiles": "Cc1ncccc1[C@@H](C)NC(=O)c1cnc(N2CCCC2)s1",
+    "qed": 0.942,
+    "logP": 2.938,
+    "sas": 2.891,
+    "svg": "/molecules/192.svg"
+  },
+  {
+    "id": 193,
+    "smiles": "CC(C)Oc1ccc(NC(=O)c2c(C)nn(C)c2F)cc1",
+    "qed": 0.942,
+    "logP": 2.907,
+    "sas": 2.111,
+    "svg": "/molecules/193.svg"
+  },
+  {
+    "id": 194,
+    "smiles": "CC(C)c1cc(C(=O)Nc2ncccc2C(F)(F)F)on1",
+    "qed": 0.942,
+    "logP": 3.464,
+    "sas": 2.509,
+    "svg": "/molecules/194.svg"
+  },
+  {
+    "id": 195,
+    "smiles": "CC[C@H]([NH3+])c1nc(-c2ccc3c(c2)OCCCO3)oc1C",
+    "qed": 0.942,
+    "logP": 2.504,
+    "sas": 3.462,
+    "svg": "/molecules/195.svg"
+  },
+  {
+    "id": 196,
+    "smiles": "CNC(=O)c1cccc(C(=O)N(C)c2ccccc2F)c1",
+    "qed": 0.942,
+    "logP": 2.462,
+    "sas": 1.885,
+    "svg": "/molecules/196.svg"
+  },
+  {
+    "id": 197,
+    "smiles": "Cc1ccc(C(=O)N[C@@H](C)c2cccc(Cl)c2)c(C(=O)[O-])c1",
+    "qed": 0.942,
+    "logP": 2.503,
+    "sas": 2.699,
+    "svg": "/molecules/197.svg"
+  },
+  {
+    "id": 198,
+    "smiles": "Oc1cc(CN2CCOCC2)ccc1Oc1ccc(F)cc1",
+    "qed": 0.942,
+    "logP": 3.156,
+    "sas": 1.892,
+    "svg": "/molecules/198.svg"
+  },
+  {
+    "id": 199,
+    "smiles": "Cc1csc(CNS(=O)(=O)c2ccc(F)cc2F)n1",
+    "qed": 0.942,
+    "logP": 2.208,
+    "sas": 2.225,
+    "svg": "/molecules/199.svg"
+  },
+  {
+    "id": 200,
+    "smiles": "Cc1cc(F)cc(S(=O)(=O)Nc2ccc(C#N)c(C#N)c2)c1",
+    "qed": 0.942,
+    "logP": 2.678,
+    "sas": 2.36,
+    "svg": "/molecules/200.svg"
+  },
+  {
+    "id": 201,
+    "smiles": "C[C@@]1([C@@H](CC(N)=O)c2ccccc2)COCc2ccccc21",
+    "qed": 0.942,
+    "logP": 3.134,
+    "sas": 3.312,
+    "svg": "/molecules/201.svg"
+  },
+  {
+    "id": 202,
+    "smiles": "CCOc1ccc([C@@H]2CSCCN2C(=O)c2c[nH]cn2)cc1",
+    "qed": 0.942,
+    "logP": 2.739,
+    "sas": 3.135,
+    "svg": "/molecules/202.svg"
+  },
+  {
+    "id": 203,
+    "smiles": "CCc1c(C)nc(C)n1-c1ccc(C(=O)N[C@@H]2C[C@@H]2C)cc1",
+    "qed": 0.942,
+    "logP": 3.19,
+    "sas": 3.059,
+    "svg": "/molecules/203.svg"
+  },
+  {
+    "id": 204,
+    "smiles": "OC[C@@H]1c2ccccc2SC(=O)N1Cc1cccc(F)c1",
+    "qed": 0.942,
+    "logP": 3.587,
+    "sas": 2.952,
+    "svg": "/molecules/204.svg"
+  },
+  {
+    "id": 205,
+    "smiles": "Cc1cc(C)c(C)c(N(Cc2ccco2)[NH+]2CCCCCC2)n1",
+    "qed": 0.942,
+    "logP": 2.98,
+    "sas": 3.668,
+    "svg": "/molecules/205.svg"
+  },
+  {
+    "id": 206,
+    "smiles": "Cc1cccc(C(=O)N[C@@H]2CN(Cc3ccccn3)CC2)c1",
+    "qed": 0.942,
+    "logP": 2.394,
+    "sas": 2.315,
+    "svg": "/molecules/206.svg"
+  },
+  {
+    "id": 207,
+    "smiles": "C=CS(=O)(=O)[C@@H]1CCN(C(=O)c2c[nH]c3ccccc23)C1",
+    "qed": 0.942,
+    "logP": 1.941,
+    "sas": 3.055,
+    "svg": "/molecules/207.svg"
+  },
+  {
+    "id": 208,
+    "smiles": "Cc1cc(C(=O)NC[C@H]2Cc3ccccc3O2)sc1C",
+    "qed": 0.942,
+    "logP": 3.098,
+    "sas": 2.66,
+    "svg": "/molecules/208.svg"
+  },
+  {
+    "id": 209,
+    "smiles": "Cc1nn(CC(=O)Nc2ccc(Cl)cc2Cl)c(C#N)c1C",
+    "qed": 0.942,
+    "logP": 3.317,
+    "sas": 2.389,
+    "svg": "/molecules/209.svg"
+  },
+  {
+    "id": 210,
+    "smiles": "Nc1cnc2ccccc2c1CN(C)C(=O)C1CCCC1",
+    "qed": 0.942,
+    "logP": 2.966,
+    "sas": 2.281,
+    "svg": "/molecules/210.svg"
+  },
+  {
+    "id": 211,
+    "smiles": "COc1ccc(CCC(=O)N2CCNc3cccnc32)cc1",
+    "qed": 0.942,
+    "logP": 2.482,
+    "sas": 2.263,
+    "svg": "/molecules/211.svg"
+  },
+  {
+    "id": 212,
+    "smiles": "Cc1ccc(S(=O)(=O)N[C@H](C)c2cccc(C#N)c2)cc1C",
+    "qed": 0.942,
+    "logP": 3.215,
+    "sas": 2.44,
+    "svg": "/molecules/212.svg"
+  },
+  {
+    "id": 213,
+    "smiles": "N#Cc1ccc(Sc2ccccc2)cc1N1C(=O)NC[C@@H]1C",
+    "qed": 0.942,
+    "logP": 3.628,
+    "sas": 3.145,
+    "svg": "/molecules/213.svg"
+  },
+  {
+    "id": 214,
+    "smiles": "Cc1ccsc1[C@H](C)NC(=O)Cc1ccc(C#N)c(C#N)c1",
+    "qed": 0.942,
+    "logP": 3.22,
+    "sas": 2.935,
+    "svg": "/molecules/214.svg"
+  },
+  {
+    "id": 215,
+    "smiles": "CN(Cc1ccc(C#N)cc1)C(=O)N[C@@H]1CCCn2nccc2C1",
+    "qed": 0.942,
+    "logP": 2.301,
+    "sas": 3.137,
+    "svg": "/molecules/215.svg"
+  },
+  {
+    "id": 216,
+    "smiles": "C[C@H](Oc1ccccc1F)C(=O)Nc1ccc2c(c1)OCCO2",
+    "qed": 0.942,
+    "logP": 3.003,
+    "sas": 2.346,
+    "svg": "/molecules/216.svg"
+  },
+  {
+    "id": 217,
+    "smiles": "C[C@@H](Oc1ccc(F)cc1)C(=O)Nc1ccc2c(c1)OCCO2",
+    "qed": 0.942,
+    "logP": 3.003,
+    "sas": 2.288,
+    "svg": "/molecules/217.svg"
+  },
+  {
+    "id": 218,
+    "smiles": "CC(C)(C)[C@@H](C(=O)N1CCc2cccnc21)[C@@H](O)c1ccccc1",
+    "qed": 0.942,
+    "logP": 3.367,
+    "sas": 3.286,
+    "svg": "/molecules/218.svg"
+  },
+  {
+    "id": 219,
+    "smiles": "CCCC(=O)NC1CN(C(=O)c2cc3cc(F)ccc3s2)C1",
+    "qed": 0.942,
+    "logP": 2.781,
+    "sas": 2.31,
+    "svg": "/molecules/219.svg"
+  },
+  {
+    "id": 220,
+    "smiles": "Cc1nc(Cl)sc1CNC(=O)CN1CCc2ccccc21",
+    "qed": 0.942,
+    "logP": 2.784,
+    "sas": 2.392,
+    "svg": "/molecules/220.svg"
+  },
+  {
+    "id": 221,
+    "smiles": "COc1cc(C)ccc1[C@H]([NH2+]C)[C@]1(C)Oc2ccccc2C1",
+    "qed": 0.942,
+    "logP": 2.632,
+    "sas": 3.84,
+    "svg": "/molecules/221.svg"
+  },
+  {
+    "id": 222,
+    "smiles": "C[C@@]1(c2nnc(NC(=O)c3ccc(F)cc3Cl)o2)COC1",
+    "qed": 0.942,
+    "logP": 2.402,
+    "sas": 2.751,
+    "svg": "/molecules/222.svg"
+  },
+  {
+    "id": 223,
+    "smiles": "CC(C)c1nc(C(=O)Nc2ccc(C(=O)N(C)C)cc2)cs1",
+    "qed": 0.942,
+    "logP": 3.221,
+    "sas": 2.028,
+    "svg": "/molecules/223.svg"
+  },
+  {
+    "id": 224,
+    "smiles": "Cc1ccc(C)c(OCC(=O)Nc2nc3c(s2)COCC3)c1",
+    "qed": 0.941,
+    "logP": 2.85,
+    "sas": 2.396,
+    "svg": "/molecules/224.svg"
+  },
+  {
+    "id": 225,
+    "smiles": "Cc1ncc(CNC(=O)N2CCCCC[C@H]2c2ccncc2)cn1",
+    "qed": 0.941,
+    "logP": 3.007,
+    "sas": 2.798,
+    "svg": "/molecules/225.svg"
+  },
+  {
+    "id": 226,
+    "smiles": "CC[C@H](C(=O)N1CCc2ccccc21)c1ccncc1O",
+    "qed": 0.941,
+    "logP": 2.87,
+    "sas": 2.902,
+    "svg": "/molecules/226.svg"
+  },
+  {
+    "id": 227,
+    "smiles": "COC[C@@H](C)N1C(=O)c2ccccc2N[C@@H]1c1cccs1",
+    "qed": 0.941,
+    "logP": 3.35,
+    "sas": 3.241,
+    "svg": "/molecules/227.svg"
+  },
+  {
+    "id": 228,
+    "smiles": "CC(C)[C@H](C)Nc1cc(=O)n(-c2ccccc2)c(C#N)cc1=O",
+    "qed": 0.941,
+    "logP": 2.526,
+    "sas": 3.083,
+    "svg": "/molecules/228.svg"
+  },
+  {
+    "id": 229,
+    "smiles": "Cc1ccc(C)c(NC(=O)COc2ccc(C#N)c(F)c2)c1",
+    "qed": 0.941,
+    "logP": 3.332,
+    "sas": 1.911,
+    "svg": "/molecules/229.svg"
+  },
+  {
+    "id": 230,
+    "smiles": "Cc1cccc(OCC(=O)Nc2ccc(F)c(C#N)c2)c1C",
+    "qed": 0.941,
+    "logP": 3.332,
+    "sas": 1.945,
+    "svg": "/molecules/230.svg"
+  },
+  {
+    "id": 231,
+    "smiles": "COc1ccc(CNC(=O)c2cc(C#N)cs2)cc1F",
+    "qed": 0.941,
+    "logP": 2.697,
+    "sas": 2.217,
+    "svg": "/molecules/231.svg"
+  },
+  {
+    "id": 232,
+    "smiles": "Cc1nn(-c2ccccc2)c(C)c1S(=O)(=O)N[C@H]1C[C@@H]1C",
+    "qed": 0.941,
+    "logP": 2.176,
+    "sas": 2.915,
+    "svg": "/molecules/232.svg"
+  },
+  {
+    "id": 233,
+    "smiles": "O=C(NCc1cccnc1[O-])c1ccc(Cl)c(C(F)(F)F)c1",
+    "qed": 0.941,
+    "logP": 2.757,
+    "sas": 2.534,
+    "svg": "/molecules/233.svg"
+  },
+  {
+    "id": 234,
+    "smiles": "COc1ccc(S(=O)(=O)Nc2cc(C)cc(C)c2)cc1",
+    "qed": 0.941,
+    "logP": 3.113,
+    "sas": 1.679,
+    "svg": "/molecules/234.svg"
+  },
+  {
+    "id": 235,
+    "smiles": "N#C[C@@H](C(=O)Nc1ccc2c(c1)OCO2)c1cccs1",
+    "qed": 0.941,
+    "logP": 2.723,
+    "sas": 2.796,
+    "svg": "/molecules/235.svg"
+  },
+  {
+    "id": 236,
+    "smiles": "Cc1cncc(N[C@H](C(=O)[O-])[C@@H]2CCCc3ccccc32)c1C",
+    "qed": 0.941,
+    "logP": 2.349,
+    "sas": 3.613,
+    "svg": "/molecules/236.svg"
+  },
+  {
+    "id": 237,
+    "smiles": "CCc1ccc(CNC(=O)c2ccc(C#N)c(F)c2)cc1F",
+    "qed": 0.941,
+    "logP": 3.329,
+    "sas": 2.036,
+    "svg": "/molecules/237.svg"
+  },
+  {
+    "id": 238,
+    "smiles": "COc1cccc(C(=O)Nc2cncc(N3CCCC3=O)c2)c1",
+    "qed": 0.941,
+    "logP": 2.469,
+    "sas": 2.05,
+    "svg": "/molecules/238.svg"
+  },
+  {
+    "id": 239,
+    "smiles": "Cc1nc(CC/C2nc3ccccc3c2O)ccc1Cl",
+    "qed": 0.941,
+    "logP": 2.344,
+    "sas": 3.481,
+    "svg": "/molecules/239.svg"
+  },
+  {
+    "id": 240,
+    "smiles": "C[C@H]1CCC[C@H](C(=O)NCc2csc(-c3ccon3)n2)C1",
+    "qed": 0.941,
+    "logP": 3.241,
+    "sas": 3.347,
+    "svg": "/molecules/240.svg"
+  },
+  {
+    "id": 241,
+    "smiles": "Cc1cc(NCc2sccc2Br)nc[nH+]1",
+    "qed": 0.941,
+    "logP": 2.64,
+    "sas": 3.856,
+    "svg": "/molecules/241.svg"
+  },
+  {
+    "id": 242,
+    "smiles": "C[C@@H]1CCC[C@H]([NH+](C)Cc2nnc(-c3cccs3)s2)C1",
+    "qed": 0.941,
+    "logP": 2.86,
+    "sas": 4.537,
+    "svg": "/molecules/242.svg"
+  },
+  {
+    "id": 243,
+    "smiles": "CN(C)C(=O)c1ccc(NCc2cnc(C(C)(C)C)o2)cc1",
+    "qed": 0.941,
+    "logP": 3.286,
+    "sas": 2.401,
+    "svg": "/molecules/243.svg"
+  },
+  {
+    "id": 244,
+    "smiles": "COc1ccnc(NC(=O)C2c3ccccc3C[C@@H]2C)c1",
+    "qed": 0.941,
+    "logP": 3.005,
+    "sas": 2.944,
+    "svg": "/molecules/244.svg"
+  },
+  {
+    "id": 245,
+    "smiles": "CN(C)C(=O)c1ccc(NC(=O)N(C)Cc2ccoc2C)o1",
+    "qed": 0.941,
+    "logP": 2.547,
+    "sas": 2.74,
+    "svg": "/molecules/245.svg"
+  },
+  {
+    "id": 246,
+    "smiles": "O=C(Nc1ccccc1Cl)[C@H]1CCCN(c2ccccn2)C1",
+    "qed": 0.941,
+    "logP": 3.59,
+    "sas": 2.278,
+    "svg": "/molecules/246.svg"
+  },
+  {
+    "id": 247,
+    "smiles": "O=C(c1ccnc(N2CCCC2)c1)N1CCC(c2ncc[nH]2)CC1",
+    "qed": 0.941,
+    "logP": 2.425,
+    "sas": 2.436,
+    "svg": "/molecules/247.svg"
+  },
+  {
+    "id": 248,
+    "smiles": "COc1ccc(N2C[C@@H](c3cc(O)cc(Cl)c3)CC2=O)cc1",
+    "qed": 0.941,
+    "logP": 3.575,
+    "sas": 2.561,
+    "svg": "/molecules/248.svg"
+  },
+  {
+    "id": 249,
+    "smiles": "O=C1C=C(c2csc(NC(=O)c3ccccc3Cl)n2)N=N1",
+    "qed": 0.941,
+    "logP": 3.382,
+    "sas": 2.683,
+    "svg": "/molecules/249.svg"
+  },
+  {
+    "id": 250,
+    "smiles": "C[C@H](C(=O)Nc1nncs1)c1ccc2c(c1)N(C)CC2",
+    "qed": 0.941,
+    "logP": 2.273,
+    "sas": 3.012,
+    "svg": "/molecules/250.svg"
+  },
+  {
+    "id": 251,
+    "smiles": "CCN(Cc1nc(C)cs1)C(=O)Nc1ccnc(C#N)c1",
+    "qed": 0.941,
+    "logP": 2.772,
+    "sas": 2.558,
+    "svg": "/molecules/251.svg"
+  },
+  {
+    "id": 252,
+    "smiles": "Cc1ccc(C(=O)N[C@H](C)Cc2c(C)noc2C)cc1F",
+    "qed": 0.941,
+    "logP": 3.1,
+    "sas": 2.576,
+    "svg": "/molecules/252.svg"
+  },
+  {
+    "id": 253,
+    "smiles": "Cc1nc2c(cc1NC(=O)N(C)Cc1ccccc1)CCC2",
+    "qed": 0.941,
+    "logP": 3.543,
+    "sas": 2.185,
+    "svg": "/molecules/253.svg"
+  },
+  {
+    "id": 254,
+    "smiles": "Cc1cscc1CNC(=O)Cc1ccc2c(c1)OCO2",
+    "qed": 0.941,
+    "logP": 2.644,
+    "sas": 2.372,
+    "svg": "/molecules/254.svg"
+  },
+  {
+    "id": 255,
+    "smiles": "O=C(c1ccncc1)N1CCC[C@@H]1c1cccc(CO)c1",
+    "qed": 0.941,
+    "logP": 2.551,
+    "sas": 2.473,
+    "svg": "/molecules/255.svg"
+  },
+  {
+    "id": 256,
+    "smiles": "CC(=O)N1CC[C@@H](C(=O)Nc2ccc(-c3nccn3C)cc2)C1",
+    "qed": 0.941,
+    "logP": 1.894,
+    "sas": 2.52,
+    "svg": "/molecules/256.svg"
+  },
+  {
+    "id": 257,
+    "smiles": "O=C(Cc1ccc2nc[nH]c2c1)[C@@H]1CCCN1C1CCOCC1",
+    "qed": 0.941,
+    "logP": 2.318,
+    "sas": 3.125,
+    "svg": "/molecules/257.svg"
+  },
+  {
+    "id": 258,
+    "smiles": "C[C@H]1C[C@@H]1C(=O)Nc1cc(-c2nnnn2C2CC2)ccc1F",
+    "qed": 0.941,
+    "logP": 2.409,
+    "sas": 3.053,
+    "svg": "/molecules/258.svg"
+  },
+  {
+    "id": 259,
+    "smiles": "Cc1ccsc1CNC(=O)[C@@H](C)N1Cc2ccccc2C1",
+    "qed": 0.941,
+    "logP": 3.077,
+    "sas": 2.682,
+    "svg": "/molecules/259.svg"
+  },
+  {
+    "id": 260,
+    "smiles": "C[C@H]1CCC[C@H]([NH+](C)Cc2nnc(-c3ccc(F)c(F)c3)o2)C1",
+    "qed": 0.941,
+    "logP": 2.608,
+    "sas": 4.242,
+    "svg": "/molecules/260.svg"
+  },
+  {
+    "id": 261,
+    "smiles": "O=C1[C@H]2CCCC[C@@H]2[C@H](c2ccccc2)[NH+](Cc2ccco2)CC1",
+    "qed": 0.941,
+    "logP": 3.185,
+    "sas": 4.402,
+    "svg": "/molecules/261.svg"
+  },
+  {
+    "id": 262,
+    "smiles": "COc1cc(S(=O)(=O)Nc2nc(C)sc2C)sc1C",
+    "qed": 0.941,
+    "logP": 2.939,
+    "sas": 2.988,
+    "svg": "/molecules/262.svg"
+  },
+  {
+    "id": 263,
+    "smiles": "N#CCOc1cccc(C(=O)Nc2cnn(C(C)(C)C)c2)c1",
+    "qed": 0.941,
+    "logP": 2.793,
+    "sas": 2.367,
+    "svg": "/molecules/263.svg"
+  },
+  {
+    "id": 264,
+    "smiles": "Cc1nc(-c2ccc(N[C@H](C)C(=O)N(C)C)cc2)cs1",
+    "qed": 0.941,
+    "logP": 3.007,
+    "sas": 2.544,
+    "svg": "/molecules/264.svg"
+  },
+  {
+    "id": 265,
+    "smiles": "CC[C@@]1(C)C[C@H](C)C[NH+](Cc2nc([O-])c3cc(C)ccc3n2)C1",
+    "qed": 0.941,
+    "logP": 1.853,
+    "sas": 5.011,
+    "svg": "/molecules/265.svg"
+  },
+  {
+    "id": 266,
+    "smiles": "Cc1ncc2c([nH+]1)CC[C@@H](C(=O)NCc1ccccc1C)C2",
+    "qed": 0.941,
+    "logP": 1.934,
+    "sas": 3.589,
+    "svg": "/molecules/266.svg"
+  },
+  {
+    "id": 267,
+    "smiles": "CC(C)OC(=O)NCc1nn(-c2ccc(C)cc2)cc1Cl",
+    "qed": 0.941,
+    "logP": 3.469,
+    "sas": 2.288,
+    "svg": "/molecules/267.svg"
+  },
+  {
+    "id": 268,
+    "smiles": "Cc1nc2n(n1)CCC[C@H]2N[C@H]1CCC[C@H]1Cc1ccccc1",
+    "qed": 0.941,
+    "logP": 3.422,
+    "sas": 3.574,
+    "svg": "/molecules/268.svg"
+  },
+  {
+    "id": 269,
+    "smiles": "CC1=C(C(=O)N(C(C)C)C2CCCC2)C(=O)Nc2ccccc21",
+    "qed": 0.941,
+    "logP": 3.63,
+    "sas": 2.34,
+    "svg": "/molecules/269.svg"
+  },
+  {
+    "id": 270,
+    "smiles": "O=C1N[C@H]2C[C@@H]1CN(C/C=C\\c1ccccc1)Cc1ccccc1-2",
+    "qed": 0.941,
+    "logP": 3.393,
+    "sas": 3.94,
+    "svg": "/molecules/270.svg"
+  },
+  {
+    "id": 271,
+    "smiles": "CNS(=O)(=O)c1ccc(-c2ccc(F)c(F)c2)cc1",
+    "qed": 0.941,
+    "logP": 2.54,
+    "sas": 1.758,
+    "svg": "/molecules/271.svg"
+  },
+  {
+    "id": 272,
+    "smiles": "CCn1nccc1C(=O)Nc1ccc(N2CCCSC2)o1",
+    "qed": 0.941,
+    "logP": 2.649,
+    "sas": 3.126,
+    "svg": "/molecules/272.svg"
+  },
+  {
+    "id": 273,
+    "smiles": "CNC(=O)N(Cc1nc(-c2ccccc2F)no1)C1CCCC1",
+    "qed": 0.941,
+    "logP": 2.96,
+    "sas": 2.359,
+    "svg": "/molecules/273.svg"
+  },
+  {
+    "id": 274,
+    "smiles": "Cc1ccc([C@H](C)NC(=O)c2ccc3c(c2)OCO3)cc1",
+    "qed": 0.941,
+    "logP": 3.215,
+    "sas": 2.19,
+    "svg": "/molecules/274.svg"
+  },
+  {
+    "id": 275,
+    "smiles": "NS(=O)(=O)c1ccc(COc2ccc(F)cc2F)cc1",
+    "qed": 0.941,
+    "logP": 2.191,
+    "sas": 1.737,
+    "svg": "/molecules/275.svg"
+  },
+  {
+    "id": 276,
+    "smiles": "CN(C)S(=O)(=O)c1c(O)cc(-c2cccs2)cc1",
+    "qed": 0.941,
+    "logP": 2.371,
+    "sas": 2.266,
+    "svg": "/molecules/276.svg"
+  },
+  {
+    "id": 277,
+    "smiles": "Cc1ccc(N[C@H]2CCN(Cc3ccco3)C2=O)cc1F",
+    "qed": 0.941,
+    "logP": 2.94,
+    "sas": 2.709,
+    "svg": "/molecules/277.svg"
+  },
+  {
+    "id": 278,
+    "smiles": "CC[NH2+][C@@H]1c2ccccc2O[C@](C)(Oc2cccc(C)c2)C1",
+    "qed": 0.941,
+    "logP": 3.197,
+    "sas": 4.003,
+    "svg": "/molecules/278.svg"
+  },
+  {
+    "id": 279,
+    "smiles": "Cc1cc(C(=O)N(C)Cc2c[nH]nc2C2CCCCC2)ccn1",
+    "qed": 0.94,
+    "logP": 3.433,
+    "sas": 2.781,
+    "svg": "/molecules/279.svg"
+  },
+  {
+    "id": 280,
+    "smiles": "Cc1cc(S(=O)(=O)NC[C@H]2CCCc3ccccc32)c(C)o1",
+    "qed": 0.94,
+    "logP": 3.295,
+    "sas": 2.839,
+    "svg": "/molecules/280.svg"
+  },
+  {
+    "id": 281,
+    "smiles": "COc1ccc2nc(S[C@H]3CC[C@@H]([NH3+])C3)sc2c1",
+    "qed": 0.94,
+    "logP": 2.56,
+    "sas": 3.843,
+    "svg": "/molecules/281.svg"
+  },
+  {
+    "id": 282,
+    "smiles": "Cc1cc(F)c(O[C@@H](C)C(=O)Nc2cccc(C#N)c2)s1",
+    "qed": 0.94,
+    "logP": 3.473,
+    "sas": 3.047,
+    "svg": "/molecules/282.svg"
+  },
+  {
+    "id": 283,
+    "smiles": "NC(=O)c1cc(CN2CCS[C@H]2c2cccc(F)c2)oc1C",
+    "qed": 0.94,
+    "logP": 3.074,
+    "sas": 3.148,
+    "svg": "/molecules/283.svg"
+  },
+  {
+    "id": 284,
+    "smiles": "CS[C@H]1CCC[C@@H]1NC(=O)c1cc(-c2ccccn2)on1",
+    "qed": 0.94,
+    "logP": 2.751,
+    "sas": 3.359,
+    "svg": "/molecules/284.svg"
+  },
+  {
+    "id": 285,
+    "smiles": "O[C@H](C[C@@H]1COc2ccccc2S1)c1ccc2c(c1)OCO2",
+    "qed": 0.94,
+    "logP": 3.392,
+    "sas": 3.378,
+    "svg": "/molecules/285.svg"
+  },
+  {
+    "id": 286,
+    "smiles": "CC1(C)C(CNC(=O)c2ccn(-c3ccccc3)n2)C12CCC2",
+    "qed": 0.94,
+    "logP": 3.428,
+    "sas": 3.517,
+    "svg": "/molecules/286.svg"
+  },
+  {
+    "id": 287,
+    "smiles": "O[C@H](Cc1nnc(-c2cccc(Cl)c2)o1)[C@H]1CCSC1",
+    "qed": 0.94,
+    "logP": 3.047,
+    "sas": 3.414,
+    "svg": "/molecules/287.svg"
+  },
+  {
+    "id": 288,
+    "smiles": "Cc1cccc(NC(=O)[C@@H]2CCCN(C(=O)c3cnn(C)c3)C2)c1",
+    "qed": 0.94,
+    "logP": 2.219,
+    "sas": 2.488,
+    "svg": "/molecules/288.svg"
+  },
+  {
+    "id": 289,
+    "smiles": "Cc1n[nH]c(Sc2ccccc2CN2CCOC[C@@H]2C)n1",
+    "qed": 0.94,
+    "logP": 2.485,
+    "sas": 3.35,
+    "svg": "/molecules/289.svg"
+  },
+  {
+    "id": 290,
+    "smiles": "CCCc1nn(-c2cccc(Br)c2)c(N)n1",
+    "qed": 0.94,
+    "logP": 2.564,
+    "sas": 2.363,
+    "svg": "/molecules/290.svg"
+  },
+  {
+    "id": 291,
+    "smiles": "COc1ccc(O)c([C@@H](C)N2CCN(c3ncccc3C)C2)c1",
+    "qed": 0.94,
+    "logP": 2.945,
+    "sas": 2.937,
+    "svg": "/molecules/291.svg"
+  },
+  {
+    "id": 292,
+    "smiles": "Cc1nn(CC(=O)NCc2cccc(C#N)c2)c(Cl)c1Cl",
+    "qed": 0.94,
+    "logP": 2.686,
+    "sas": 2.288,
+    "svg": "/molecules/292.svg"
+  },
+  {
+    "id": 293,
+    "smiles": "Cc1nc(NC(=O)COc2ccccc2Cl)sc1C",
+    "qed": 0.94,
+    "logP": 3.431,
+    "sas": 1.886,
+    "svg": "/molecules/293.svg"
+  },
+  {
+    "id": 294,
+    "smiles": "COc1ccc(C(=O)Nc2ccc3c(c2)OC(C)(C)C3)cc1",
+    "qed": 0.94,
+    "logP": 3.661,
+    "sas": 1.938,
+    "svg": "/molecules/294.svg"
+  },
+  {
+    "id": 295,
+    "smiles": "Cc1ccc([C@@H](C)CC(=O)Nc2cnc3c(n2)CCC3)cc1",
+    "qed": 0.94,
+    "logP": 3.406,
+    "sas": 2.832,
+    "svg": "/molecules/295.svg"
+  },
+  {
+    "id": 296,
+    "smiles": "O=C(NCCn1cccn1)c1sccc1Br",
+    "qed": 0.94,
+    "logP": 2.137,
+    "sas": 2.35,
+    "svg": "/molecules/296.svg"
+  },
+  {
+    "id": 297,
+    "smiles": "CCc1ocnc1CNC(=O)c1ccc(Cl)cc1Cl",
+    "qed": 0.94,
+    "logP": 3.474,
+    "sas": 2.445,
+    "svg": "/molecules/297.svg"
+  },
+  {
+    "id": 298,
+    "smiles": "C[C@@H](c1ccon1)[C@H](C)[NH2+][C@@H]1CCCc2ccc(F)cc21",
+    "qed": 0.94,
+    "logP": 2.947,
+    "sas": 4.457,
+    "svg": "/molecules/298.svg"
+  },
+  {
+    "id": 299,
+    "smiles": "Cc1nc(CNc2ccc(C#N)nc2N2CCCC2)cs1",
+    "qed": 0.94,
+    "logP": 2.931,
+    "sas": 2.583,
+    "svg": "/molecules/299.svg"
+  },
+  {
+    "id": 300,
+    "smiles": "CCc1cccc(CSc2nc3cc(N)cn3nnn2C)c1",
+    "qed": 0.94,
+    "logP": 3.629,
+    "sas": 3.46,
+    "svg": "/molecules/300.svg"
+  },
+  {
+    "id": 301,
+    "smiles": "Cc1cccc(/C=C/C(=O)C(=O)Cc2c[nH]c3ccc(Oc4cccnc4)cc23)c1",
+    "qed": 0.35,
+    "logP": 5.058,
+    "sas": 2.558,
+    "svg": "/molecules/301.svg"
+  },
+  {
+    "id": 302,
+    "smiles": "CCn1c(NC(=O)c2cnc(CSc3ccccc3Cl)cc2)nnc1-c1cccc(Cl)c1",
+    "qed": 0.316,
+    "logP": 6.211,
+    "sas": 2.504,
+    "svg": "/molecules/302.svg"
+  },
+  {
+    "id": 303,
+    "smiles": "CNC(=O)c1[nH]nc(CN2CCN([C@H](C)CC)C2)n1",
+    "qed": 0.787,
+    "logP": 0.038,
+    "sas": 3.543,
+    "svg": "/molecules/303.svg"
+  },
+  {
+    "id": 304,
+    "smiles": "C[C@@H]1[NH2+]CCCN1C(=O)Nc1cncs1",
+    "qed": 0.724,
+    "logP": 0.29,
+    "sas": 4.498,
+    "svg": "/molecules/304.svg"
+  },
+  {
+    "id": 305,
+    "smiles": "CC[NH2+][C@@H]1c2cccc(OC)c2o1",
+    "qed": 0.742,
+    "logP": 0.669,
+    "sas": 3.938,
+    "svg": "/molecules/305.svg"
+  },
+  {
+    "id": 306,
+    "smiles": "O=C(NCC1(O)CCCCC1)c1cn(-c2ccncc2)cc1[N+](=O)[O-]",
+    "qed": 0.638,
+    "logP": 2.205,
+    "sas": 2.824,
+    "svg": "/molecules/306.svg"
+  },
+  {
+    "id": 307,
+    "smiles": "CC(=O)[C@@H]1OCCC[C@@H]1[NH2+]Cc1ccc(N2CCCC2)cc1/C=C(\\C#N)C(=O)NCc1cccs1",
+    "qed": 0.413,
+    "logP": 2.772,
+    "sas": 4.162,
+    "svg": "/molecules/307.svg"
+  },
+  {
+    "id": 308,
+    "smiles": "CN(C)C(=O)C1([NH2+]C[C@@H]2CCOC2)CCCC1",
+    "qed": 0.752,
+    "logP": -0.013,
+    "sas": 4.302,
+    "svg": "/molecules/308.svg"
+  },
+  {
+    "id": 309,
+    "smiles": "Cc1nc(N[C@@H](C)[C@]2(C)CCCO2)ns1",
+    "qed": 0.86,
+    "logP": 2.216,
+    "sas": 4.453,
+    "svg": "/molecules/309.svg"
+  },
+  {
+    "id": 310,
+    "smiles": "CC(=O)Nc1ccc(NC(=O)c2ccccc2Sc2cccc(C)c2)cc1",
+    "qed": 0.63,
+    "logP": 5.357,
+    "sas": 1.886,
+    "svg": "/molecules/310.svg"
+  },
+  {
+    "id": 311,
+    "smiles": "COc1ccccc1CNS(=O)(=O)c1cccc(C#N)c1",
+    "qed": 0.916,
+    "logP": 2.045,
+    "sas": 1.876,
+    "svg": "/molecules/311.svg"
+  },
+  {
+    "id": 312,
+    "smiles": "Cc1ccc(COc2ccc(/C=C3\\SC(=S)N(Cc4ccccc4Cl)C3=O)o2)cc1",
+    "qed": 0.326,
+    "logP": 6.222,
+    "sas": 2.463,
+    "svg": "/molecules/312.svg"
+  },
+  {
+    "id": 313,
+    "smiles": "CC[C@H](O)Cn1c(-c2ccncc2)nc(C)c(C)c1=O",
+    "qed": 0.92,
+    "logP": 1.693,
+    "sas": 2.843,
+    "svg": "/molecules/313.svg"
+  },
+  {
+    "id": 314,
+    "smiles": "Cc1ccc(NC(=O)Nc2nnc([C@@H]3CCCCO3)o2)c(=O)[nH]1",
+    "qed": 0.794,
+    "logP": 1.952,
+    "sas": 3.212,
+    "svg": "/molecules/314.svg"
+  },
+  {
+    "id": 315,
+    "smiles": "C#CCN1C(N)=C(SC(=O)c2ccc(OC3CCCC3CC)cc2)NC1=O",
+    "qed": 0.588,
+    "logP": 3.282,
+    "sas": 3.822,
+    "svg": "/molecules/315.svg"
+  },
+  {
+    "id": 316,
+    "smiles": "CC(=O)NC[C@@H]1CCCN(C(=O)c2cc(=O)oc3ccccc23)C1",
+    "qed": 0.871,
+    "logP": 1.781,
+    "sas": 2.592,
+    "svg": "/molecules/316.svg"
+  },
+  {
+    "id": 317,
+    "smiles": "CC(=O)N1C=C(c2ccc(C(=O)NCc3cccs3)n2C)[C@@H]2C(=O)N(Cc3ccccc3)C(=O)OC2=[NH+]1",
+    "qed": 0.512,
+    "logP": 1.409,
+    "sas": 4.007,
+    "svg": "/molecules/317.svg"
+  },
+  {
+    "id": 318,
+    "smiles": "CN(C)c1nc(N2CCC[C@H](Cc3c[nH]c[nH+]3)n2)nn(-c2ccccc2)c1=O",
+    "qed": 0.67,
+    "logP": 0.552,
+    "sas": 4.347,
+    "svg": "/molecules/318.svg"
+  },
+  {
+    "id": 319,
+    "smiles": "CC(C)CC[NH+]1CCN(C[C@H](O)c2ccc(Cl)cc2)CC1",
+    "qed": 0.835,
+    "logP": 1.62,
+    "sas": 3.889,
+    "svg": "/molecules/319.svg"
+  },
+  {
+    "id": 320,
+    "smiles": "Cc1nc(N2CCC[C@@H](C(=O)NCCCO)C2)ccc1I",
+    "qed": 0.581,
+    "logP": 1.71,
+    "sas": 2.841,
+    "svg": "/molecules/320.svg"
+  },
+  {
+    "id": 321,
+    "smiles": "C[C@@H](C(=O)OCC(=O)/N=c1/sc2ccccc2c(=O)[nH]1)OC",
+    "qed": 0.831,
+    "logP": 0.595,
+    "sas": 3.295,
+    "svg": "/molecules/321.svg"
+  },
+  {
+    "id": 322,
+    "smiles": "Cc1cccc([C@@H]2CC(=O)NC(=O)[C@H]2[C@H](C(=O)Nc2ccc(C)cc2)[NH+](C)C)c1",
+    "qed": 0.667,
+    "logP": 1.202,
+    "sas": 3.962,
+    "svg": "/molecules/322.svg"
+  },
+  {
+    "id": 323,
+    "smiles": "C[NH2+][C@@]1(C(N)=O)CCC[C@H](c2ccccc2OC(C)C)C1",
+    "qed": 0.864,
+    "logP": 1.549,
+    "sas": 3.921,
+    "svg": "/molecules/323.svg"
+  },
+  {
+    "id": 324,
+    "smiles": "N#Cc1cccnc1SCCNc1ccc(NC(=O)c2cccnc2)cc1",
+    "qed": 0.482,
+    "logP": 3.805,
+    "sas": 2.246,
+    "svg": "/molecules/324.svg"
+  },
+  {
+    "id": 325,
+    "smiles": "COC(=O)[C@@H]1C[C@H](NC(=O)c2ccc(C#N)cc2)C(=O)N1Cc1cccnc1",
+    "qed": 0.778,
+    "logP": 1.026,
+    "sas": 3.184,
+    "svg": "/molecules/325.svg"
+  },
+  {
+    "id": 326,
+    "smiles": "C#CCN(CC)c1c(C(=O)N[C@H](C)c2ccc(C)s2)cccc1F",
+    "qed": 0.799,
+    "logP": 4.146,
+    "sas": 3.153,
+    "svg": "/molecules/326.svg"
+  },
+  {
+    "id": 327,
+    "smiles": "CCCS[C@H]1CCC[C@@H](NC(=O)N[C@H]2CC(=O)N(Cc3cccs3)C2=O)C1",
+    "qed": 0.678,
+    "logP": 3.129,
+    "sas": 3.671,
+    "svg": "/molecules/327.svg"
+  },
+  {
+    "id": 328,
+    "smiles": "O=S1(=O)COc2cc(NC(=O)c3cccc(F)c3F)sc2C1",
+    "qed": 0.908,
+    "logP": 2.543,
+    "sas": 3.181,
+    "svg": "/molecules/328.svg"
+  },
+  {
+    "id": 329,
+    "smiles": "CSC(=S)N[C@@H](C=C[C@H]1CN(C)C(=O)NC1=O)c1ccncc1",
+    "qed": 0.636,
+    "logP": 1.714,
+    "sas": 4.312,
+    "svg": "/molecules/329.svg"
+  },
+  {
+    "id": 330,
+    "smiles": "Cc1n[nH]c(N2CCC[NH+](C)C[C@@H]2C(C)C)n1",
+    "qed": 0.754,
+    "logP": -0.137,
+    "sas": 5.226,
+    "svg": "/molecules/330.svg"
+  },
+  {
+    "id": 331,
+    "smiles": "C[C@H]1C[C@@H]1c1nc(Cc2ccccc2Cl)n(-c2ccc(C(C)(C)C)cc2)n1",
+    "qed": 0.562,
+    "logP": 5.932,
+    "sas": 3.122,
+    "svg": "/molecules/331.svg"
+  },
+  {
+    "id": 332,
+    "smiles": "O=C(NC[C@H]1C[NH+]2CCN1CC2)N1CC(=O)N(c2ccc(OCc3ccccc3)cc2)C1",
+    "qed": 0.677,
+    "logP": 0.164,
+    "sas": 4.48,
+    "svg": "/molecules/332.svg"
+  },
+  {
+    "id": 333,
+    "smiles": "C[C@@H](CCc1ccc(F)cc1)NC(=O)Nc1ccc(F)cc1F",
+    "qed": 0.849,
+    "logP": 4.247,
+    "sas": 2.29,
+    "svg": "/molecules/333.svg"
+  },
+  {
+    "id": 334,
+    "smiles": "CCc1noc(-c2ccnc(OC(C)C)c2/C=C(\\C#N)C(=O)N2CCC(O)CC2)n1",
+    "qed": 0.567,
+    "logP": 2.371,
+    "sas": 3.06,
+    "svg": "/molecules/334.svg"
+  },
+  {
+    "id": 335,
+    "smiles": "Cc1cccc(C[NH+]2CC[C@H](C(=O)[O-])C2)c1N",
+    "qed": 0.641,
+    "logP": -1.268,
+    "sas": 4.915,
+    "svg": "/molecules/335.svg"
+  },
+  {
+    "id": 336,
+    "smiles": "COC(=O)Nc1cc(NC(=O)N2CCN(c3ccc(C#N)cc3)CC2)oc1C",
+    "qed": 0.843,
+    "logP": 2.992,
+    "sas": 2.62,
+    "svg": "/molecules/336.svg"
+  },
+  {
+    "id": 337,
+    "smiles": "Cc1ccc(C(=O)[C@H](C)NC(=O)CSCC(N)=O)cc1",
+    "qed": 0.731,
+    "logP": 0.901,
+    "sas": 2.531,
+    "svg": "/molecules/337.svg"
+  },
+  {
+    "id": 338,
+    "smiles": "COCC[C@@H](C)C(=O)N(C)CC(=O)N1CCCCC1",
+    "qed": 0.727,
+    "logP": 1.13,
+    "sas": 2.673,
+    "svg": "/molecules/338.svg"
+  },
+  {
+    "id": 339,
+    "smiles": "CC(C)c1nc(C(=O)N[C@@H](C)Cc2cccs2)no1",
+    "qed": 0.913,
+    "logP": 2.616,
+    "sas": 2.985,
+    "svg": "/molecules/339.svg"
+  },
+  {
+    "id": 340,
+    "smiles": "CCC[C@H](C)CC(=O)Nc1nc2c(s1)C(=O)CCC2",
+    "qed": 0.899,
+    "logP": 3.427,
+    "sas": 2.918,
+    "svg": "/molecules/340.svg"
+  },
+  {
+    "id": 341,
+    "smiles": "CCOC(=O)[C@H](C)NC(=O)[C@@H](C)N1C(=O)C[C@@H](c2ccccc2)C1=O",
+    "qed": 0.612,
+    "logP": 0.985,
+    "sas": 3.224,
+    "svg": "/molecules/341.svg"
+  },
+  {
+    "id": 342,
+    "smiles": "CC[C@H](O)Cc1noc2c(Cl)cccc12",
+    "qed": 0.874,
+    "logP": 2.795,
+    "sas": 2.971,
+    "svg": "/molecules/342.svg"
+  },
+  {
+    "id": 343,
+    "smiles": "COc1ccccc1[C@@H](O)[C@@H]1CCC[NH+](Cc2ccsc2C#N)C1",
+    "qed": 0.875,
+    "logP": 2.157,
+    "sas": 4.582,
+    "svg": "/molecules/343.svg"
+  },
+  {
+    "id": 344,
+    "smiles": "N#C[C@H]1CN(CC(=O)Nc2cnc(-c3cccs3)o2)CCO1",
+    "qed": 0.92,
+    "logP": 1.566,
+    "sas": 3.467,
+    "svg": "/molecules/344.svg"
+  },
+  {
+    "id": 345,
+    "smiles": "CCC(CC)(CNC(=O)[C@H]1CCCO1)c1nnc(-c2ccc(Cl)cc2)o1",
+    "qed": 0.795,
+    "logP": 3.743,
+    "sas": 3.185,
+    "svg": "/molecules/345.svg"
+  },
+  {
+    "id": 346,
+    "smiles": "C[NH+](CCC1=[NH+]\\CCOC1)C(Cl)(Cl)Cl",
+    "qed": 0.483,
+    "logP": -1.229,
+    "sas": 6.127,
+    "svg": "/molecules/346.svg"
+  },
+  {
+    "id": 347,
+    "smiles": "COC(=O)[C@@H](C)CN(CC)C(=O)CC1CC1",
+    "qed": 0.645,
+    "logP": 1.444,
+    "sas": 2.715,
+    "svg": "/molecules/347.svg"
+  },
+  {
+    "id": 348,
+    "smiles": "O=C(Nc1ccccc1)/C([O-])=N/c1cc(OCc2ccc([N+](=O)[O-])cc2)cn1C",
+    "qed": 0.298,
+    "logP": 2.541,
+    "sas": 2.9,
+    "svg": "/molecules/348.svg"
+  },
+  {
+    "id": 349,
+    "smiles": "CN(Cc1nc(-c2ccc(Cl)cc2Cl)no1)Cc1cc(N2CCCC2=O)cc(Br)c1CO",
+    "qed": 0.452,
+    "logP": 5.057,
+    "sas": 2.848,
+    "svg": "/molecules/349.svg"
+  },
+  {
+    "id": 350,
+    "smiles": "Cc1c(OCC(=O)[O-])cnn1-c1ccc(OC(C)C)cc1",
+    "qed": 0.796,
+    "logP": 1.097,
+    "sas": 2.666,
+    "svg": "/molecules/350.svg"
+  },
+  {
+    "id": 351,
+    "smiles": "CCSCC(=O)NC(=O)CNc1cccc(Cl)c1C(F)(F)F",
+    "qed": 0.824,
+    "logP": 3.167,
+    "sas": 2.566,
+    "svg": "/molecules/351.svg"
+  },
+  {
+    "id": 352,
+    "smiles": "CC(C)NC(=O)NCc1cc(C(=O)[O-])no1",
+    "qed": 0.702,
+    "logP": -0.754,
+    "sas": 2.84,
+    "svg": "/molecules/352.svg"
+  },
+  {
+    "id": 353,
+    "smiles": "C[C@@H](OC(=O)CCc1cccnc1)c1ccc(F)cn1",
+    "qed": 0.787,
+    "logP": 2.853,
+    "sas": 2.733,
+    "svg": "/molecules/353.svg"
+  },
+  {
+    "id": 354,
+    "smiles": "Oc1ccc([C@H]2c3[nH]c4ccccc4c3C[C@@H]2CCO)cc1",
+    "qed": 0.691,
+    "logP": 3.56,
+    "sas": 3.213,
+    "svg": "/molecules/354.svg"
+  },
+  {
+    "id": 355,
+    "smiles": "COC(=O)CC[C@H](C)NC(=O)c1cnc2nccnc2n1",
+    "qed": 0.798,
+    "logP": 0.491,
+    "sas": 3.048,
+    "svg": "/molecules/355.svg"
+  },
+  {
+    "id": 356,
+    "smiles": "O=C(CCc1nc(-c2cccnc2)ncn1)Nc1ccccc1C(F)(F)F",
+    "qed": 0.74,
+    "logP": 3.524,
+    "sas": 2.358,
+    "svg": "/molecules/356.svg"
+  },
+  {
+    "id": 357,
+    "smiles": "c1ccc2c(c1)CCN2C(=O)C[C@H]1OC(=O)c2ccccc21",
+    "qed": 0.8,
+    "logP": 2.878,
+    "sas": 2.649,
+    "svg": "/molecules/357.svg"
+  },
+  {
+    "id": 358,
+    "smiles": "C[C@@H](NC(=O)N1CCC(n2cccc2)CC1)N1CCN(c2ccc(F)cc2)CC1",
+    "qed": 0.859,
+    "logP": 3.142,
+    "sas": 3.021,
+    "svg": "/molecules/358.svg"
+  },
+  {
+    "id": 359,
+    "smiles": "CCCC1(CC)NC(=O)N(CC(=O)N[C@@H]2CC[C@@H](C)C2)C1=O",
+    "qed": 0.734,
+    "logP": 1.792,
+    "sas": 3.485,
+    "svg": "/molecules/359.svg"
+  },
+  {
+    "id": 360,
+    "smiles": "O=C1/C(=C/Nc2ccccc2[N+](=O)[O-])CCC1",
+    "qed": 0.494,
+    "logP": 2.644,
+    "sas": 2.34,
+    "svg": "/molecules/360.svg"
+  },
+  {
+    "id": 361,
+    "smiles": "CCCOc1ccc(C[C@H]([NH3+])c2ccc(C)cc2)cc1",
+    "qed": 0.859,
+    "logP": 3.31,
+    "sas": 2.743,
+    "svg": "/molecules/361.svg"
+  },
+  {
+    "id": 362,
+    "smiles": "COC1(CCc2ccccc2)CCC1(C)C",
+    "qed": 0.746,
+    "logP": 3.824,
+    "sas": 3.06,
+    "svg": "/molecules/362.svg"
+  },
+  {
+    "id": 363,
+    "smiles": "CN(CC1CCOCC1)C(=O)N[C@@H]1CC[C@H](C[NH3+])O1",
+    "qed": 0.744,
+    "logP": -0.199,
+    "sas": 4.198,
+    "svg": "/molecules/363.svg"
+  },
+  {
+    "id": 364,
+    "smiles": "CCNC(=O)NC(=O)CSc1nnc([S-])n1N",
+    "qed": 0.36,
+    "logP": -1.164,
+    "sas": 3.154,
+    "svg": "/molecules/364.svg"
+  },
+  {
+    "id": 365,
+    "smiles": "Cc1cc(NC(=O)CSc2ccc(C)cc2C)cn1C[C@H](C)C",
+    "qed": 0.772,
+    "logP": 4.8,
+    "sas": 2.385,
+    "svg": "/molecules/365.svg"
+  },
+  {
+    "id": 366,
+    "smiles": "C[C@H]1[C@H](C(=O)[O-])CCN1C(=O)NCC(F)(F)F",
+    "qed": 0.735,
+    "logP": -0.281,
+    "sas": 3.93,
+    "svg": "/molecules/366.svg"
+  },
+  {
+    "id": 367,
+    "smiles": "COc1cccc(NC(=O)NCc2cccc(=O)n2C)c1",
+    "qed": 0.899,
+    "logP": 1.716,
+    "sas": 2.042,
+    "svg": "/molecules/367.svg"
+  },
+  {
+    "id": 368,
+    "smiles": "CN(Cc1cccc(C(N)=O)c1)C(=O)[C@H]1CCC[NH+]1C",
+    "qed": 0.773,
+    "logP": -0.579,
+    "sas": 4.032,
+    "svg": "/molecules/368.svg"
+  },
+  {
+    "id": 369,
+    "smiles": "CCOc1cc(F)ccc1Br",
+    "qed": 0.742,
+    "logP": 2.987,
+    "sas": 1.746,
+    "svg": "/molecules/369.svg"
+  },
+  {
+    "id": 370,
+    "smiles": "Cc1ccc([C@@H]2CN(C(=O)C[NH+]3CCNC[C@H]3O)CC2)cc1",
+    "qed": 0.68,
+    "logP": -0.883,
+    "sas": 4.288,
+    "svg": "/molecules/370.svg"
+  },
+  {
+    "id": 371,
+    "smiles": "COC[C@H](C)[NH2+]Cc1cnn(C)c1C",
+    "qed": 0.713,
+    "logP": -0.173,
+    "sas": 4.232,
+    "svg": "/molecules/371.svg"
+  },
+  {
+    "id": 372,
+    "smiles": "O=C(Cn1cnc2cc(F)c(F)cc21)N(Cc1ccco1)c1ccccc1",
+    "qed": 0.533,
+    "logP": 4.141,
+    "sas": 2.376,
+    "svg": "/molecules/372.svg"
+  },
+  {
+    "id": 373,
+    "smiles": "C[C@H](Cn1cnnn1)[NH2+]Cc1ccc(N2CCCC2=O)cc1",
+    "qed": 0.811,
+    "logP": -0.048,
+    "sas": 3.732,
+    "svg": "/molecules/373.svg"
+  },
+  {
+    "id": 374,
+    "smiles": "COCCCN1CCN(S(=O)(=O)c2cc(Cl)ccc2F)CC1",
+    "qed": 0.734,
+    "logP": 1.822,
+    "sas": 2.004,
+    "svg": "/molecules/374.svg"
+  },
+  {
+    "id": 375,
+    "smiles": "CCC(CC)OC(=O)[C@H](C)Nc1nc2ccc(Br)cc2s1",
+    "qed": 0.755,
+    "logP": 4.591,
+    "sas": 2.946,
+    "svg": "/molecules/375.svg"
+  },
+  {
+    "id": 376,
+    "smiles": "Cc1nn(C[C@@H](C)NC(=O)Cc2coc(-c3ccccc3)n2)n1C1CC1",
+    "qed": 0.708,
+    "logP": 2.73,
+    "sas": 3.325,
+    "svg": "/molecules/376.svg"
+  },
+  {
+    "id": 377,
+    "smiles": "CC[C@@H]1CCCCN1[C@H]1CCCCN1c1nc(N)cnc1SC1CCCC1",
+    "qed": 0.789,
+    "logP": 4.674,
+    "sas": 3.868,
+    "svg": "/molecules/377.svg"
+  },
+  {
+    "id": 378,
+    "smiles": "CC(=O)N1CC[C@@H](CC(=O)Nc2ccc(OC(C)C)cc2)[C@@H]1c1cccc(F)c1",
+    "qed": 0.777,
+    "logP": 4.551,
+    "sas": 3.047,
+    "svg": "/molecules/378.svg"
+  },
+  {
+    "id": 379,
+    "smiles": "C[C@@]12CCC[C@@H]1CS(=O)(=O)[C@@H]2[NH+]1CCN(Cc2ccc3oc(=O)[nH]c3c2)CC1",
+    "qed": 0.77,
+    "logP": 0.383,
+    "sas": 4.821,
+    "svg": "/molecules/379.svg"
+  },
+  {
+    "id": 380,
+    "smiles": "CCC(=O)Nc1sc(C)c(C#N)c1C(=O)[O-]",
+    "qed": 0.834,
+    "logP": 0.64,
+    "sas": 3.094,
+    "svg": "/molecules/380.svg"
+  },
+  {
+    "id": 381,
+    "smiles": "CC(C)NC(=O)[C@@H]1CCO[C@H]1C(=O)NC(=O)NCc1cscn1",
+    "qed": 0.719,
+    "logP": 0.399,
+    "sas": 3.672,
+    "svg": "/molecules/381.svg"
+  },
+  {
+    "id": 382,
+    "smiles": "C[C@H](NC(=O)Nc1ccc(F)cc1C(=O)N1CCCC1)c1ccccc1F",
+    "qed": 0.848,
+    "logP": 4.084,
+    "sas": 2.455,
+    "svg": "/molecules/382.svg"
+  },
+  {
+    "id": 383,
+    "smiles": "CCOc1ccc(C)cc1NC(=O)N(C)[C@@H](C)CC(=O)OC",
+    "qed": 0.821,
+    "logP": 2.809,
+    "sas": 2.602,
+    "svg": "/molecules/383.svg"
+  },
+  {
+    "id": 384,
+    "smiles": "CN(CCCC(=O)[O-])c1ccccc1C(=O)[O-]",
+    "qed": 0.632,
+    "logP": -0.984,
+    "sas": 3.15,
+    "svg": "/molecules/384.svg"
+  },
+  {
+    "id": 385,
+    "smiles": "Cc1[nH+]c(N)c(S[C@H](C)C(C)C)c(=O)[nH]1",
+    "qed": 0.764,
+    "logP": 1.216,
+    "sas": 4.7,
+    "svg": "/molecules/385.svg"
+  },
+  {
+    "id": 386,
+    "smiles": "Cc1ccc(-c2cc(C(=O)N[C@@H](C)c3ccc(OC)cc3)cs2)c(OC)c1",
+    "qed": 0.636,
+    "logP": 5.232,
+    "sas": 2.551,
+    "svg": "/molecules/386.svg"
+  },
+  {
+    "id": 387,
+    "smiles": "C[C@H](CCc1ccccc1)C(=O)Nc1nc2c(s1)CCC2",
+    "qed": 0.911,
+    "logP": 3.839,
+    "sas": 2.563,
+    "svg": "/molecules/387.svg"
+  },
+  {
+    "id": 388,
+    "smiles": "COc1ncccc1OC(=O)c1cc([N+](=O)[O-])c(C)c([N+](=O)[O-])c1C",
+    "qed": 0.457,
+    "logP": 2.743,
+    "sas": 2.648,
+    "svg": "/molecules/388.svg"
+  },
+  {
+    "id": 389,
+    "smiles": "Cc1ccc(CCCC(=O)Nc2nc(C3CCC3)cc3cccnc23)cc1",
+    "qed": 0.661,
+    "logP": 5.167,
+    "sas": 2.279,
+    "svg": "/molecules/389.svg"
+  },
+  {
+    "id": 390,
+    "smiles": "C[C@H](O)CNC(=O)[C@H](C#N)c1nc2c(s1)C(=O)CCC2",
+    "qed": 0.853,
+    "logP": 0.766,
+    "sas": 3.68,
+    "svg": "/molecules/390.svg"
+  },
+  {
+    "id": 391,
+    "smiles": "Cc1ccc2ncc(C(=O)N3CCCC[C@@H]3C[NH+]3CCCCC3)c(=O)n2c1",
+    "qed": 0.88,
+    "logP": 1.066,
+    "sas": 3.939,
+    "svg": "/molecules/391.svg"
+  },
+  {
+    "id": 392,
+    "smiles": "C[C@@H]([NH2+][C@H]1CC(=O)N(CC(F)(F)F)C[C@@H]1C)C(C)(C)O",
+    "qed": 0.794,
+    "logP": 0.508,
+    "sas": 4.738,
+    "svg": "/molecules/392.svg"
+  },
+  {
+    "id": 393,
+    "smiles": "Cc1[nH]ncc1C[NH+]1CCC(OC[C@H]2C[C@H]2C)CC1",
+    "qed": 0.831,
+    "logP": 0.938,
+    "sas": 4.858,
+    "svg": "/molecules/393.svg"
+  },
+  {
+    "id": 394,
+    "smiles": "CC[C@@H](Sc1nncn1C)C(=O)c1cc2ccccc2o1",
+    "qed": 0.534,
+    "logP": 3.315,
+    "sas": 2.996,
+    "svg": "/molecules/394.svg"
+  },
+  {
+    "id": 395,
+    "smiles": "C[C@@H](c1ccncc1)N(C(=O)NCCNc1ccc([N+](=O)[O-])c(F)c1)C1CC1",
+    "qed": 0.41,
+    "logP": 3.476,
+    "sas": 3.054,
+    "svg": "/molecules/395.svg"
+  },
+  {
+    "id": 396,
+    "smiles": "Cc1nn(C)c2ncnc(N[C@H](c3ccncc3)C4CC[C@@H](C)C4)cnc12",
+    "qed": 0.903,
+    "logP": 3.665,
+    "sas": 4.482,
+    "svg": "/molecules/396.svg"
+  },
+  {
+    "id": 397,
+    "smiles": "COc1ccc(Nc2c(C#N)c(=O)n3cccnc3c2C)cc1",
+    "qed": 0.804,
+    "logP": 2.627,
+    "sas": 2.488,
+    "svg": "/molecules/397.svg"
+  },
+  {
+    "id": 398,
+    "smiles": "CN(C)C(=O)C[C@H]1SC(=S)N[C@H]1c1ccc(OCc2ccccc2)cc1",
+    "qed": 0.766,
+    "logP": 3.775,
+    "sas": 3.286,
+    "svg": "/molecules/398.svg"
+  },
+  {
+    "id": 399,
+    "smiles": "C[C@@H]1C[C@@H](N=C2[NH+]=c3ccccc3=[NH+]C2)N1C(=O)c1c(F)cccc1F",
+    "qed": 0.645,
+    "logP": -1.962,
+    "sas": 4.951,
+    "svg": "/molecules/399.svg"
+  },
+  {
+    "id": 400,
+    "smiles": "COCCn1c(=O)n(CC(=O)Nc2ccc(F)c(C(F)(F)F)c2)nn1",
+    "qed": 0.77,
+    "logP": 0.883,
+    "sas": 2.463,
+    "svg": "/molecules/400.svg"
+  },
+  {
+    "id": 401,
+    "smiles": "CCN1C(=O)C2(CCCCC2)[C@H](c2ccc([N+](=O)[O-])cc2)[NH2+]1",
+    "qed": 0.401,
+    "logP": 1.927,
+    "sas": 4.22,
+    "svg": "/molecules/401.svg"
+  },
+  {
+    "id": 402,
+    "smiles": "Cc1cccc(NC(=O)c2cccc(NC(=O)/C=C/C(C)C)c2)c1",
+    "qed": 0.802,
+    "logP": 4.398,
+    "sas": 1.956,
+    "svg": "/molecules/402.svg"
+  },
+  {
+    "id": 403,
+    "smiles": "Cc1ccc(NNC(=O)N2CCC(CO)CC2)c(F)c1F",
+    "qed": 0.748,
+    "logP": 2.014,
+    "sas": 2.483,
+    "svg": "/molecules/403.svg"
+  },
+  {
+    "id": 404,
+    "smiles": "[NH3+][C@@H](Cc1cncc(-c2ccccc2)c1)C1CCCCC1",
+    "qed": 0.915,
+    "logP": 3.482,
+    "sas": 3.033,
+    "svg": "/molecules/404.svg"
+  },
+  {
+    "id": 405,
+    "smiles": "O=C(CSc1nnnn1-c1ccccc1)c1nnc(CCc2ccccc2)o1",
+    "qed": 0.333,
+    "logP": 2.806,
+    "sas": 2.377,
+    "svg": "/molecules/405.svg"
+  },
+  {
+    "id": 406,
+    "smiles": "C[C@@H]1C[C@@H](O)C[NH+](Cc2ccc(OC(F)(F)F)c(Cl)c2)C1",
+    "qed": 0.892,
+    "logP": 2.024,
+    "sas": 4.605,
+    "svg": "/molecules/406.svg"
+  },
+  {
+    "id": 407,
+    "smiles": "Cn1c(CNC(=O)c2ccc(Br)cc2)c2c(nc(O)nn12)C(=O)Nc1ccnn1C",
+    "qed": 0.402,
+    "logP": 1.452,
+    "sas": 3.17,
+    "svg": "/molecules/407.svg"
+  },
+  {
+    "id": 408,
+    "smiles": "Cc1cc(C)c(CC(=O)N(CCNC(=O)C(C)C)CC2CCCCC2)c(C)c1",
+    "qed": 0.723,
+    "logP": 4.335,
+    "sas": 2.404,
+    "svg": "/molecules/408.svg"
+  },
+  {
+    "id": 409,
+    "smiles": "C[NH+]1CC[C@@H]2CCCC[C@@H]2N1C(=O)OC(C1CC1)C1CC1",
+    "qed": 0.863,
+    "logP": 2.006,
+    "sas": 4.72,
+    "svg": "/molecules/409.svg"
+  },
+  {
+    "id": 410,
+    "smiles": "Cc1cccc(C[NH+]2CCC[C@@H]2Cn2cccn2)c1",
+    "qed": 0.878,
+    "logP": 1.439,
+    "sas": 4.325,
+    "svg": "/molecules/410.svg"
+  },
+  {
+    "id": 411,
+    "smiles": "CC(C)C[C@H](NC(=O)C1(c2ccccc2Cl)CCC(C)CC1)c1ccccc1",
+    "qed": 0.577,
+    "logP": 6.692,
+    "sas": 2.805,
+    "svg": "/molecules/411.svg"
+  },
+  {
+    "id": 412,
+    "smiles": "C[NH+]1CCCC[C@H]1CC(=O)N[C@@H]1CCSc2cc(Cl)cnc21",
+    "qed": 0.882,
+    "logP": 1.845,
+    "sas": 4.84,
+    "svg": "/molecules/412.svg"
+  },
+  {
+    "id": 413,
+    "smiles": "CC[C@@H](NC(=O)NCc1cccc(C[NH+]2CCCC2)c1)c1ccc(C#N)cc1",
+    "qed": 0.694,
+    "logP": 2.687,
+    "sas": 3.683,
+    "svg": "/molecules/413.svg"
+  },
+  {
+    "id": 414,
+    "smiles": "CC(C)(C)c1ccc(C(=O)NCCCN2C[C@H](C)O[C@H](C(C)C)C2)cc1",
+    "qed": 0.784,
+    "logP": 3.849,
+    "sas": 3.042,
+    "svg": "/molecules/414.svg"
+  },
+  {
+    "id": 415,
+    "smiles": "C[C@@H]1CN(C(=O)CCCN2CCCCC2=O)c2ccccc2CN1c1ccccc1Cl",
+    "qed": 0.667,
+    "logP": 4.874,
+    "sas": 2.932,
+    "svg": "/molecules/415.svg"
+  },
+  {
+    "id": 416,
+    "smiles": "CCCNC(=O)NCC(=O)Nc1cnn(CC(C)C)c1",
+    "qed": 0.701,
+    "logP": 1.187,
+    "sas": 2.221,
+    "svg": "/molecules/416.svg"
+  },
+  {
+    "id": 417,
+    "smiles": "COc1cccc(CN(C(=O)c2ccc([N+](=O)[O-])o2)C(C)C)c1",
+    "qed": 0.603,
+    "logP": 3.247,
+    "sas": 2.241,
+    "svg": "/molecules/417.svg"
+  },
+  {
+    "id": 418,
+    "smiles": "CC(=O)N1N=C(c2ccccc2)C(=O)N1c1ccc(Br)cc1",
+    "qed": 0.707,
+    "logP": 3.124,
+    "sas": 2.534,
+    "svg": "/molecules/418.svg"
+  },
+  {
+    "id": 419,
+    "smiles": "CC[NH+]1CCC[C@@H]1CNC(=O)C(=O)Nc1cc(C#N)ccc1Oc1ccccc1",
+    "qed": 0.648,
+    "logP": 1.472,
+    "sas": 3.91,
+    "svg": "/molecules/419.svg"
+  },
+  {
+    "id": 420,
+    "smiles": "N#C/C(=C\\c1cc(=O)[nH]cc1N)[C@@H]1CCCc2ccsc21",
+    "qed": 0.836,
+    "logP": 3.046,
+    "sas": 3.98,
+    "svg": "/molecules/420.svg"
+  },
+  {
+    "id": 421,
+    "smiles": "COc1cc(OC)c(N2C(=O)/C(=C/c3ccc(F)c([N+](=O)[O-])c3C)SC2=S)cc1OC",
+    "qed": 0.268,
+    "logP": 4.474,
+    "sas": 2.719,
+    "svg": "/molecules/421.svg"
+  },
+  {
+    "id": 422,
+    "smiles": "CN(C)C(=O)c1c(C2CC[NH2+]CC2)nc(SC)nc1Cl",
+    "qed": 0.513,
+    "logP": 0.994,
+    "sas": 3.891,
+    "svg": "/molecules/422.svg"
+  },
+  {
+    "id": 423,
+    "smiles": "CCCC(=O)N[C@H]1CCC[NH+](CC(=O)Nc2cccc(C#N)c2)C1",
+    "qed": 0.709,
+    "logP": 0.46,
+    "sas": 4.001,
+    "svg": "/molecules/423.svg"
+  },
+  {
+    "id": 424,
+    "smiles": "COCCn1cnn2[C@@H](c3cccs3)CC(=O)[C@@H]2C1",
+    "qed": 0.834,
+    "logP": 1.338,
+    "sas": 4.109,
+    "svg": "/molecules/424.svg"
+  },
+  {
+    "id": 425,
+    "smiles": "Fc1cn[nH]c1NCC(=O)Nc1ccc(F)c(F)c1F",
+    "qed": 0.595,
+    "logP": 2.017,
+    "sas": 2.659,
+    "svg": "/molecules/425.svg"
+  },
+  {
+    "id": 426,
+    "smiles": "O=C(COc1cccc2ccccc12)N1CCN(c2cc(-n3cccc3)ncc2Br)CC1",
+    "qed": 0.412,
+    "logP": 4.516,
+    "sas": 2.508,
+    "svg": "/molecules/426.svg"
+  },
+  {
+    "id": 427,
+    "smiles": "COc1cc(/C=C(\\C#N)C(=O)c2ccco2)ccc1Cl",
+    "qed": 0.488,
+    "logP": 3.731,
+    "sas": 2.298,
+    "svg": "/molecules/427.svg"
+  },
+  {
+    "id": 428,
+    "smiles": "CC(C)(CNC(=O)[C@]1(C)CCCO1)c1ccsc1",
+    "qed": 0.911,
+    "logP": 2.711,
+    "sas": 3.453,
+    "svg": "/molecules/428.svg"
+  },
+  {
+    "id": 429,
+    "smiles": "CCN(Cc1ccccc1)C(=O)CCCNc1nnc(C)s1",
+    "qed": 0.76,
+    "logP": 3.087,
+    "sas": 2.123,
+    "svg": "/molecules/429.svg"
+  },
+  {
+    "id": 430,
+    "smiles": "Cc1cc(F)ccc1CCC(=O)Nc1ccccc1CC(=O)[O-]",
+    "qed": 0.886,
+    "logP": 1.998,
+    "sas": 2.306,
+    "svg": "/molecules/430.svg"
+  },
+  {
+    "id": 431,
+    "smiles": "C[C@H](c1ccc(Br)cc1)N1CCN(C(=O)c2ccncc2)CC1",
+    "qed": 0.827,
+    "logP": 3.363,
+    "sas": 2.429,
+    "svg": "/molecules/431.svg"
+  },
+  {
+    "id": 432,
+    "smiles": "CC(=O)Nc1ccc(C(=O)O[C@@H](C)C(=O)Nc2cccc(Cl)c2C)cc1",
+    "qed": 0.78,
+    "logP": 3.791,
+    "sas": 2.247,
+    "svg": "/molecules/432.svg"
+  },
+  {
+    "id": 433,
+    "smiles": "Cc1ccsc1[C@@H](C)NC(=O)/C=C(/CCBr)CC",
+    "qed": 0.609,
+    "logP": 4.355,
+    "sas": 3.5,
+    "svg": "/molecules/433.svg"
+  },
+  {
+    "id": 434,
+    "smiles": "CC(C)C[NH+]1CC[C@@H]([NH+]2CCC(C[NH2+]C)CC2)C1",
+    "qed": 0.497,
+    "logP": -2.212,
+    "sas": 6.817,
+    "svg": "/molecules/434.svg"
+  },
+  {
+    "id": 435,
+    "smiles": "CS[C@@H]1CCC[C@@H]1NC(=O)/C(=C\\c1ccccc1)c1cscn1",
+    "qed": 0.831,
+    "logP": 4.084,
+    "sas": 3.619,
+    "svg": "/molecules/435.svg"
+  },
+  {
+    "id": 436,
+    "smiles": "COc1ccc(C[C@H](C)[NH2+][C@H]2CCC[C@@H](C)C2)cc1[N+](=O)[O-]",
+    "qed": 0.649,
+    "logP": 2.676,
+    "sas": 4.079,
+    "svg": "/molecules/436.svg"
+  },
+  {
+    "id": 437,
+    "smiles": "C[NH2+][C@H](CCOC[C@H]1CCCCO1)c1nc2ccccc2cc1[N+](=O)[O-]",
+    "qed": 0.443,
+    "logP": 2.353,
+    "sas": 3.881,
+    "svg": "/molecules/437.svg"
+  },
+  {
+    "id": 438,
+    "smiles": "Cc1c(C)c(C)c(S(=O)(=O)[N-]c2ccccc2Cl)c([N+](=O)[O-])c1C",
+    "qed": 0.568,
+    "logP": 4.876,
+    "sas": 3.363,
+    "svg": "/molecules/438.svg"
+  },
+  {
+    "id": 439,
+    "smiles": "O=C(COC(=O)c1ccccc1)N1CCN(c2ccc(F)c(Cl)c2)CC1",
+    "qed": 0.77,
+    "logP": 2.985,
+    "sas": 1.865,
+    "svg": "/molecules/439.svg"
+  },
+  {
+    "id": 440,
+    "smiles": "Cc1nc(NC(=O)[C@@H]([N-]S(=O)(=O)c2ccccc2)c2cnn(-c3ccccc3)c2C)sc1C",
+    "qed": 0.413,
+    "logP": 4.696,
+    "sas": 3.478,
+    "svg": "/molecules/440.svg"
+  },
+  {
+    "id": 441,
+    "smiles": "CC(C)c1noc(CN2CCN(c3ccc4ccccc4c3)CC2)n1",
+    "qed": 0.727,
+    "logP": 3.668,
+    "sas": 2.133,
+    "svg": "/molecules/441.svg"
+  },
+  {
+    "id": 442,
+    "smiles": "CCN(CC(=O)N[C@@H]1CCN(c2ccccc2F)C(=O)N1)C(=O)c1cc2cc(C#N)ccc2s1",
+    "qed": 0.565,
+    "logP": 3.436,
+    "sas": 3.406,
+    "svg": "/molecules/442.svg"
+  },
+  {
+    "id": 443,
+    "smiles": "COc1cc(-c2cccc(C[NH+]3CC[C@@H](C(=O)N(C)C)C3)n2)cc([N+](=O)[O-])c1",
+    "qed": 0.595,
+    "logP": 1.158,
+    "sas": 4.138,
+    "svg": "/molecules/443.svg"
+  },
+  {
+    "id": 444,
+    "smiles": "Cc1c(Cl)ccc2snc(C3=CCN3C(=O)[C@@H]3CC[C@@H]23)c1",
+    "qed": 0.636,
+    "logP": 3.808,
+    "sas": 5.895,
+    "svg": "/molecules/444.svg"
+  },
+  {
+    "id": 445,
+    "smiles": "[NH3+][C@@H](Cc1ccc(Cl)cc1)[C@@H]1CCCO1",
+    "qed": 0.837,
+    "logP": 1.672,
+    "sas": 3.465,
+    "svg": "/molecules/445.svg"
+  },
+  {
+    "id": 446,
+    "smiles": "C[C@H](NC(=O)[C@@H]1C[C@H]1c1ccc(Cl)cc1Cl)[NH+]1CCC(NC(C)=O)CC1",
+    "qed": 0.707,
+    "logP": 1.742,
+    "sas": 4.372,
+    "svg": "/molecules/446.svg"
+  },
+  {
+    "id": 447,
+    "smiles": "CCOC(=O)C1CCN(C(=O)c2ccccc2NC(=O)[C@H]2CC(=O)N(CCc3ccccc3)C2)CC1",
+    "qed": 0.573,
+    "logP": 3.132,
+    "sas": 2.687,
+    "svg": "/molecules/447.svg"
+  },
+  {
+    "id": 448,
+    "smiles": "C[C@@H](NC(=O)N[C@@H](CCO)c1ccco1)[C@H]1CCCO1",
+    "qed": 0.739,
+    "logP": 1.57,
+    "sas": 3.548,
+    "svg": "/molecules/448.svg"
+  },
+  {
+    "id": 449,
+    "smiles": "C[NH+](Cc1cc(F)cc(C#N)c1)Cc1coc(-c2cccs2)n1",
+    "qed": 0.783,
+    "logP": 2.629,
+    "sas": 3.942,
+    "svg": "/molecules/449.svg"
+  },
+  {
+    "id": 450,
+    "smiles": "C[C@H]1C[C@@H](C[NH+](C)[C@@H](CCC(F)(F)F)c2ccccn2)CC1",
+    "qed": 0.851,
+    "logP": 3.416,
+    "sas": 4.555,
+    "svg": "/molecules/450.svg"
+  },
+  {
+    "id": 451,
+    "smiles": "CN(C(=O)c1ccc(S(=O)(=O)NC2CC2)cc1)c1ccc(N(C)C)cc1",
+    "qed": 0.845,
+    "logP": 2.47,
+    "sas": 2.089,
+    "svg": "/molecules/451.svg"
+  },
+  {
+    "id": 452,
+    "smiles": "Cc1ccc(CNC(=O)N2CCC(C(=O)NC3CC3)C(=O)[C@H]2C)cc1",
+    "qed": 0.818,
+    "logP": 1.763,
+    "sas": 3.124,
+    "svg": "/molecules/452.svg"
+  },
+  {
+    "id": 453,
+    "smiles": "Cc1ccc(C(=O)/C(=C/c2ccco2)[NH+]2CCN(Cc3cccc(Cl)c3)CC2)cc1",
+    "qed": 0.485,
+    "logP": 3.866,
+    "sas": 3.224,
+    "svg": "/molecules/453.svg"
+  },
+  {
+    "id": 454,
+    "smiles": "CC(C)c1ccc(C[NH+]2CCC[C@H](Cn3cnc(C(=O)[O-])n3)C2)cc1",
+    "qed": 0.817,
+    "logP": 0.26,
+    "sas": 4.62,
+    "svg": "/molecules/454.svg"
+  },
+  {
+    "id": 455,
+    "smiles": "CCc1ccc(NC(=O)c2ccc(OS(C)(=O)=O)cc2)cc1",
+    "qed": 0.86,
+    "logP": 2.84,
+    "sas": 1.712,
+    "svg": "/molecules/455.svg"
+  },
+  {
+    "id": 456,
+    "smiles": "CSC[C@H](C)n1nnnc1-c1ccc(Oc2ccccc2)cc1",
+    "qed": 0.684,
+    "logP": 4.056,
+    "sas": 2.71,
+    "svg": "/molecules/456.svg"
+  },
+  {
+    "id": 457,
+    "smiles": "CCC[NH+]1CCC(CC)[C@H](CN(C)C(=O)[C@@H](C)[NH+]2CCC[C@H](C)C2)C1",
+    "qed": 0.685,
+    "logP": 0.489,
+    "sas": 6.097,
+    "svg": "/molecules/457.svg"
+  },
+  {
+    "id": 458,
+    "smiles": "CC(C)(C)c1ccccc1[S-]",
+    "qed": 0.533,
+    "logP": 2.89,
+    "sas": 2.987,
+    "svg": "/molecules/458.svg"
+  },
+  {
+    "id": 459,
+    "smiles": "Fc1cc(NC(=O)CSc2nnc(Cc3ccc[nH]3)o2)c(Cl)s1",
+    "qed": 0.646,
+    "logP": 3.573,
+    "sas": 3.192,
+    "svg": "/molecules/459.svg"
+  },
+  {
+    "id": 460,
+    "smiles": "Cc1cncc(/C=C/c2n[nH]c(=O)[nH]2)c1",
+    "qed": 0.762,
+    "logP": 0.972,
+    "sas": 3.065,
+    "svg": "/molecules/460.svg"
+  },
+  {
+    "id": 461,
+    "smiles": "C[C@@H](NC(=O)c1ccc(CCN2CCc3ccccc32)cc1)c1cc([N+](=O)[O-])cn1C",
+    "qed": 0.464,
+    "logP": 4.03,
+    "sas": 2.949,
+    "svg": "/molecules/461.svg"
+  },
+  {
+    "id": 462,
+    "smiles": "C[C@@H]1C[C@H]1C(=O)Nc1ccc([N+](=O)[O-])cc1Cl",
+    "qed": 0.666,
+    "logP": 2.843,
+    "sas": 2.666,
+    "svg": "/molecules/462.svg"
+  },
+  {
+    "id": 463,
+    "smiles": "CCc1ccsc1CNC(=O)N1C[C@@H](C)O[C@H](C)C1",
+    "qed": 0.926,
+    "logP": 2.629,
+    "sas": 3.332,
+    "svg": "/molecules/463.svg"
+  },
+  {
+    "id": 464,
+    "smiles": "CCCCNC(=O)N1CCC(C(=O)Nc2ccc3ncccc3c2)CC1",
+    "qed": 0.808,
+    "logP": 3.395,
+    "sas": 2.015,
+    "svg": "/molecules/464.svg"
+  },
+  {
+    "id": 465,
+    "smiles": "CNC(=O)[C@@H](C)Oc1nc2ccc3nc(N4CCCC4=O)nc3cc2o1",
+    "qed": 0.752,
+    "logP": 1.363,
+    "sas": 3.381,
+    "svg": "/molecules/465.svg"
+  },
+  {
+    "id": 466,
+    "smiles": "COc1ccc([N+](=O)[O-])cc1C(=O)N[C@H](C)c1ccccc1Cl",
+    "qed": 0.667,
+    "logP": 3.748,
+    "sas": 2.303,
+    "svg": "/molecules/466.svg"
+  },
+  {
+    "id": 467,
+    "smiles": "CN(C1CCCCC1)S(=O)(=O)c1cccc(N[C@H]2CCSC2)c1",
+    "qed": 0.878,
+    "logP": 3.557,
+    "sas": 2.873,
+    "svg": "/molecules/467.svg"
+  },
+  {
+    "id": 468,
+    "smiles": "O=C(Cc1nnc(-c2ccccc2F)o1)[C@@H]1CCCN1C(=O)c1ccco1",
+    "qed": 0.687,
+    "logP": 2.885,
+    "sas": 2.903,
+    "svg": "/molecules/468.svg"
+  },
+  {
+    "id": 469,
+    "smiles": "COC(=O)[C@@H](N1CCCCCC1)[C@@H]1CCC[C@H](C)C1",
+    "qed": 0.735,
+    "logP": 3.23,
+    "sas": 3.272,
+    "svg": "/molecules/469.svg"
+  },
+  {
+    "id": 470,
+    "smiles": "CCOc1ccc([N-]S(=O)(=O)c2ccc(C(C)C)cc2)cn1",
+    "qed": 0.807,
+    "logP": 3.998,
+    "sas": 3.101,
+    "svg": "/molecules/470.svg"
+  },
+  {
+    "id": 471,
+    "smiles": "Cc1c(N[C@@H]2CCCCN2C(=O)C(=O)Nc2ccc(F)cc2Br)cnn1-c1ccc(Cl)cc1",
+    "qed": 0.455,
+    "logP": 5.125,
+    "sas": 3.221,
+    "svg": "/molecules/471.svg"
+  },
+  {
+    "id": 472,
+    "smiles": "O=[N+]([O-])c1ccc(CO)cc1N1CCC[C@H](NC(=O)c2ccc(Cl)s2)C1",
+    "qed": 0.598,
+    "logP": 3.201,
+    "sas": 2.856,
+    "svg": "/molecules/472.svg"
+  },
+  {
+    "id": 473,
+    "smiles": "COCCOc1cc(-c2nnc(-c3nccs3)o2)ccc1F",
+    "qed": 0.65,
+    "logP": 3.024,
+    "sas": 2.497,
+    "svg": "/molecules/473.svg"
+  },
+  {
+    "id": 474,
+    "smiles": "Cc1cc(NC(=O)c2cc([N+](=O)[O-])cc([N+](=O)[O-])c2)no1",
+    "qed": 0.671,
+    "logP": 2.052,
+    "sas": 2.245,
+    "svg": "/molecules/474.svg"
+  },
+  {
+    "id": 475,
+    "smiles": "CN(CCCNC(=O)Nc1nc(C2CC2)no1)CSc1ccccc1",
+    "qed": 0.406,
+    "logP": 3.14,
+    "sas": 2.783,
+    "svg": "/molecules/475.svg"
+  },
+  {
+    "id": 476,
+    "smiles": "CC1CC[NH+](C[NH+]2CCC(OC(=O)C3CC3)CC2)SC1",
+    "qed": 0.544,
+    "logP": -0.483,
+    "sas": 5.6,
+    "svg": "/molecules/476.svg"
+  },
+  {
+    "id": 477,
+    "smiles": "CCN1C(=O)Cc2cc(C(=O)[O-])ccc21",
+    "qed": 0.679,
+    "logP": -0.041,
+    "sas": 2.754,
+    "svg": "/molecules/477.svg"
+  },
+  {
+    "id": 478,
+    "smiles": "CC(C)c1nc2n(n1)CCC[C@H]2NC(=O)N[C@@H](c1ccccc1)C(N)=O",
+    "qed": 0.757,
+    "logP": 1.762,
+    "sas": 3.389,
+    "svg": "/molecules/478.svg"
+  },
+  {
+    "id": 479,
+    "smiles": "CC(C)(C)c1ccc2[nH]c(=O)c(CNc3cc(F)c(F)cc3F)nc2c1",
+    "qed": 0.686,
+    "logP": 4.25,
+    "sas": 2.515,
+    "svg": "/molecules/479.svg"
+  },
+  {
+    "id": 480,
+    "smiles": "CC(C)C(=O)Nc1ccc(CNC(=O)NC[C@@H]2CCCc3ccccc32)cc1",
+    "qed": 0.704,
+    "logP": 4.2,
+    "sas": 2.555,
+    "svg": "/molecules/480.svg"
+  },
+  {
+    "id": 481,
+    "smiles": "CO[C@@H](C(=O)NC1CCCCC1)c1nc(C(C)(C)C)on1",
+    "qed": 0.923,
+    "logP": 2.504,
+    "sas": 3.106,
+    "svg": "/molecules/481.svg"
+  },
+  {
+    "id": 482,
+    "smiles": "Cc1noc(C)c1[C@H]1CCCN1C(=O)CCCC(=O)c1c(C)nn(-c2ccccc2)c1C#N",
+    "qed": 0.5,
+    "logP": 4.374,
+    "sas": 3.301,
+    "svg": "/molecules/482.svg"
+  },
+  {
+    "id": 483,
+    "smiles": "CS(=O)(=O)CCNC(=O)c1ccccc1[C@@H]1CCCN1Cc1ccccc1Cl",
+    "qed": 0.745,
+    "logP": 3.452,
+    "sas": 2.662,
+    "svg": "/molecules/483.svg"
+  },
+  {
+    "id": 484,
+    "smiles": "C/C(=N\\NC(=O)[C@@H]1CCCN(S(=O)(=O)c2ccc(Cl)cc2Cl)C1=O)c1ccc(F)cc1",
+    "qed": 0.397,
+    "logP": 3.6,
+    "sas": 3.018,
+    "svg": "/molecules/484.svg"
+  },
+  {
+    "id": 485,
+    "smiles": "Cc1c(C(=O)CSc2nc3ccc(Cl)cc3n2C)nsc1N1CCCCC1",
+    "qed": 0.431,
+    "logP": 4.957,
+    "sas": 2.802,
+    "svg": "/molecules/485.svg"
+  },
+  {
+    "id": 486,
+    "smiles": "COc1ccc(NC(=O)Cn2cnc3ccccc3c2=O)cc1NC(=O)c1ccco1",
+    "qed": 0.498,
+    "logP": 2.889,
+    "sas": 2.108,
+    "svg": "/molecules/486.svg"
+  },
+  {
+    "id": 487,
+    "smiles": "CC1(C)CN(C(=O)Nc2ccc3oc(CS(C)(=O)=O)nn3c2=O)CC1",
+    "qed": 0.868,
+    "logP": 1.096,
+    "sas": 3.274,
+    "svg": "/molecules/487.svg"
+  },
+  {
+    "id": 488,
+    "smiles": "O=C(Nc1ccc(OCc2ccc(Cl)cc2Cl)cc1)C1[C@H]2CCCC[C@@H]12",
+    "qed": 0.685,
+    "logP": 5.947,
+    "sas": 2.962,
+    "svg": "/molecules/488.svg"
+  },
+  {
+    "id": 489,
+    "smiles": "O=C1CO[C@@]2(CCOC3(CCCCC3)O2)C(=O)N1CCCn1ccnc1",
+    "qed": 0.753,
+    "logP": 1.452,
+    "sas": 4.356,
+    "svg": "/molecules/489.svg"
+  },
+  {
+    "id": 490,
+    "smiles": "CC(C)COc1cccc(S(=O)(=O)N2CCC[C@@H]2c2ccccc2F)c1",
+    "qed": 0.75,
+    "logP": 4.386,
+    "sas": 2.574,
+    "svg": "/molecules/490.svg"
+  },
+  {
+    "id": 491,
+    "smiles": "CC(C)[NH+]1CCC[C@@H]1CNS(=O)(=O)c1ccc(Cl)c(F)c1",
+    "qed": 0.85,
+    "logP": 1.213,
+    "sas": 4.216,
+    "svg": "/molecules/491.svg"
+  },
+  {
+    "id": 492,
+    "smiles": "CC(C)N(Cc1nncn1C)C(=O)c1ccc(N2C(=O)C(c3ccccc3)CS2)cc1",
+    "qed": 0.553,
+    "logP": 3.645,
+    "sas": 3.405,
+    "svg": "/molecules/492.svg"
+  },
+  {
+    "id": 493,
+    "smiles": "Cc1ccc[nH+]c1NC[C@H]1CCC(C)(C)[C@H]1CCC",
+    "qed": 0.849,
+    "logP": 4.074,
+    "sas": 4.682,
+    "svg": "/molecules/493.svg"
+  },
+  {
+    "id": 494,
+    "smiles": "Cn1c(CN2CCN(c3cccc(Cl)n3)CC2)cnc1S(=O)(=O)c1ccc(F)cc1",
+    "qed": 0.44,
+    "logP": 2.763,
+    "sas": 2.644,
+    "svg": "/molecules/494.svg"
+  },
+  {
+    "id": 495,
+    "smiles": "COc1ccc(-c2n[nH]cc2C)s1",
+    "qed": 0.797,
+    "logP": 2.455,
+    "sas": 3.291,
+    "svg": "/molecules/495.svg"
+  },
+  {
+    "id": 496,
+    "smiles": "C[C@]1(c2nc(CC(=O)NC3CCCCC3)on2)CCCC[NH2+]1",
+    "qed": 0.87,
+    "logP": 1.024,
+    "sas": 3.895,
+    "svg": "/molecules/496.svg"
+  },
+  {
+    "id": 497,
+    "smiles": "COc1cccc([C@H](C)NC(=O)c2ccc(CS(C)(=O)=O)cc2)c1",
+    "qed": 0.872,
+    "logP": 2.731,
+    "sas": 2.267,
+    "svg": "/molecules/497.svg"
+  },
+  {
+    "id": 498,
+    "smiles": "COc1ncnc(Nc2cc(Cl)ccc2N2CCCCCC2)c1",
+    "qed": 0.906,
+    "logP": 4.263,
+    "sas": 2.218,
+    "svg": "/molecules/498.svg"
+  },
+  {
+    "id": 499,
+    "smiles": "Cc1ccc(NC(=O)C[NH2+][C@@H](c2ccccc2)C2CCCC2)o1",
+    "qed": 0.861,
+    "logP": 3.021,
+    "sas": 3.634,
+    "svg": "/molecules/499.svg"
+  },
+  {
+    "id": 500,
+    "smiles": "CCc1nc(CNC(=O)N2CCC[NH+](Cc3ccc(F)c(Cl)c3)CC2)cs1",
+    "qed": 0.794,
+    "logP": 2.498,
+    "sas": 3.896,
+    "svg": "/molecules/500.svg"
+  },
+  {
+    "id": 501,
+    "smiles": "O=C(CNC(=O)N1CCCc2ccccc21)N1CCC2(CCC2)OC1(C#N)C(F)(F)F",
+    "qed": 0.772,
+    "logP": 3.103,
+    "sas": 4.101,
+    "svg": "/molecules/501.svg"
+  },
+  {
+    "id": 502,
+    "smiles": "O=C([O-])c1cccc(NC[C@H](O)Cc2ccccc2)n1",
+    "qed": 0.797,
+    "logP": 0.461,
+    "sas": 2.906,
+    "svg": "/molecules/502.svg"
+  },
+  {
+    "id": 503,
+    "smiles": "CCc1nn(C)cc1CN(C)C(=O)[C@@H](C)c1cc2ccccc2oc1=O",
+    "qed": 0.662,
+    "logP": 2.851,
+    "sas": 3.216,
+    "svg": "/molecules/503.svg"
+  },
+  {
+    "id": 504,
+    "smiles": "CN(Cc1ccccc1)CC(=O)c1cccs1",
+    "qed": 0.755,
+    "logP": 3.063,
+    "sas": 1.822,
+    "svg": "/molecules/504.svg"
+  },
+  {
+    "id": 505,
+    "smiles": "NC(=O)C1CCN(C(=O)N[C@@H]2CS[C@@H]3CCCC[C@@H]3C2)CC1",
+    "qed": 0.815,
+    "logP": 1.958,
+    "sas": 3.643,
+    "svg": "/molecules/505.svg"
+  },
+  {
+    "id": 506,
+    "smiles": "COc1cccc(C(=O)N2CCN(CC(=O)N[C@@H](C)CC)CC2)c1C",
+    "qed": 0.85,
+    "logP": 1.676,
+    "sas": 2.401,
+    "svg": "/molecules/506.svg"
+  },
+  {
+    "id": 507,
+    "smiles": "Cc1cc(C)c2c(c1)s/C(=C\\c1ccccc1OC[C@H]1CCC[NH2+]1)C(=O)N2",
+    "qed": 0.797,
+    "logP": 3.493,
+    "sas": 3.89,
+    "svg": "/molecules/507.svg"
+  },
+  {
+    "id": 508,
+    "smiles": "O=C(CN1C(=O)[C@H]2CCCC[C@@H]2C1=O)NCc1cccs1",
+    "qed": 0.858,
+    "logP": 1.539,
+    "sas": 2.872,
+    "svg": "/molecules/508.svg"
+  },
+  {
+    "id": 509,
+    "smiles": "CCCNC(=O)C[NH+]1CCN([C@]2(C#N)CCC[C@H]2C)c2ccccc21",
+    "qed": 0.856,
+    "logP": 1.632,
+    "sas": 4.79,
+    "svg": "/molecules/509.svg"
+  },
+  {
+    "id": 510,
+    "smiles": "CCOc1ccc(CC(=O)Nc2nnc(Cc3ccccc3F)s2)cc1F",
+    "qed": 0.664,
+    "logP": 3.987,
+    "sas": 2.187,
+    "svg": "/molecules/510.svg"
+  },
+  {
+    "id": 511,
+    "smiles": "CCCC[C@H](CC)NS(C)(=O)=O",
+    "qed": 0.695,
+    "logP": 1.504,
+    "sas": 2.736,
+    "svg": "/molecules/511.svg"
+  },
+  {
+    "id": 512,
+    "smiles": "Cc1c(Cl)cccc1NC(=O)C(=O)NCCCN1CCN(c2cncnc2)CC1",
+    "qed": 0.55,
+    "logP": 1.705,
+    "sas": 2.355,
+    "svg": "/molecules/512.svg"
+  },
+  {
+    "id": 513,
+    "smiles": "C[C@@H](NC(=O)N1CCO[C@]2(CCOC2)C1)c1ccsc1",
+    "qed": 0.908,
+    "logP": 2.01,
+    "sas": 3.995,
+    "svg": "/molecules/513.svg"
+  },
+  {
+    "id": 514,
+    "smiles": "O=Cc1ccc(F)c(NC(=O)c2cccnc2)c1",
+    "qed": 0.842,
+    "logP": 2.285,
+    "sas": 1.928,
+    "svg": "/molecules/514.svg"
+  },
+  {
+    "id": 515,
+    "smiles": "CC(C)c1ccc(CNC(=O)N[C@H]2CCCC[C@H]2CC#N)cc1",
+    "qed": 0.86,
+    "logP": 4.082,
+    "sas": 2.991,
+    "svg": "/molecules/515.svg"
+  },
+  {
+    "id": 516,
+    "smiles": "CCCNC(=O)[C@H](C)[NH+]1CCC(C(=O)Nc2ccc(C)cn2)CC1",
+    "qed": 0.711,
+    "logP": 0.538,
+    "sas": 3.789,
+    "svg": "/molecules/516.svg"
+  },
+  {
+    "id": 517,
+    "smiles": "CN(C(=O)[C@H](Cl)c1cccc2ccccc12)c1ccsc1",
+    "qed": 0.633,
+    "logP": 4.844,
+    "sas": 2.926,
+    "svg": "/molecules/517.svg"
+  },
+  {
+    "id": 518,
+    "smiles": "O=C1CN(C(=O)c2ccc(Br)o2)C(=O)N1CN1C(=O)N(c2ccccc2)CC1",
+    "qed": 0.671,
+    "logP": 2.346,
+    "sas": 2.845,
+    "svg": "/molecules/518.svg"
+  },
+  {
+    "id": 519,
+    "smiles": "C[C@H]1C[C@@H]1[C@H]1CCCN1C(=O)c1cc(Cl)ccc1Cl",
+    "qed": 0.799,
+    "logP": 4.254,
+    "sas": 3.029,
+    "svg": "/molecules/519.svg"
+  },
+  {
+    "id": 520,
+    "smiles": "COc1cccc(C(=O)NNC(=O)c2ccc(NC(=O)NC3CCCCC3)cc2)c1",
+    "qed": 0.568,
+    "logP": 3.224,
+    "sas": 1.945,
+    "svg": "/molecules/520.svg"
+  },
+  {
+    "id": 521,
+    "smiles": "CC(=O)N(c1ccc(CNC(=O)Nc2cccc(C)c2)cc1)C[C@@H]1CCC[NH+]1C",
+    "qed": 0.703,
+    "logP": 2.347,
+    "sas": 3.783,
+    "svg": "/molecules/521.svg"
+  },
+  {
+    "id": 522,
+    "smiles": "COC(=O)c1cc(C[C@](C)(O)[NH2+][C@@H]2CCSC2)ccc1C(=O)N(C)C",
+    "qed": 0.565,
+    "logP": 0.495,
+    "sas": 4.105,
+    "svg": "/molecules/522.svg"
+  },
+  {
+    "id": 523,
+    "smiles": "O=C(NCC1CCCC1)N1CCN(CN2CCCCCC2)CC1",
+    "qed": 0.863,
+    "logP": 2.337,
+    "sas": 2.17,
+    "svg": "/molecules/523.svg"
+  },
+  {
+    "id": 524,
+    "smiles": "Cc1cccc(N[C@H]2CCC[NH+](C[C@@H]3CCCO3)C2)c1C",
+    "qed": 0.886,
+    "logP": 1.942,
+    "sas": 4.332,
+    "svg": "/molecules/524.svg"
+  },
+  {
+    "id": 525,
+    "smiles": "CNC(=O)c1cncc(Sc2nc3ccc(Cl)cc3oc2=O)c1",
+    "qed": 0.784,
+    "logP": 2.747,
+    "sas": 2.654,
+    "svg": "/molecules/525.svg"
+  },
+  {
+    "id": 526,
+    "smiles": "CN(CCOCC1CC1)C(=O)c1cccc(C#N)c1",
+    "qed": 0.734,
+    "logP": 2.057,
+    "sas": 2.178,
+    "svg": "/molecules/526.svg"
+  },
+  {
+    "id": 527,
+    "smiles": "Cc1c(C[NH2+]C[C@H](C)Oc2ccccc2)cnn1C",
+    "qed": 0.85,
+    "logP": 1.259,
+    "sas": 3.588,
+    "svg": "/molecules/527.svg"
+  },
+  {
+    "id": 528,
+    "smiles": "CCN(Cc1nc2ccccc2c2ccccc12)[C@H]1CC[C@@H]2C[C@H]1C2(C)C",
+    "qed": 0.529,
+    "logP": 6.035,
+    "sas": 4.139,
+    "svg": "/molecules/528.svg"
+  },
+  {
+    "id": 529,
+    "smiles": "CCNS(=O)(=O)c1ccc(C(=O)Nc2ccccc2[N+](=O)[O-])cc1",
+    "qed": 0.612,
+    "logP": 2.145,
+    "sas": 1.862,
+    "svg": "/molecules/529.svg"
+  },
+  {
+    "id": 530,
+    "smiles": "Cc1ccc([N+](=O)[O-])c(NC(=O)/C=C/c2c(OC)ccc(C)c2C)c1",
+    "qed": 0.503,
+    "logP": 4.181,
+    "sas": 2.282,
+    "svg": "/molecules/530.svg"
+  },
+  {
+    "id": 531,
+    "smiles": "Cc1nc(C)n([C@H](C)CSc2nc3ccccc3s2)n1",
+    "qed": 0.687,
+    "logP": 3.858,
+    "sas": 3.096,
+    "svg": "/molecules/531.svg"
+  },
+  {
+    "id": 532,
+    "smiles": "CCc1nn(-c2ccc([N+](=O)[O-])cc2Cl)c(C)c1C[NH+]1CCN(Cc2ccccc2)CC1",
+    "qed": 0.439,
+    "logP": 3.205,
+    "sas": 3.296,
+    "svg": "/molecules/532.svg"
+  },
+  {
+    "id": 533,
+    "smiles": "Cc1ccccc1NC(=O)[C@H](C)[NH+]1CCc2nc(C[NH+](C)CC(=O)c3ccccc3-n3cccn3)ccc21",
+    "qed": 0.299,
+    "logP": 1.573,
+    "sas": 4.852,
+    "svg": "/molecules/533.svg"
+  },
+  {
+    "id": 534,
+    "smiles": "CCC(C)(C)NC(=O)N[C@@H](c1ccc2c(c1)OCCO2)C(=O)N(C)C",
+    "qed": 0.853,
+    "logP": 2.075,
+    "sas": 2.961,
+    "svg": "/molecules/534.svg"
+  },
+  {
+    "id": 535,
+    "smiles": "CCC[C@H]1C(=O)NCCN1C(=O)/C=C/c1ccccc1",
+    "qed": 0.85,
+    "logP": 1.827,
+    "sas": 2.744,
+    "svg": "/molecules/535.svg"
+  },
+  {
+    "id": 536,
+    "smiles": "COc1ccc(CC(=O)NNC(=O)N2C[C@H](C)O[C@H](C)C2)cc1",
+    "qed": 0.817,
+    "logP": 1.088,
+    "sas": 2.872,
+    "svg": "/molecules/536.svg"
+  },
+  {
+    "id": 537,
+    "smiles": "NC(=S)N/N=C\\c1ccc(O[C@H]2CCS(=O)(=O)C[C@H]2C)cc1",
+    "qed": 0.483,
+    "logP": 1.056,
+    "sas": 3.454,
+    "svg": "/molecules/537.svg"
+  },
+  {
+    "id": 538,
+    "smiles": "CCc1nn(C)cc1NC(=O)[C@H](C)Oc1cc(Cl)cc(Cl)c1",
+    "qed": 0.902,
+    "logP": 3.695,
+    "sas": 2.904,
+    "svg": "/molecules/538.svg"
+  },
+  {
+    "id": 539,
+    "smiles": "C[C@H](Cc1cccs1)N(C)c1ccccc1[N+](=O)[O-]",
+    "qed": 0.617,
+    "logP": 3.724,
+    "sas": 2.791,
+    "svg": "/molecules/539.svg"
+  },
+  {
+    "id": 540,
+    "smiles": "CC(C)C(=O)c1cccc(S(=O)(=O)NC2(C)Cc3ccccc3C2)c1",
+    "qed": 0.835,
+    "logP": 3.361,
+    "sas": 2.5,
+    "svg": "/molecules/540.svg"
+  },
+  {
+    "id": 541,
+    "smiles": "CCN(CC)[C@@H](Cc1ccccc1)[NH2+]CCn1cc[nH+]c1C(=O)[O-]",
+    "qed": 0.576,
+    "logP": -0.86,
+    "sas": 4.761,
+    "svg": "/molecules/541.svg"
+  },
+  {
+    "id": 542,
+    "smiles": "CNC(=O)Cc1cccc2ccccc1[C@H]2NC(=O)N1CCC(O)CC1",
+    "qed": 0.719,
+    "logP": 1.576,
+    "sas": 4.479,
+    "svg": "/molecules/542.svg"
+  },
+  {
+    "id": 543,
+    "smiles": "O=C(NCc1cccs1)[C@@H]1CCCC[NH+]1C[C@@H]1CCC[NH2+]1",
+    "qed": 0.677,
+    "logP": -0.472,
+    "sas": 5.378,
+    "svg": "/molecules/543.svg"
+  },
+  {
+    "id": 544,
+    "smiles": "Cc1ccc(S(=O)(=O)N(C)[C@@H](C)C(=O)OC)cc1[N+](=O)[O-]",
+    "qed": 0.457,
+    "logP": 1.085,
+    "sas": 2.73,
+    "svg": "/molecules/544.svg"
+  },
+  {
+    "id": 545,
+    "smiles": "N#CCOCC(=O)C[NH+]1CCCC[C@H]1CO",
+    "qed": 0.543,
+    "logP": -1.475,
+    "sas": 5.147,
+    "svg": "/molecules/545.svg"
+  },
+  {
+    "id": 546,
+    "smiles": "C[C@H]1CCCN(C(=O)CCCN2C(=O)[C@@H](Cc3ccccc3)N2[C@@H]2C=CC=N[C@@H]21)c1ccccc1F",
+    "qed": 0.643,
+    "logP": 4.417,
+    "sas": 4.618,
+    "svg": "/molecules/546.svg"
+  },
+  {
+    "id": 547,
+    "smiles": "COc1ccc2c(CN3CCC[C@@H]4CCCC[C@@H]4O3)ncnc2c1",
+    "qed": 0.86,
+    "logP": 3.725,
+    "sas": 3.46,
+    "svg": "/molecules/547.svg"
+  },
+  {
+    "id": 548,
+    "smiles": "CC[NH2+][C@@H]1CCCCCC1(C)C",
+    "qed": 0.61,
+    "logP": 1.929,
+    "sas": 4.236,
+    "svg": "/molecules/548.svg"
+  },
+  {
+    "id": 549,
+    "smiles": "C[C@@H](CCc1cccn1C)NC(=O)NCCSC1CCCCC1",
+    "qed": 0.71,
+    "logP": 3.711,
+    "sas": 3.057,
+    "svg": "/molecules/549.svg"
+  },
+  {
+    "id": 550,
+    "smiles": "Cc1ccc(O[C@@H](COC(=O)c2nncn2C2CC2)C2CCS2)cc1F",
+    "qed": 0.691,
+    "logP": 3.17,
+    "sas": 3.845,
+    "svg": "/molecules/550.svg"
+  },
+  {
+    "id": 551,
+    "smiles": "COc1cc(C)c(C(=O)COC(=O)c2cc(C)cc(C)c2C)cc1",
+    "qed": 0.616,
+    "logP": 3.969,
+    "sas": 1.988,
+    "svg": "/molecules/551.svg"
+  },
+  {
+    "id": 552,
+    "smiles": "CC[C@@H](Sc1nnc(C2CC2)n1C)C(=O)N[C@H]1C[C@H]1C",
+    "qed": 0.816,
+    "logP": 2.088,
+    "sas": 3.491,
+    "svg": "/molecules/552.svg"
+  },
+  {
+    "id": 553,
+    "smiles": "O=C(Nc1ccc(-n2nnc(-c3ccccc3)n2)cc1)[C@@H]1C[C@@H]1c1c(F)cccc1F",
+    "qed": 0.524,
+    "logP": 4.35,
+    "sas": 3.088,
+    "svg": "/molecules/553.svg"
+  },
+  {
+    "id": 554,
+    "smiles": "N#Cc1ccccc1C1CC1",
+    "qed": 0.592,
+    "logP": 2.436,
+    "sas": 1.887,
+    "svg": "/molecules/554.svg"
+  },
+  {
+    "id": 555,
+    "smiles": "CCCC[NH+]1CCC[C@@H](C(=O)Nc2ccc(-c3ccccc3OC)cc2C)C1",
+    "qed": 0.768,
+    "logP": 3.704,
+    "sas": 3.708,
+    "svg": "/molecules/555.svg"
+  },
+  {
+    "id": 556,
+    "smiles": "CC[NH2+][C@H](C)c1cc(F)ccc1F",
+    "qed": 0.738,
+    "logP": 1.609,
+    "sas": 3.76,
+    "svg": "/molecules/556.svg"
+  },
+  {
+    "id": 557,
+    "smiles": "COc1ccccc1[C@@H]1C[C@@H]1c1ccc(C(=O)N[C@@H]2CC[NH+](CC(C)C)CC2)cc1",
+    "qed": 0.739,
+    "logP": 3.399,
+    "sas": 3.875,
+    "svg": "/molecules/557.svg"
+  },
+  {
+    "id": 558,
+    "smiles": "Cc1cnc(C(=O)N2CCC(O)CC2)c(C)c1C#N",
+    "qed": 0.821,
+    "logP": 1.167,
+    "sas": 2.53,
+    "svg": "/molecules/558.svg"
+  },
+  {
+    "id": 559,
+    "smiles": "CCOc1cc(O[C@@H](C)C(=O)Nc2cc(C)nn2-c2ccccc2)ccc1[N+](=O)[O-]",
+    "qed": 0.446,
+    "logP": 3.894,
+    "sas": 2.673,
+    "svg": "/molecules/559.svg"
+  },
+  {
+    "id": 560,
+    "smiles": "C[C@H](NC(=O)N1CCc2sccc2C1)c1ccc(S(N)(=O)=O)cc1",
+    "qed": 0.873,
+    "logP": 2.224,
+    "sas": 2.721,
+    "svg": "/molecules/560.svg"
+  },
+  {
+    "id": 561,
+    "smiles": "C[C@]12CCC(=O)N1[C@@H](C(=O)Nc1ccc3c(c1)OCO3)C2",
+    "qed": 0.895,
+    "logP": 1.507,
+    "sas": 3.383,
+    "svg": "/molecules/561.svg"
+  },
+  {
+    "id": 562,
+    "smiles": "O=C(c1ccc2ccccc2n1)N1CCC[C@H](CO)C1",
+    "qed": 0.909,
+    "logP": 2.079,
+    "sas": 2.409,
+    "svg": "/molecules/562.svg"
+  },
+  {
+    "id": 563,
+    "smiles": "O=C(NCCCc1nnc2n1CCCCC2)Nc1ccc(Cl)c(F)c1",
+    "qed": 0.796,
+    "logP": 3.551,
+    "sas": 2.308,
+    "svg": "/molecules/563.svg"
+  },
+  {
+    "id": 564,
+    "smiles": "C[NH+](C)CCN1C(=O)N(C(C)(C)c2ccc(Cl)cc2)C(=O)C12CCCCC2",
+    "qed": 0.783,
+    "logP": 2.687,
+    "sas": 3.976,
+    "svg": "/molecules/564.svg"
+  },
+  {
+    "id": 565,
+    "smiles": "O=C([O-])[C@@H]1NSC(c2cncn2C(F)(F)F)N1/N=C/c1cccnc1",
+    "qed": 0.614,
+    "logP": 0.416,
+    "sas": 4.761,
+    "svg": "/molecules/565.svg"
+  },
+  {
+    "id": 566,
+    "smiles": "O=C(CCCOc1ccc(F)cc1)Nc1n[nH]c2ccccc12",
+    "qed": 0.684,
+    "logP": 3.5,
+    "sas": 1.945,
+    "svg": "/molecules/566.svg"
+  },
+  {
+    "id": 567,
+    "smiles": "C[C@@H]1C(=O)CCCCN1C(=O)NCCc1c[nH]c2ccccc12",
+    "qed": 0.915,
+    "logP": 2.864,
+    "sas": 2.757,
+    "svg": "/molecules/567.svg"
+  },
+  {
+    "id": 568,
+    "smiles": "C[C@@H]1CCN(C(=O)c2cnn(-c3ccncc3)c2C)c2ccccc21",
+    "qed": 0.718,
+    "logP": 3.73,
+    "sas": 2.844,
+    "svg": "/molecules/568.svg"
+  },
+  {
+    "id": 569,
+    "smiles": "CN1C(=O)/C(=C/c2cccc([N+](=O)[O-])c2)SC1=S",
+    "qed": 0.36,
+    "logP": 2.426,
+    "sas": 2.265,
+    "svg": "/molecules/569.svg"
+  },
+  {
+    "id": 570,
+    "smiles": "Cc1cc(CNC(=O)CSc2cccc(Cl)c2)cc[n+]1C",
+    "qed": 0.678,
+    "logP": 2.881,
+    "sas": 2.501,
+    "svg": "/molecules/570.svg"
+  },
+  {
+    "id": 571,
+    "smiles": "C[NH+](CCC1=[NH+][C@@H]2CCCC[C@@H]2C1)c1c(F)cccc1F",
+    "qed": 0.825,
+    "logP": 0.985,
+    "sas": 5.302,
+    "svg": "/molecules/571.svg"
+  },
+  {
+    "id": 572,
+    "smiles": "CCOC(=O)c1nn(CCNC(=O)[C@@H]2CCCOC2)s1",
+    "qed": 0.781,
+    "logP": 0.664,
+    "sas": 3.318,
+    "svg": "/molecules/572.svg"
+  },
+  {
+    "id": 573,
+    "smiles": "COC(C)(C)c1nnc(S[C@H](CCl)C(C)C)n1C",
+    "qed": 0.596,
+    "logP": 3.052,
+    "sas": 3.727,
+    "svg": "/molecules/573.svg"
+  },
+  {
+    "id": 574,
+    "smiles": "CC(=O)N[C@H]1CCCN(C(=O)c2cc(C3CC3)on2)C1",
+    "qed": 0.903,
+    "logP": 1.293,
+    "sas": 2.854,
+    "svg": "/molecules/574.svg"
+  },
+  {
+    "id": 575,
+    "smiles": "C[C@@H]1Cc2cc(NC(=O)c3ccc(S(=O)(=O)N[C@@H]4CCC[C@H]4C)cc3)ccc2N1",
+    "qed": 0.696,
+    "logP": 3.762,
+    "sas": 3.253,
+    "svg": "/molecules/575.svg"
+  },
+  {
+    "id": 576,
+    "smiles": "C[C@H](NC(=O)NCCCCOCC1CC1)c1cc2ccccc2o1",
+    "qed": 0.683,
+    "logP": 4.0,
+    "sas": 2.693,
+    "svg": "/molecules/576.svg"
+  },
+  {
+    "id": 577,
+    "smiles": "NC(=O)C(N)c1nnc(-c2cccc(O)c2)s1",
+    "qed": 0.729,
+    "logP": 0.396,
+    "sas": 3.037,
+    "svg": "/molecules/577.svg"
+  },
+  {
+    "id": 578,
+    "smiles": "CSc1ccc(NC(=O)c2cc(C)on2)cc1F",
+    "qed": 0.867,
+    "logP": 3.096,
+    "sas": 2.195,
+    "svg": "/molecules/578.svg"
+  },
+  {
+    "id": 579,
+    "smiles": "CN(C)C(=O)CN(Cc1ccc2c(c1)OCO2)C(=O)C[NH+]1CCCN(C(=O)c2cccs2)CC1",
+    "qed": 0.609,
+    "logP": 0.325,
+    "sas": 3.827,
+    "svg": "/molecules/579.svg"
+  },
+  {
+    "id": 580,
+    "smiles": "C[C@H](C(=O)Nc1ccc(C#N)c(Cl)c1)C(=O)N1CCNC1=O",
+    "qed": 0.82,
+    "logP": 1.338,
+    "sas": 2.966,
+    "svg": "/molecules/580.svg"
+  },
+  {
+    "id": 581,
+    "smiles": "CCn1cccc1/C=C(\\C#N)C(=O)Nc1cccc(C)c1",
+    "qed": 0.689,
+    "logP": 3.362,
+    "sas": 2.362,
+    "svg": "/molecules/581.svg"
+  },
+  {
+    "id": 582,
+    "smiles": "COC1CC[NH+](C[C@@](C)(O)C2CCCCC2)CC1",
+    "qed": 0.787,
+    "logP": 1.011,
+    "sas": 4.383,
+    "svg": "/molecules/582.svg"
+  },
+  {
+    "id": 583,
+    "smiles": "C[NH2+][C@@H](c1ccccc1C)c1ccc(F)cc1C(=O)[O-]",
+    "qed": 0.895,
+    "logP": 0.78,
+    "sas": 3.733,
+    "svg": "/molecules/583.svg"
+  },
+  {
+    "id": 584,
+    "smiles": "CSCCC(=O)N1CCC[C@H]1c1ccccc1[N+](=O)[O-]",
+    "qed": 0.618,
+    "logP": 3.011,
+    "sas": 2.688,
+    "svg": "/molecules/584.svg"
+  },
+  {
+    "id": 585,
+    "smiles": "CC(C)C[C@@H](OC(=O)[C@H]1CCCN1S(C)(=O)=O)C1CCCC1",
+    "qed": 0.702,
+    "logP": 2.559,
+    "sas": 3.304,
+    "svg": "/molecules/585.svg"
+  },
+  {
+    "id": 586,
+    "smiles": "C[C@@H]1C[C@@H]1[NH2+][C@H](C)[C@H]1CCOC2(CCCC2)C1",
+    "qed": 0.8,
+    "logP": 2.086,
+    "sas": 5.318,
+    "svg": "/molecules/586.svg"
+  },
+  {
+    "id": 587,
+    "smiles": "C[C@H](NC(=O)Cc1cccc(C#N)c1)C(=O)N1CCNC(=O)[C@@H]1c1ccnc2ccccc12",
+    "qed": 0.627,
+    "logP": 1.853,
+    "sas": 3.313,
+    "svg": "/molecules/587.svg"
+  },
+  {
+    "id": 588,
+    "smiles": "CC(C)CCN(C(=O)NC[C@H]1CCCN(C(=O)c2cccs2)CC1)C(=O)[O-]",
+    "qed": 0.802,
+    "logP": 2.391,
+    "sas": 3.221,
+    "svg": "/molecules/588.svg"
+  },
+  {
+    "id": 589,
+    "smiles": "CN(CC1CC[NH+](Cc2ccccc2O)CC1)[C@H]1CCS(=O)(=O)C1",
+    "qed": 0.8,
+    "logP": 0.306,
+    "sas": 4.108,
+    "svg": "/molecules/589.svg"
+  },
+  {
+    "id": 590,
+    "smiles": "CC[NH2+][C@]1(C(N)=O)CC[C@@H]([NH+](C)C[C@H]2COC2(C)C)C1",
+    "qed": 0.543,
+    "logP": -1.714,
+    "sas": 6.202,
+    "svg": "/molecules/590.svg"
+  },
+  {
+    "id": 591,
+    "smiles": "COc1ccc2c(c1)CN(C(=O)N[C@@H]1CCCn3ccnc13)C2",
+    "qed": 0.926,
+    "logP": 2.452,
+    "sas": 3.072,
+    "svg": "/molecules/591.svg"
+  },
+  {
+    "id": 592,
+    "smiles": "COc1cc(NC(=O)N(C)C[C@@H]2CCCN(SC)C2)ccc1F",
+    "qed": 0.835,
+    "logP": 3.288,
+    "sas": 3.098,
+    "svg": "/molecules/592.svg"
+  },
+  {
+    "id": 593,
+    "smiles": "Cc1cc(C)cc(N[C@@H](C(=O)[O-])c2ccc(F)cc2)c1",
+    "qed": 0.929,
+    "logP": 2.346,
+    "sas": 2.806,
+    "svg": "/molecules/593.svg"
+  },
+  {
+    "id": 594,
+    "smiles": "COC1(CNC(=O)[C@H](C)Sc2ccccc2Cl)cnc2ccccc21",
+    "qed": 0.771,
+    "logP": 4.195,
+    "sas": 3.549,
+    "svg": "/molecules/594.svg"
+  },
+  {
+    "id": 595,
+    "smiles": "CCN(C)C(=O)c1cccc(CCNC(=O)c2snnc2C)c1",
+    "qed": 0.877,
+    "logP": 1.911,
+    "sas": 2.292,
+    "svg": "/molecules/595.svg"
+  },
+  {
+    "id": 596,
+    "smiles": "CC[NH+](CCn1cc(Cl)nc1-c1cccnc1)C[C@H](C)O",
+    "qed": 0.798,
+    "logP": 0.884,
+    "sas": 4.511,
+    "svg": "/molecules/596.svg"
+  },
+  {
+    "id": 597,
+    "smiles": "CC(C)(C)[C@@H]1CCC[C@@H]([NH2+]Cc2c[nH]c3ccccc23)C1",
+    "qed": 0.859,
+    "logP": 3.836,
+    "sas": 3.934,
+    "svg": "/molecules/597.svg"
+  },
+  {
+    "id": 598,
+    "smiles": "CN(C[C@H]1CCC[NH+]1C)C(=O)N1CCC[C@@H](C(=O)[O-])C1",
+    "qed": 0.663,
+    "logP": -1.823,
+    "sas": 5.033,
+    "svg": "/molecules/598.svg"
+  },
+  {
+    "id": 599,
+    "smiles": "Cc1ccc(N2CCC[C@@H]2C(=O)Nc2sc3c(c2C(=O)NC[C@H]2CCCO3)CC2)cc1C",
+    "qed": 0.721,
+    "logP": 4.437,
+    "sas": 4.957,
+    "svg": "/molecules/599.svg"
+  },
+  {
+    "id": 600,
+    "smiles": "CC[C@H](c1ccccc1)[C@@H]([NH3+])Cc1ccc(O)cc1",
+    "qed": 0.849,
+    "logP": 2.739,
+    "sas": 3.19,
+    "svg": "/molecules/600.svg"
+  },
+  {
+    "id": 601,
+    "smiles": "Cc1nc([C@@H]2CCC[NH+]2C[C@@H]2CCCO2)n(C)n1",
+    "qed": 0.824,
+    "logP": 0.022,
+    "sas": 5.027,
+    "svg": "/molecules/601.svg"
+  },
+  {
+    "id": 602,
+    "smiles": "CC(C)(C)OC(=O)N1CC[C@H]([NH2+][C@H](Cc2cnccn2)C2CC2)C1",
+    "qed": 0.883,
+    "logP": 1.371,
+    "sas": 4.158,
+    "svg": "/molecules/602.svg"
+  },
+  {
+    "id": 603,
+    "smiles": "CC(C)(C)c1ccc(NC(=O)c2ccccc2[N+](=O)[O-])c(C(F)(F)F)c1",
+    "qed": 0.602,
+    "logP": 5.163,
+    "sas": 2.096,
+    "svg": "/molecules/603.svg"
+  },
+  {
+    "id": 604,
+    "smiles": "CSCc1ccnc(N2CCOCC[C@@H]2C(=O)[O-])c1C",
+    "qed": 0.81,
+    "logP": 0.598,
+    "sas": 3.663,
+    "svg": "/molecules/604.svg"
+  },
+  {
+    "id": 605,
+    "smiles": "O=C(CN1C(=O)c2ccccc2C1=O)OCc1ccc(C=O)cc1",
+    "qed": 0.476,
+    "logP": 1.839,
+    "sas": 1.973,
+    "svg": "/molecules/605.svg"
+  },
+  {
+    "id": 606,
+    "smiles": "C[C@H]([NH2+]CC1(CO)COC1)c1ccc2c(c1)OCCCO2",
+    "qed": 0.829,
+    "logP": 0.481,
+    "sas": 3.861,
+    "svg": "/molecules/606.svg"
+  },
+  {
+    "id": 607,
+    "smiles": "COC(=O)c1ccccc1OCCn1cc(C(=O)[O-])cn1",
+    "qed": 0.701,
+    "logP": 0.112,
+    "sas": 2.485,
+    "svg": "/molecules/607.svg"
+  },
+  {
+    "id": 608,
+    "smiles": "O=C(CCCCN1C(=O)c2ccccc2C1=O)N[C@H]1C=CCCC1",
+    "qed": 0.496,
+    "logP": 2.678,
+    "sas": 2.827,
+    "svg": "/molecules/608.svg"
+  },
+  {
+    "id": 609,
+    "smiles": "CCn1cnnc1[C@H]1CC[C@@H](CNc2cc(OC)ccc2OC)C1",
+    "qed": 0.844,
+    "logP": 3.311,
+    "sas": 3.176,
+    "svg": "/molecules/609.svg"
+  },
+  {
+    "id": 610,
+    "smiles": "CC(=O)c1cc(F)ccc1[N-]S(=O)(=O)c1ccc(CNC(=O)C(=O)N2CCCC2)cc1",
+    "qed": 0.541,
+    "logP": 2.661,
+    "sas": 3.021,
+    "svg": "/molecules/610.svg"
+  },
+  {
+    "id": 611,
+    "smiles": "CCOCCCOc1ccc(NC(=O)c2ccc3c(c2)OCO3)cc1",
+    "qed": 0.744,
+    "logP": 3.473,
+    "sas": 1.899,
+    "svg": "/molecules/611.svg"
+  },
+  {
+    "id": 612,
+    "smiles": "Cc1nc2ccccc2c(C)c1CC(=O)NNC(=O)/C=C/c1ccccc1",
+    "qed": 0.555,
+    "logP": 3.255,
+    "sas": 2.161,
+    "svg": "/molecules/612.svg"
+  },
+  {
+    "id": 613,
+    "smiles": "CCOCCN(C)C(=O)CC1CCCC1",
+    "qed": 0.632,
+    "logP": 2.062,
+    "sas": 2.137,
+    "svg": "/molecules/613.svg"
+  },
+  {
+    "id": 614,
+    "smiles": "Cc1ccc(CNC(=O)/C=C/c2cnoc2C)cc1",
+    "qed": 0.855,
+    "logP": 2.621,
+    "sas": 2.389,
+    "svg": "/molecules/614.svg"
+  },
+  {
+    "id": 615,
+    "smiles": "N#CCCN(CCC#N)Cc1ccccc1Cl",
+    "qed": 0.777,
+    "logP": 2.969,
+    "sas": 2.294,
+    "svg": "/molecules/615.svg"
+  },
+  {
+    "id": 616,
+    "smiles": "CN(CCCNC(=O)c1c2c(nn1C)CCC2)C(=O)Nc1ccccc1F",
+    "qed": 0.763,
+    "logP": 2.332,
+    "sas": 2.485,
+    "svg": "/molecules/616.svg"
+  },
+  {
+    "id": 617,
+    "smiles": "Cc1cc(OCC)c(C(=O)Nc2ccc3c(c2)C(=O)N(C)C3=O)cc1",
+    "qed": 0.87,
+    "logP": 2.872,
+    "sas": 1.985,
+    "svg": "/molecules/617.svg"
+  },
+  {
+    "id": 618,
+    "smiles": "COc1cc(C)ccc1NC(=O)[C@@H]1CCCCN1C(=O)C(C)C",
+    "qed": 0.928,
+    "logP": 2.979,
+    "sas": 2.366,
+    "svg": "/molecules/618.svg"
+  },
+  {
+    "id": 619,
+    "smiles": "CN(Cc1nc2c(F)cc(F)cc2s1)C(=O)Nc1ccc(-n2cncn2)cc1",
+    "qed": 0.565,
+    "logP": 3.819,
+    "sas": 2.545,
+    "svg": "/molecules/619.svg"
+  },
+  {
+    "id": 620,
+    "smiles": "COCCOc1cc2c(cc1NC(=O)c1ccc3c(c1)OCO3)CC2",
+    "qed": 0.819,
+    "logP": 2.791,
+    "sas": 2.171,
+    "svg": "/molecules/620.svg"
+  },
+  {
+    "id": 621,
+    "smiles": "Cc1ccc(C[NH2+][C@H](c2cc(C)cc(C)c2)c2ccccn2)s1",
+    "qed": 0.757,
+    "logP": 3.921,
+    "sas": 3.599,
+    "svg": "/molecules/621.svg"
+  },
+  {
+    "id": 622,
+    "smiles": "CSCC[C@@H](C)N(C)C(=O)c1cccc2ccccc12",
+    "qed": 0.826,
+    "logP": 4.053,
+    "sas": 2.553,
+    "svg": "/molecules/622.svg"
+  },
+  {
+    "id": 623,
+    "smiles": "CCOc1ccc(Nc2cnc3cnccn3c2=O)cc1F",
+    "qed": 0.801,
+    "logP": 2.371,
+    "sas": 2.428,
+    "svg": "/molecules/623.svg"
+  },
+  {
+    "id": 624,
+    "smiles": "CCC1=CC(CO)=NN[C@H]1COC(C)(C)C",
+    "qed": 0.763,
+    "logP": 1.458,
+    "sas": 4.174,
+    "svg": "/molecules/624.svg"
+  },
+  {
+    "id": 625,
+    "smiles": "COCC(=O)Nc1c(F)cc(Br)cc1F",
+    "qed": 0.922,
+    "logP": 2.312,
+    "sas": 2.056,
+    "svg": "/molecules/625.svg"
+  },
+  {
+    "id": 626,
+    "smiles": "COc1ccc(Cn2cc(S(=O)(=O)N3CCSCC3)[nH+]c2)cc1[N+](=O)[O-]",
+    "qed": 0.53,
+    "logP": 1.005,
+    "sas": 3.413,
+    "svg": "/molecules/626.svg"
+  },
+  {
+    "id": 627,
+    "smiles": "CCCC(=O)N[C@@H]1CCC[C@H]([NH+](C)Cc2ccccc2)C1",
+    "qed": 0.824,
+    "logP": 1.929,
+    "sas": 3.992,
+    "svg": "/molecules/627.svg"
+  },
+  {
+    "id": 628,
+    "smiles": "CC(C)(C)NC(=O)c1ccc2ccccc2c1",
+    "qed": 0.795,
+    "logP": 3.368,
+    "sas": 1.633,
+    "svg": "/molecules/628.svg"
+  },
+  {
+    "id": 629,
+    "smiles": "C[C@@H]1COCCN1CN1CCN(c2ncc(C[NH3+])s2)CC1",
+    "qed": 0.826,
+    "logP": -0.315,
+    "sas": 3.679,
+    "svg": "/molecules/629.svg"
+  },
+  {
+    "id": 630,
+    "smiles": "CCCN(C(=O)c1cccc(N(C)C(C)=O)c1)[C@@H]1CN(C)CCO1",
+    "qed": 0.825,
+    "logP": 1.81,
+    "sas": 3.193,
+    "svg": "/molecules/630.svg"
+  },
+  {
+    "id": 631,
+    "smiles": "Cc1cc(C)cc(SCC(=O)N[C@H]2CCC[NH+](Cc3ccc([N+](=O)[O-])cc3)C2)c1",
+    "qed": 0.415,
+    "logP": 2.667,
+    "sas": 3.979,
+    "svg": "/molecules/631.svg"
+  },
+  {
+    "id": 632,
+    "smiles": "Cc1ccc2nc(C[C@@H](C#N)[C@@H]3CCCO3)sc2c1",
+    "qed": 0.859,
+    "logP": 3.466,
+    "sas": 3.488,
+    "svg": "/molecules/632.svg"
+  },
+  {
+    "id": 633,
+    "smiles": "Cn1cnc(C[NH2+][C@H](c2ccc(N(C)C)cc2)C2(CO)CCC2)c1",
+    "qed": 0.808,
+    "logP": 1.453,
+    "sas": 4.016,
+    "svg": "/molecules/633.svg"
+  },
+  {
+    "id": 634,
+    "smiles": "C[C@@H](O)C[C@@H]1CCC[C@H]1NC(=O)[C@H]1CCN(c2ccc(F)cc2)C1=O",
+    "qed": 0.802,
+    "logP": 2.234,
+    "sas": 3.578,
+    "svg": "/molecules/634.svg"
+  },
+  {
+    "id": 635,
+    "smiles": "CC[C@@H]1CSc2ncnc(Nc3ccc(C)cc3C)c2C1",
+    "qed": 0.846,
+    "logP": 4.511,
+    "sas": 3.242,
+    "svg": "/molecules/635.svg"
+  },
+  {
+    "id": 636,
+    "smiles": "O=C(CSc1ccccc1Cl)N1CCN(c2ccc(F)cn2)CC1",
+    "qed": 0.779,
+    "logP": 3.315,
+    "sas": 2.098,
+    "svg": "/molecules/636.svg"
+  },
+  {
+    "id": 637,
+    "smiles": "CCN[C@]1(C#N)CC[C@H]([NH+](C)[C@H](C)C(=O)NC(C)(C)C)[C@@H]1C",
+    "qed": 0.692,
+    "logP": 0.475,
+    "sas": 5.298,
+    "svg": "/molecules/637.svg"
+  },
+  {
+    "id": 638,
+    "smiles": "COCc1cccc(NC(=O)[C@@H](C)Oc2ccc(F)c(Cl)c2)c1O",
+    "qed": 0.776,
+    "logP": 3.737,
+    "sas": 2.597,
+    "svg": "/molecules/638.svg"
+  },
+  {
+    "id": 639,
+    "smiles": "C[C@H](SC1CCCCC1)C(=O)N1CC=C(CC(C)(C)C)C1",
+    "qed": 0.705,
+    "logP": 4.646,
+    "sas": 3.507,
+    "svg": "/molecules/639.svg"
+  },
+  {
+    "id": 640,
+    "smiles": "COc1ccc(Br)cc1S(=O)(=O)NCCCNC(=O)c1cccc(C#N)c1",
+    "qed": 0.599,
+    "logP": 2.428,
+    "sas": 2.14,
+    "svg": "/molecules/640.svg"
+  },
+  {
+    "id": 641,
+    "smiles": "COC(=O)[C@H]1CN(C(=O)CCC(=O)NC2CC2)C[C@@H]1C",
+    "qed": 0.737,
+    "logP": 0.313,
+    "sas": 3.031,
+    "svg": "/molecules/641.svg"
+  },
+  {
+    "id": 642,
+    "smiles": "O=C(NC1CCCC1)Nc1ccccc1F",
+    "qed": 0.793,
+    "logP": 2.89,
+    "sas": 1.629,
+    "svg": "/molecules/642.svg"
+  },
+  {
+    "id": 643,
+    "smiles": "C[C@H]1CC[C@H](C(=O)[O-])C1(C)NC(=O)[C@H]1CCCN1C(=O)OCC1=CCCCC1",
+    "qed": 0.72,
+    "logP": 1.759,
+    "sas": 4.32,
+    "svg": "/molecules/643.svg"
+  },
+  {
+    "id": 644,
+    "smiles": "N#Cc1ccc(Cl)cc1NC(=O)CCCC(F)(F)F",
+    "qed": 0.915,
+    "logP": 3.883,
+    "sas": 2.177,
+    "svg": "/molecules/644.svg"
+  },
+  {
+    "id": 645,
+    "smiles": "COc1ccc([C@@H](NC(=O)N[C@@H](C)c2ccncc2)C[C@@H]2CCCCO2)cc1",
+    "qed": 0.753,
+    "logP": 4.151,
+    "sas": 3.196,
+    "svg": "/molecules/645.svg"
+  },
+  {
+    "id": 646,
+    "smiles": "CC1=C[CH]2CC[C@H](C(N)=S)[C@@H]2C1",
+    "qed": 0.496,
+    "logP": 2.265,
+    "sas": 4.213,
+    "svg": "/molecules/646.svg"
+  },
+  {
+    "id": 647,
+    "smiles": "CC[NH+](CC)CC/[NH+]=C(\\N)NC1CC1",
+    "qed": 0.274,
+    "logP": -2.942,
+    "sas": 5.117,
+    "svg": "/molecules/647.svg"
+  },
+  {
+    "id": 648,
+    "smiles": "O=C(NCc1nc2ccccc2s1)c1ccccc1-c1nc2ccccc2[nH]1",
+    "qed": 0.469,
+    "logP": 4.77,
+    "sas": 2.133,
+    "svg": "/molecules/648.svg"
+  },
+  {
+    "id": 649,
+    "smiles": "CC(=O)Nc1ccc(C)c([C@H](CNC(=O)c2ccccc2F)N2C[C@@H](C)O[C@H](C)C2)c1",
+    "qed": 0.738,
+    "logP": 3.673,
+    "sas": 3.276,
+    "svg": "/molecules/649.svg"
+  },
+  {
+    "id": 650,
+    "smiles": "O=C(NC[C@@H]1CN[C@@H]2CC[C@@H](C1)N1CN1CCCC[C@@H]2Cl)N1CCN(c2ccc(Br)cc2)CC1",
+    "qed": 0.442,
+    "logP": 3.689,
+    "sas": 5.483,
+    "svg": "/molecules/650.svg"
+  },
+  {
+    "id": 651,
+    "smiles": "COc1ccc(CNC(=O)CSc2ccncn2)cc1Cl",
+    "qed": 0.654,
+    "logP": 2.547,
+    "sas": 2.11,
+    "svg": "/molecules/651.svg"
+  },
+  {
+    "id": 652,
+    "smiles": "CC(=O)N[C@H](C(=O)NNC(=O)[C@@H]1SCCc2ccccc21)c1ccccc1",
+    "qed": 0.705,
+    "logP": 2.042,
+    "sas": 3.298,
+    "svg": "/molecules/652.svg"
+  },
+  {
+    "id": 653,
+    "smiles": "CN(C)S(=O)(=O)N1C[C@H](O)[C@H](n2cc(C(=O)[O-])nc2Cl)C1",
+    "qed": 0.673,
+    "logP": -2.076,
+    "sas": 4.318,
+    "svg": "/molecules/653.svg"
+  },
+  {
+    "id": 654,
+    "smiles": "Cc1sc(NC(=O)c2ccc(NC(=O)NC[C@H]3CCCOC3)c(C)n2)cc1[N+](=O)[O-]",
+    "qed": 0.471,
+    "logP": 3.469,
+    "sas": 3.274,
+    "svg": "/molecules/654.svg"
+  },
+  {
+    "id": 655,
+    "smiles": "CC[C@H]1CCCCCN1C(=O)C[NH+](C)Cc1ccc(F)cn1",
+    "qed": 0.893,
+    "logP": 1.417,
+    "sas": 3.98,
+    "svg": "/molecules/655.svg"
+  },
+  {
+    "id": 656,
+    "smiles": "COC(=O)/C=C1/SC(=S)N(Cc2cnn([C@H]3CCCO[NH+]3C)c2)C1=O",
+    "qed": 0.447,
+    "logP": 0.039,
+    "sas": 4.52,
+    "svg": "/molecules/656.svg"
+  },
+  {
+    "id": 657,
+    "smiles": "COc1ccc([N+](=O)[O-])c(C)c1NC(=O)c1scnc1CBr",
+    "qed": 0.482,
+    "logP": 3.516,
+    "sas": 2.847,
+    "svg": "/molecules/657.svg"
+  },
+  {
+    "id": 658,
+    "smiles": "CC(C)(C)[C@H]1C(=N)NC(=O)N1CCC(=O)Nc1ccc([N+](=O)[O-])cc1",
+    "qed": 0.557,
+    "logP": 2.341,
+    "sas": 3.218,
+    "svg": "/molecules/658.svg"
+  },
+  {
+    "id": 659,
+    "smiles": "COc1cc(CC(=O)N(C)c2ccc(C)s2)ccc1N1CCCCC1",
+    "qed": 0.8,
+    "logP": 4.261,
+    "sas": 2.473,
+    "svg": "/molecules/659.svg"
+  },
+  {
+    "id": 660,
+    "smiles": "O=C1N=C[C@H](Cc2c[nH]c3cccnc23)N1c1cc(F)ccc1O",
+    "qed": 0.777,
+    "logP": 3.03,
+    "sas": 3.65,
+    "svg": "/molecules/660.svg"
+  },
+  {
+    "id": 661,
+    "smiles": "C[C@H](NC(=O)CCNC(=O)NCC1CC1)c1cccnc1",
+    "qed": 0.709,
+    "logP": 1.358,
+    "sas": 2.51,
+    "svg": "/molecules/661.svg"
+  },
+  {
+    "id": 662,
+    "smiles": "COc1cccc(CNC(=O)NC[C@H](c2ccccc2Cl)N2CCOCC2)c1",
+    "qed": 0.745,
+    "logP": 3.221,
+    "sas": 2.547,
+    "svg": "/molecules/662.svg"
+  },
+  {
+    "id": 663,
+    "smiles": "CC[C@H]1CCCCN1S(=O)(=O)c1ccc(C(=O)NC[C@H]2CC[C@H](C)C2)cc1",
+    "qed": 0.801,
+    "logP": 3.806,
+    "sas": 3.092,
+    "svg": "/molecules/663.svg"
+  },
+  {
+    "id": 664,
+    "smiles": "O=C(Nc1cnn(Cc2ccccc2F)c1)C(=O)Nc1ccc(COc2ccccc2)cc1",
+    "qed": 0.418,
+    "logP": 4.227,
+    "sas": 2.104,
+    "svg": "/molecules/664.svg"
+  },
+  {
+    "id": 665,
+    "smiles": "CCN(C(=O)c1cccc(-n2cnnc2)n1)c1ccc(N2CCO[C@@H](C)C2)cc1",
+    "qed": 0.664,
+    "logP": 2.554,
+    "sas": 3.154,
+    "svg": "/molecules/665.svg"
+  },
+  {
+    "id": 666,
+    "smiles": "CCc1ccc(CNC(=O)N[C@@H](C)c2ccc(Cl)cc2)o1",
+    "qed": 0.875,
+    "logP": 4.056,
+    "sas": 2.469,
+    "svg": "/molecules/666.svg"
+  },
+  {
+    "id": 667,
+    "smiles": "CO/C([O-])=N/s1nc2ccccc2n1CC(C)C",
+    "qed": 0.619,
+    "logP": 1.789,
+    "sas": 4.47,
+    "svg": "/molecules/667.svg"
+  },
+  {
+    "id": 668,
+    "smiles": "CO[C@H](C)c1noc([C@@H](C)NC(=O)[C@@H](C)n2c(-c3ccccc3)cs2)n1",
+    "qed": 0.681,
+    "logP": 3.745,
+    "sas": 3.954,
+    "svg": "/molecules/668.svg"
+  },
+  {
+    "id": 669,
+    "smiles": "CCc1ccc([C@@H](CNC(=O)Nc2ccc(Cl)cc2)[NH+]2CCCC2)cc1",
+    "qed": 0.714,
+    "logP": 3.444,
+    "sas": 3.55,
+    "svg": "/molecules/669.svg"
+  },
+  {
+    "id": 670,
+    "smiles": "Cc1ccccc1CS(=O)(=O)N1CCCCC[C@@H]1c1cccs1",
+    "qed": 0.815,
+    "logP": 4.504,
+    "sas": 2.685,
+    "svg": "/molecules/670.svg"
+  },
+  {
+    "id": 671,
+    "smiles": "C[C@H](C(=O)Nc1ccc2c(c1)CCCC2)n1cccn1",
+    "qed": 0.931,
+    "logP": 2.962,
+    "sas": 2.567,
+    "svg": "/molecules/671.svg"
+  },
+  {
+    "id": 672,
+    "smiles": "Cc1csc(S[C@H](C)C(=O)[C@H](C)n2nnnc2C)c1C#N",
+    "qed": 0.787,
+    "logP": 2.534,
+    "sas": 4.17,
+    "svg": "/molecules/672.svg"
+  },
+  {
+    "id": 673,
+    "smiles": "CC(C)(C)NC(=O)c1sc(-c2ccc([N+](=O)[O-])c(F)c2)nc1F",
+    "qed": 0.684,
+    "logP": 3.525,
+    "sas": 2.684,
+    "svg": "/molecules/673.svg"
+  },
+  {
+    "id": 674,
+    "smiles": "COC(=O)CNC(=O)c1cc(CN(C)C(=O)c2ccc(C)s2)ccc1F",
+    "qed": 0.783,
+    "logP": 2.371,
+    "sas": 2.262,
+    "svg": "/molecules/674.svg"
+  },
+  {
+    "id": 675,
+    "smiles": "Cc1noc(CN2CC[C@@H](C[NH3+])C2)n1",
+    "qed": 0.705,
+    "logP": -0.558,
+    "sas": 3.567,
+    "svg": "/molecules/675.svg"
+  },
+  {
+    "id": 676,
+    "smiles": "C[C@@H]1CCCCN1c1c[nH+]c(N[C@H]2CCCCCC2(C)C)c(=O)[nH]1",
+    "qed": 0.834,
+    "logP": 3.339,
+    "sas": 4.406,
+    "svg": "/molecules/676.svg"
+  },
+  {
+    "id": 677,
+    "smiles": "CSc1ccc(CN(C)C(=O)[C@@H]2C[C@@H]2C)o1",
+    "qed": 0.757,
+    "logP": 2.616,
+    "sas": 3.45,
+    "svg": "/molecules/677.svg"
+  },
+  {
+    "id": 678,
+    "smiles": "CC(=O)c1cc(Br)ccc1OCc1csc(CNC(=O)c2ccc(F)cc2)n1",
+    "qed": 0.514,
+    "logP": 4.756,
+    "sas": 2.179,
+    "svg": "/molecules/678.svg"
+  },
+  {
+    "id": 679,
+    "smiles": "CCNC(=O)c1coc(NC(=O)[C@@H]2CC[C@H](S)C2=O)c1C",
+    "qed": 0.581,
+    "logP": 1.554,
+    "sas": 4.11,
+    "svg": "/molecules/679.svg"
+  },
+  {
+    "id": 680,
+    "smiles": "CN[C@](CC(=O)NCCC(=O)Nc1c(C)cccc1C)C(C)(C)C",
+    "qed": 0.719,
+    "logP": 2.936,
+    "sas": 2.546,
+    "svg": "/molecules/680.svg"
+  },
+  {
+    "id": 681,
+    "smiles": "Cn1ncnc1NS(=O)(=O)c1cccc2[nH]cnc12",
+    "qed": 0.725,
+    "logP": 0.492,
+    "sas": 2.856,
+    "svg": "/molecules/681.svg"
+  },
+  {
+    "id": 682,
+    "smiles": "CN[C@H]1C[C@H](c2ccccc2)NC(=O)/C1=C\\c1nc(C(C)C)n[nH]1",
+    "qed": 0.752,
+    "logP": 2.161,
+    "sas": 3.93,
+    "svg": "/molecules/682.svg"
+  },
+  {
+    "id": 683,
+    "smiles": "CCCCCn1nnnc1CN1CCc2ccccc2C1",
+    "qed": 0.765,
+    "logP": 2.422,
+    "sas": 2.188,
+    "svg": "/molecules/683.svg"
+  },
+  {
+    "id": 684,
+    "smiles": "CC(C)(C)[C@@](O)(CNC(=O)NC[C@@]1(C)CCCO1)c1ccccc1",
+    "qed": 0.775,
+    "logP": 2.789,
+    "sas": 3.568,
+    "svg": "/molecules/684.svg"
+  },
+  {
+    "id": 685,
+    "smiles": "CC[NH+]1CCN(CC(=O)NC2CC[NH+](Cc3cccc(Cl)c3)CC2)CC1",
+    "qed": 0.606,
+    "logP": -0.776,
+    "sas": 4.291,
+    "svg": "/molecules/685.svg"
+  },
+  {
+    "id": 686,
+    "smiles": "Cc1cccc(NC(=O)[C@H]2CSCCO2)n1",
+    "qed": 0.847,
+    "logP": 1.461,
+    "sas": 3.133,
+    "svg": "/molecules/686.svg"
+  },
+  {
+    "id": 687,
+    "smiles": "CC(C)[C@]1(CCc2cccc(F)c2)CCCCC[NH2+]1",
+    "qed": 0.859,
+    "logP": 3.291,
+    "sas": 3.784,
+    "svg": "/molecules/687.svg"
+  },
+  {
+    "id": 688,
+    "smiles": "[O-]c1ccc2c(c1)CCN2[C@H]1CCOC2(CCCC2)C1",
+    "qed": 0.788,
+    "logP": 2.615,
+    "sas": 4.119,
+    "svg": "/molecules/688.svg"
+  },
+  {
+    "id": 689,
+    "smiles": "O=C([O-])c1cccc(NC(=O)c2ccccc2Sc2ccccc2)c1",
+    "qed": 0.767,
+    "logP": 3.454,
+    "sas": 2.185,
+    "svg": "/molecules/689.svg"
+  },
+  {
+    "id": 690,
+    "smiles": "C[C@H](c1c(F)cccc1F)OCCN1CCOCC1",
+    "qed": 0.82,
+    "logP": 2.375,
+    "sas": 2.732,
+    "svg": "/molecules/690.svg"
+  },
+  {
+    "id": 691,
+    "smiles": "CC(C)CO[C@@H]1CCC[C@H](NC(=O)N[C@@H]2CC[NH2+]C2)C1",
+    "qed": 0.692,
+    "logP": 0.605,
+    "sas": 4.411,
+    "svg": "/molecules/691.svg"
+  },
+  {
+    "id": 692,
+    "smiles": "CCCCC(=O)Nc1cc(Cl)ccc1NCc1ccccc1",
+    "qed": 0.747,
+    "logP": 5.081,
+    "sas": 1.713,
+    "svg": "/molecules/692.svg"
+  },
+  {
+    "id": 693,
+    "smiles": "CCc1nc(CCNC(=O)[C@H](C)Sc2nncs2)cc(C)c1Cl",
+    "qed": 0.757,
+    "logP": 3.297,
+    "sas": 3.282,
+    "svg": "/molecules/693.svg"
+  },
+  {
+    "id": 694,
+    "smiles": "CC(C)N(CCC[NH3+])C(=O)C[NH2+][C@@H](C)c1ccc(I)cc1",
+    "qed": 0.617,
+    "logP": 0.785,
+    "sas": 4.355,
+    "svg": "/molecules/694.svg"
+  },
+  {
+    "id": 695,
+    "smiles": "O=C(CCn1ncnc1NC1CCCCC1)Nc1cccnc1",
+    "qed": 0.855,
+    "logP": 2.447,
+    "sas": 2.448,
+    "svg": "/molecules/695.svg"
+  },
+  {
+    "id": 696,
+    "smiles": "CC[C@H](NC(=O)[C@@H](C)n1nc(C)c2ccccc21)c1ccc(C)cc1",
+    "qed": 0.747,
+    "logP": 4.482,
+    "sas": 2.857,
+    "svg": "/molecules/696.svg"
+  },
+  {
+    "id": 697,
+    "smiles": "Cc1cccnc1C(=O)NCc1ccc(C[NH2+]C2CC2)cc1",
+    "qed": 0.849,
+    "logP": 1.546,
+    "sas": 2.907,
+    "svg": "/molecules/697.svg"
+  },
+  {
+    "id": 698,
+    "smiles": "Cc1cccc(-c2cc(N)nc(SCc3cc(C)on3)n2)c1",
+    "qed": 0.585,
+    "logP": 3.623,
+    "sas": 2.382,
+    "svg": "/molecules/698.svg"
+  },
+  {
+    "id": 699,
+    "smiles": "CSC[C@@H](C)NC(=O)C(=O)Nc1ccc(C[NH+]2CCCCC2)cc1",
+    "qed": 0.673,
+    "logP": 1.062,
+    "sas": 3.949,
+    "svg": "/molecules/699.svg"
+  },
+  {
+    "id": 700,
+    "smiles": "COCCN(Cc1cccs1)C(=O)N1CCC([NH+]2CCC[C@@H](C)C2)CC1",
+    "qed": 0.821,
+    "logP": 2.096,
+    "sas": 4.315,
+    "svg": "/molecules/700.svg"
+  },
+  {
+    "id": 701,
+    "smiles": "CC1CCC(CC(=O)N2CCCC[C@H](Cn3cccn3)C2)CC1",
+    "qed": 0.848,
+    "logP": 3.728,
+    "sas": 2.84,
+    "svg": "/molecules/701.svg"
+  },
+  {
+    "id": 702,
+    "smiles": "O[C@@]12C[C@@H](OC2(Cl)Cl)N1C[C@@H]1CCCO1",
+    "qed": 0.748,
+    "logP": 1.047,
+    "sas": 5.351,
+    "svg": "/molecules/702.svg"
+  },
+  {
+    "id": 703,
+    "smiles": "Cc1cc(C)s/c1-c1ccc(NC(=O)CO)c(C(=O)NC(C)C)c1",
+    "qed": 0.778,
+    "logP": 3.101,
+    "sas": 2.398,
+    "svg": "/molecules/703.svg"
+  },
+  {
+    "id": 704,
+    "smiles": "O=C(C[C@H]1C=CCC1)N1CCN(CCS(C)(=O)=O)CC1",
+    "qed": 0.695,
+    "logP": 0.532,
+    "sas": 2.913,
+    "svg": "/molecules/704.svg"
+  },
+  {
+    "id": 705,
+    "smiles": "O=C(CN1CCCCCC1=O)N[C@@H]1CCC[C@@H]1Cc1ccc(F)cc1",
+    "qed": 0.891,
+    "logP": 3.056,
+    "sas": 2.914,
+    "svg": "/molecules/705.svg"
+  },
+  {
+    "id": 706,
+    "smiles": "CCOC(=O)CC[C@@H](C)NC(=O)Nc1ccc(COc2ccccc2)cc1",
+    "qed": 0.651,
+    "logP": 4.119,
+    "sas": 2.303,
+    "svg": "/molecules/706.svg"
+  },
+  {
+    "id": 707,
+    "smiles": "Cc1nn(C)c(C)c1COc1ccc(C[NH2+][C@H](c2ccccc2)C2CC2)cc1",
+    "qed": 0.649,
+    "logP": 3.831,
+    "sas": 3.385,
+    "svg": "/molecules/707.svg"
+  },
+  {
+    "id": 708,
+    "smiles": "C[C@@H]([NH2+]CCCCNC(C)=O)c1ccc(Br)cc1",
+    "qed": 0.743,
+    "logP": 1.99,
+    "sas": 3.526,
+    "svg": "/molecules/708.svg"
+  },
+  {
+    "id": 709,
+    "smiles": "C[C@H](C(=O)N[C@H]1CCC[C@H]1C(=O)[O-])c1c(F)cccc1F",
+    "qed": 0.904,
+    "logP": 1.103,
+    "sas": 3.677,
+    "svg": "/molecules/709.svg"
+  },
+  {
+    "id": 710,
+    "smiles": "O=C(Cc1c[nH]c2ccccc12)Nc1ccc(SN[C@H]2CCS(=O)(=O)C2)s1",
+    "qed": 0.532,
+    "logP": 3.194,
+    "sas": 3.486,
+    "svg": "/molecules/710.svg"
+  },
+  {
+    "id": 711,
+    "smiles": "CN(Cc1cnc(Cl)c(Cl)c1)S(=O)(=O)c1ccc(OC(F)F)cc1C",
+    "qed": 0.672,
+    "logP": 4.119,
+    "sas": 2.483,
+    "svg": "/molecules/711.svg"
+  },
+  {
+    "id": 712,
+    "smiles": "C[C@H](NC(=O)NCCc1ccccc1)C(=O)N[C@H](c1ccc(C)cc1)C1CC1",
+    "qed": 0.657,
+    "logP": 3.493,
+    "sas": 2.748,
+    "svg": "/molecules/712.svg"
+  },
+  {
+    "id": 713,
+    "smiles": "C[C@@H]1CCN(C(=O)c2scnc2N2CCOCC2)C[C@@H]1NC(=O)C(C)C",
+    "qed": 0.859,
+    "logP": 1.602,
+    "sas": 3.473,
+    "svg": "/molecules/713.svg"
+  },
+  {
+    "id": 714,
+    "smiles": "C[NH+](C)CCNCc1nc(-c2ccccc2)no1",
+    "qed": 0.704,
+    "logP": -0.029,
+    "sas": 3.046,
+    "svg": "/molecules/714.svg"
+  },
+  {
+    "id": 715,
+    "smiles": "Cc1ccc(S(=O)(=O)N[C@@H]2[C@H](OC(=O)[O-])CCC(=O)N2C)c(C)c1",
+    "qed": 0.753,
+    "logP": -0.111,
+    "sas": 3.848,
+    "svg": "/molecules/715.svg"
+  },
+  {
+    "id": 716,
+    "smiles": "O=C(Nc1ccc(C(=O)Nc2sccc2C(F)(F)F)sc1=O)[C@H]1CCC[NH+]1Cc1ccccc1F",
+    "qed": 0.428,
+    "logP": 3.766,
+    "sas": 4.393,
+    "svg": "/molecules/716.svg"
+  },
+  {
+    "id": 717,
+    "smiles": "CC1=N[C@H](c2ccccc2Cl)NC(=S)N1Cc1ccc(C(C)C)cc1",
+    "qed": 0.742,
+    "logP": 5.271,
+    "sas": 3.064,
+    "svg": "/molecules/717.svg"
+  },
+  {
+    "id": 718,
+    "smiles": "Cc1nnc(SCC(=O)Nc2cc(Cl)cc(Cl)c2)o1",
+    "qed": 0.875,
+    "logP": 3.416,
+    "sas": 2.192,
+    "svg": "/molecules/718.svg"
+  },
+  {
+    "id": 719,
+    "smiles": "CCn1cc(/C=N/CC[NH+]2CCCCC2)cn1",
+    "qed": 0.736,
+    "logP": 0.391,
+    "sas": 4.275,
+    "svg": "/molecules/719.svg"
+  },
+  {
+    "id": 720,
+    "smiles": "O=C(NCCOc1ccccc1F)c1ccccn1",
+    "qed": 0.837,
+    "logP": 2.03,
+    "sas": 1.744,
+    "svg": "/molecules/720.svg"
+  },
+  {
+    "id": 721,
+    "smiles": "Cc1oc(C(=O)N[C@@H](C(N)=O)C[C@H]2CCCO2)cc1C",
+    "qed": 0.842,
+    "logP": 1.049,
+    "sas": 3.249,
+    "svg": "/molecules/721.svg"
+  },
+  {
+    "id": 722,
+    "smiles": "Cc1nc(C(=O)NC2CCC(C)CC2)nc(N2CC[C@H]([NH+](C)C)C2)n1",
+    "qed": 0.814,
+    "logP": 0.212,
+    "sas": 3.944,
+    "svg": "/molecules/722.svg"
+  },
+  {
+    "id": 723,
+    "smiles": "CCc1nn(C)cc1C(=O)Nc1nnc(CCNc2ccc(F)cc2)s1",
+    "qed": 0.664,
+    "logP": 2.88,
+    "sas": 2.508,
+    "svg": "/molecules/723.svg"
+  },
+  {
+    "id": 724,
+    "smiles": "O=C(c1cnc([C@H]2CCC[NH2+]2)c(Br)c1)N1CCC(Oc2cccnc2)CC1",
+    "qed": 0.805,
+    "logP": 2.321,
+    "sas": 3.775,
+    "svg": "/molecules/724.svg"
+  },
+  {
+    "id": 725,
+    "smiles": "CSc1cnc(N[C@@H]2CC[NH+](CCc3ccccc3C)C2)s1",
+    "qed": 0.796,
+    "logP": 2.485,
+    "sas": 4.484,
+    "svg": "/molecules/725.svg"
+  },
+  {
+    "id": 726,
+    "smiles": "C[C@H](C[NH2+]C1CC1)c1nc2ccc(Cl)cc2n1Cc1ccccc1",
+    "qed": 0.731,
+    "logP": 3.567,
+    "sas": 3.368,
+    "svg": "/molecules/726.svg"
+  },
+  {
+    "id": 727,
+    "smiles": "CCN1C(=O)[C@H]2CCCN2Cc2cc(C#CCC(C)=O)ccc21",
+    "qed": 0.787,
+    "logP": 2.348,
+    "sas": 3.274,
+    "svg": "/molecules/727.svg"
+  },
+  {
+    "id": 728,
+    "smiles": "C[NH2+][C@H](CC(=O)N1CCCC1)c1cccc(F)c1F",
+    "qed": 0.876,
+    "logP": 1.212,
+    "sas": 3.438,
+    "svg": "/molecules/728.svg"
+  },
+  {
+    "id": 729,
+    "smiles": "O=C(NNC(=O)Cc1csc(-c2ccncc2)c1)[C@@H]1C[C@@H]2CC[C@H](C1)NC2=O",
+    "qed": 0.684,
+    "logP": 1.805,
+    "sas": 4.509,
+    "svg": "/molecules/729.svg"
+  },
+  {
+    "id": 730,
+    "smiles": "COc1ccc([C@H](C)CCNC(=O)Nc2ccc([N+](=O)[O-])c(C)c2)cc1",
+    "qed": 0.573,
+    "logP": 4.227,
+    "sas": 2.489,
+    "svg": "/molecules/730.svg"
+  },
+  {
+    "id": 731,
+    "smiles": "C[C@H](COc1ccccc1)c1cccc(C)c1",
+    "qed": 0.76,
+    "logP": 4.178,
+    "sas": 2.101,
+    "svg": "/molecules/731.svg"
+  },
+  {
+    "id": 732,
+    "smiles": "COCc1cc(C(=O)N[C@H](C)c2nnc3n2CCCCC3)no1",
+    "qed": 0.9,
+    "logP": 1.63,
+    "sas": 3.003,
+    "svg": "/molecules/732.svg"
+  },
+  {
+    "id": 733,
+    "smiles": "C[NH+](Cc1nnc(-c2ccccc2)s1)Cc1[nH+]ccn1C1CC1",
+    "qed": 0.743,
+    "logP": 1.37,
+    "sas": 4.521,
+    "svg": "/molecules/733.svg"
+  },
+  {
+    "id": 734,
+    "smiles": "N#Cc1ccc(N2CCN(C(=O)N[C@H]3CCCC[C@@H]3C)CC2)cc1",
+    "qed": 0.909,
+    "logP": 2.969,
+    "sas": 2.804,
+    "svg": "/molecules/734.svg"
+  },
+  {
+    "id": 735,
+    "smiles": "Cc1nn(CCO)c2c1SCC(=O)N2Cc1ccc(-c2ccccc2)o1",
+    "qed": 0.748,
+    "logP": 3.083,
+    "sas": 2.795,
+    "svg": "/molecules/735.svg"
+  },
+  {
+    "id": 736,
+    "smiles": "Cc1nnc(C[C@H]([NH3+])Cc2ccccc2)s1",
+    "qed": 0.865,
+    "logP": 1.242,
+    "sas": 3.288,
+    "svg": "/molecules/736.svg"
+  },
+  {
+    "id": 737,
+    "smiles": "Cc1nc(C)c([C@@H](C)[NH2+][C@@H](C)c2ccc(N3CCCCC3=O)cc2)s1",
+    "qed": 0.887,
+    "logP": 3.662,
+    "sas": 3.8,
+    "svg": "/molecules/737.svg"
+  },
+  {
+    "id": 738,
+    "smiles": "CC[NH+](Cc1nc(C)cs1)C1CCN(C(=O)c2cc(F)cc(Br)c2)CC1",
+    "qed": 0.775,
+    "logP": 3.063,
+    "sas": 3.881,
+    "svg": "/molecules/738.svg"
+  },
+  {
+    "id": 739,
+    "smiles": "Cc1ccc(N2CC[C@H](CNC(=O)N[C@@H]3CCc4ccccc43)C2)cc1C",
+    "qed": 0.858,
+    "logP": 4.116,
+    "sas": 2.902,
+    "svg": "/molecules/739.svg"
+  },
+  {
+    "id": 740,
+    "smiles": "O=C(Cn1cnc2sccc2c1=O)Nc1ccc(Cl)cc1",
+    "qed": 0.807,
+    "logP": 2.75,
+    "sas": 1.986,
+    "svg": "/molecules/740.svg"
+  },
+  {
+    "id": 741,
+    "smiles": "CS(=O)(=O)N1CCC[C@H](c2ncn(CC(F)(F)F)n2)C1",
+    "qed": 0.834,
+    "logP": 0.979,
+    "sas": 3.398,
+    "svg": "/molecules/741.svg"
+  },
+  {
+    "id": 742,
+    "smiles": "C[C@H]1C[C@@H](c2ccc(Cl)cc2)CN1c1cnn(Cc2ncc[nH]2)c1",
+    "qed": 0.787,
+    "logP": 3.69,
+    "sas": 3.448,
+    "svg": "/molecules/742.svg"
+  },
+  {
+    "id": 743,
+    "smiles": "Cc1cc(C(=O)N2CC[NH+](C3CCOCC3)CC2)ccc1[N+](=O)[O-]",
+    "qed": 0.642,
+    "logP": 0.423,
+    "sas": 3.503,
+    "svg": "/molecules/743.svg"
+  },
+  {
+    "id": 744,
+    "smiles": "O=C(c1ccc(N2CC[NH+](Cc3ccc(Cl)cc3)CC2)cc1)N1CCN([C@H]2CCS(=O)(=O)C2)CC1",
+    "qed": 0.645,
+    "logP": 1.19,
+    "sas": 3.658,
+    "svg": "/molecules/744.svg"
+  },
+  {
+    "id": 745,
+    "smiles": "CC(C)[NH2+]Cc1c[nH]nc1[C@H]1Cc2ccccc2C[NH2+]1",
+    "qed": 0.734,
+    "logP": 0.242,
+    "sas": 4.975,
+    "svg": "/molecules/745.svg"
+  },
+  {
+    "id": 746,
+    "smiles": "CNC(=O)CN1CCN(C(=O)N[C@@H]2CCC[C@H]2CC(=O)N2CCCC2)CC1",
+    "qed": 0.717,
+    "logP": 0.241,
+    "sas": 3.094,
+    "svg": "/molecules/746.svg"
+  },
+  {
+    "id": 747,
+    "smiles": "CN(C)C(=O)C[NH+]1CCCN(C(=O)NCCn2cccn2)CC1",
+    "qed": 0.676,
+    "logP": -1.728,
+    "sas": 4.06,
+    "svg": "/molecules/747.svg"
+  },
+  {
+    "id": 748,
+    "smiles": "Cc1ccc([C@H](C)NC(=O)[C@H](C)Sc2nnc(Nc3ccccc3)o2)cc1C",
+    "qed": 0.559,
+    "logP": 4.788,
+    "sas": 3.014,
+    "svg": "/molecules/748.svg"
+  },
+  {
+    "id": 749,
+    "smiles": "CC(C)(CNC(=O)c1cccc(NC(=O)c2cc(=O)[nH]cn2)c1)c1ccccc1",
+    "qed": 0.602,
+    "logP": 2.73,
+    "sas": 2.37,
+    "svg": "/molecules/749.svg"
+  },
+  {
+    "id": 750,
+    "smiles": "CC[C@H]1CCCC[C@@H]1NC(=O)NNC(=O)c1cccc(Cc2ccccc2)c1",
+    "qed": 0.682,
+    "logP": 4.19,
+    "sas": 2.839,
+    "svg": "/molecules/750.svg"
+  },
+  {
+    "id": 751,
+    "smiles": "Cc1ccc(N2CCC3=c4ccccc4=[NH+]C3=[NH+]S2)o1",
+    "qed": 0.621,
+    "logP": -1.595,
+    "sas": 4.554,
+    "svg": "/molecules/751.svg"
+  },
+  {
+    "id": 752,
+    "smiles": "CC1=C(C#N)[C@H](c2ccccc2)[NH+]=N1",
+    "qed": 0.697,
+    "logP": 1.072,
+    "sas": 3.953,
+    "svg": "/molecules/752.svg"
+  },
+  {
+    "id": 753,
+    "smiles": "CC[C@@H](C)C[C@H](C)C(=O)N1CCC(c2nnc([C@@H]3CCCCN3S(C)(=O)=O)n2C)CC1",
+    "qed": 0.633,
+    "logP": 3.08,
+    "sas": 3.761,
+    "svg": "/molecules/753.svg"
+  },
+  {
+    "id": 754,
+    "smiles": "O=C(C1CC1)N1CCC[C@@H](C(=O)N2CCCC[C@H]2c2ccccc2)C1",
+    "qed": 0.846,
+    "logP": 3.389,
+    "sas": 2.734,
+    "svg": "/molecules/754.svg"
+  },
+  {
+    "id": 755,
+    "smiles": "COc1ccc([C@@H](O)NC(=O)c2cccc(SC#N)c2N)cc1",
+    "qed": 0.336,
+    "logP": 2.271,
+    "sas": 3.044,
+    "svg": "/molecules/755.svg"
+  },
+  {
+    "id": 756,
+    "smiles": "Cc1cc(Cl)cc([C@H]2C[NH2+]CC[NH2+]C2)n1",
+    "qed": 0.653,
+    "logP": -0.733,
+    "sas": 4.917,
+    "svg": "/molecules/756.svg"
+  },
+  {
+    "id": 757,
+    "smiles": "CCc1csc(S(=O)(=O)Cc2ccc(NC(=O)c3ccoc3)cc2)n1",
+    "qed": 0.711,
+    "logP": 3.525,
+    "sas": 2.536,
+    "svg": "/molecules/757.svg"
+  },
+  {
+    "id": 758,
+    "smiles": "C/C=C(\\C(=O)NCc1ccc(Br)cc1)n1ccnc1Cl",
+    "qed": 0.855,
+    "logP": 3.476,
+    "sas": 2.773,
+    "svg": "/molecules/758.svg"
+  },
+  {
+    "id": 759,
+    "smiles": "COC(=O)c1c(NC(=O)C(C)C)sc2c1CC[C@H](C)C2",
+    "qed": 0.871,
+    "logP": 3.254,
+    "sas": 2.64,
+    "svg": "/molecules/759.svg"
+  },
+  {
+    "id": 760,
+    "smiles": "CCOC(=O)c1ccn(Cc2nnc(NC(=O)c3ccccc3)n2C)c1",
+    "qed": 0.685,
+    "logP": 2.094,
+    "sas": 2.471,
+    "svg": "/molecules/760.svg"
+  },
+  {
+    "id": 761,
+    "smiles": "CN(Cc1ccccc1)C(=O)[C@H](C)[S-]",
+    "qed": 0.703,
+    "logP": 1.58,
+    "sas": 2.862,
+    "svg": "/molecules/761.svg"
+  },
+  {
+    "id": 762,
+    "smiles": "Cc1ccc2oc(-c3ccc(NC(=O)CNC(=S)NCc4ccccc4C)nc3C)cc2c1",
+    "qed": 0.352,
+    "logP": 5.023,
+    "sas": 2.546,
+    "svg": "/molecules/762.svg"
+  },
+  {
+    "id": 763,
+    "smiles": "Cc1c[nH+]c2nc(CC(=O)NCCCn3cccc3)oc2c1",
+    "qed": 0.701,
+    "logP": 1.501,
+    "sas": 3.56,
+    "svg": "/molecules/763.svg"
+  },
+  {
+    "id": 764,
+    "smiles": "C[C@@H](NC(=O)COc1cccc(Cl)c1Cl)O[C@@H]1CCCO1",
+    "qed": 0.813,
+    "logP": 2.988,
+    "sas": 3.204,
+    "svg": "/molecules/764.svg"
+  },
+  {
+    "id": 765,
+    "smiles": "O=C(NCCC(=O)N1CCOCC1)c1ccc(Cn2ccnc2)cc1",
+    "qed": 0.847,
+    "logP": 0.91,
+    "sas": 2.105,
+    "svg": "/molecules/765.svg"
+  },
+  {
+    "id": 766,
+    "smiles": "CC(C)[C@@H]([NH2+]Cc1cnn(-c2ccccc2)c1)c1ccc(F)cc1",
+    "qed": 0.74,
+    "logP": 3.472,
+    "sas": 3.354,
+    "svg": "/molecules/766.svg"
+  },
+  {
+    "id": 767,
+    "smiles": "Cc1ccccc1NC(=O)N[C@H]1CCCC[C@@H]1OC(C)C",
+    "qed": 0.885,
+    "logP": 3.853,
+    "sas": 2.803,
+    "svg": "/molecules/767.svg"
+  },
+  {
+    "id": 768,
+    "smiles": "CC(C)Oc1nc(N2CCCC[C@H](C)C2)cnc1SCC#N",
+    "qed": 0.774,
+    "logP": 3.506,
+    "sas": 3.271,
+    "svg": "/molecules/768.svg"
+  },
+  {
+    "id": 769,
+    "smiles": "Cc1cc(C)c(C(=O)COc2ccc3ccccc3c2)n[n+]1C",
+    "qed": 0.55,
+    "logP": 2.938,
+    "sas": 2.641,
+    "svg": "/molecules/769.svg"
+  },
+  {
+    "id": 770,
+    "smiles": "CCc1ccccc1NC(=O)CSc1nnc([C@H]2CC(=O)NC[C@@H]2C)s1",
+    "qed": 0.741,
+    "logP": 3.071,
+    "sas": 3.402,
+    "svg": "/molecules/770.svg"
+  },
+  {
+    "id": 771,
+    "smiles": "CS[C@H]1CC[C@@H](N[C@@H](C)c2oc3cc(Br)ccc3c2C)C1",
+    "qed": 0.778,
+    "logP": 5.438,
+    "sas": 3.754,
+    "svg": "/molecules/771.svg"
+  },
+  {
+    "id": 772,
+    "smiles": "CCc1ccc2c(c1)C[C@@H](C(C)C)[nH]2",
+    "qed": 0.753,
+    "logP": 3.242,
+    "sas": 2.846,
+    "svg": "/molecules/772.svg"
+  },
+  {
+    "id": 773,
+    "smiles": "CCN(Cc1ccc(O)s1)c1cccc(C(N)=O)c1",
+    "qed": 0.882,
+    "logP": 2.579,
+    "sas": 2.531,
+    "svg": "/molecules/773.svg"
+  },
+  {
+    "id": 774,
+    "smiles": "Cc1cc(NC(=O)NCCc2cccs2)no1",
+    "qed": 0.876,
+    "logP": 2.409,
+    "sas": 2.166,
+    "svg": "/molecules/774.svg"
+  },
+  {
+    "id": 775,
+    "smiles": "C=CCn1c(N2CCN(C(=O)c3ccccc3)CC2)nc2cc(Cl)ccc21",
+    "qed": 0.646,
+    "logP": 3.838,
+    "sas": 2.145,
+    "svg": "/molecules/775.svg"
+  },
+  {
+    "id": 776,
+    "smiles": "O=C(CCc1n[nH]c(=O)n1-c1ccc(F)cc1)NCC#N",
+    "qed": 0.771,
+    "logP": 0.272,
+    "sas": 2.429,
+    "svg": "/molecules/776.svg"
+  },
+  {
+    "id": 777,
+    "smiles": "CC[NH+]1CCN([C@@H](C)C(=O)Nc2ccc(Br)cc2)CC1",
+    "qed": 0.857,
+    "logP": 0.997,
+    "sas": 3.625,
+    "svg": "/molecules/777.svg"
+  },
+  {
+    "id": 778,
+    "smiles": "COc1ccc(CNC(=O)N[C@@H](CO)C[NH+]2CCCC2)cc1",
+    "qed": 0.55,
+    "logP": -0.466,
+    "sas": 3.748,
+    "svg": "/molecules/778.svg"
+  },
+  {
+    "id": 779,
+    "smiles": "N#CS(=O)(=O)CCOc1ccc(C(=O)N2CCC[C@@H](Cc3cccnc3)C2)nc1",
+    "qed": 0.502,
+    "logP": 1.846,
+    "sas": 3.239,
+    "svg": "/molecules/779.svg"
+  },
+  {
+    "id": 780,
+    "smiles": "O=C(NNC(=O)c1c[nH]c2ccccc12)c1ccc2ccccc2c1",
+    "qed": 0.493,
+    "logP": 3.396,
+    "sas": 1.894,
+    "svg": "/molecules/780.svg"
+  },
+  {
+    "id": 781,
+    "smiles": "C=CCc1ccc([N-]S(=O)(=O)c2ccsc2C(N)=O)o1",
+    "qed": 0.828,
+    "logP": 2.563,
+    "sas": 3.886,
+    "svg": "/molecules/781.svg"
+  },
+  {
+    "id": 782,
+    "smiles": "C[C@@H]1OCC[C@@H]1CNC(=O)NCc1nc2ccccc2s1",
+    "qed": 0.912,
+    "logP": 2.521,
+    "sas": 3.228,
+    "svg": "/molecules/782.svg"
+  },
+  {
+    "id": 783,
+    "smiles": "CC(C)(C)c1ccccc1NC(=O)C(=O)N[C@H]1CC(C)(C)OC1(C)C",
+    "qed": 0.807,
+    "logP": 3.385,
+    "sas": 3.235,
+    "svg": "/molecules/783.svg"
+  },
+  {
+    "id": 784,
+    "smiles": "COc1cc(OC)cc(CNC(=O)[C@H]2C=C=CC[C@@H]2C(=O)N(C)Cc2ccccc2)c1",
+    "qed": 0.666,
+    "logP": 3.326,
+    "sas": 3.642,
+    "svg": "/molecules/784.svg"
+  },
+  {
+    "id": 785,
+    "smiles": "C[C@@H](NC(=O)[C@@H]1CCCC[NH+]1Cc1c(F)cccc1Cl)c1ccc(Cl)cc1",
+    "qed": 0.769,
+    "logP": 3.947,
+    "sas": 4.055,
+    "svg": "/molecules/785.svg"
+  },
+  {
+    "id": 786,
+    "smiles": "COc1cc(OC)c(NC(=O)[C@H](Sc2nc3ccccc3[nH]2)C2CC2)cc1",
+    "qed": 0.601,
+    "logP": 4.09,
+    "sas": 2.83,
+    "svg": "/molecules/786.svg"
+  },
+  {
+    "id": 787,
+    "smiles": "CCc1nn(C)cc1NC(=O)NC[C@@H]1C[C@]1(C)Cn1ccnc1",
+    "qed": 0.856,
+    "logP": 2.027,
+    "sas": 3.9,
+    "svg": "/molecules/787.svg"
+  },
+  {
+    "id": 788,
+    "smiles": "Cc1ccccc1N1CC[NH+](Cc2ccc(O)cc2C)CC1",
+    "qed": 0.906,
+    "logP": 1.914,
+    "sas": 3.28,
+    "svg": "/molecules/788.svg"
+  },
+  {
+    "id": 789,
+    "smiles": "O=C(c1cc2cc(Br)ccc1OC(F)(F)F)SCC2=O",
+    "qed": 0.713,
+    "logP": 3.394,
+    "sas": 4.6,
+    "svg": "/molecules/789.svg"
+  },
+  {
+    "id": 790,
+    "smiles": "Cc1cn([C@@H](C)C(=O)Nc2ccc(F)c(F)c2)c(C(C)(C)C)n1",
+    "qed": 0.93,
+    "logP": 3.967,
+    "sas": 2.932,
+    "svg": "/molecules/790.svg"
+  },
+  {
+    "id": 791,
+    "smiles": "CCOC(=O)[C@H]1CCCN(C(=O)c2cnc([C@@H]3CCCO3)cc2Cl)C1",
+    "qed": 0.766,
+    "logP": 3.002,
+    "sas": 3.254,
+    "svg": "/molecules/791.svg"
+  },
+  {
+    "id": 792,
+    "smiles": "CC(C)Oc1ccc(C)cc1NC(=O)C(=O)N(C1CC1)[C@H]1C(=O)NC(=O)Nc2cc(F)ccc21",
+    "qed": 0.583,
+    "logP": 3.254,
+    "sas": 3.392,
+    "svg": "/molecules/792.svg"
+  },
+  {
+    "id": 793,
+    "smiles": "C[C@H](NCc1ccc(S(=O)(=O)N2CCOCC2)cc1)c1n[nH]c(=O)[nH]1",
+    "qed": 0.659,
+    "logP": -0.03,
+    "sas": 3.008,
+    "svg": "/molecules/793.svg"
+  },
+  {
+    "id": 794,
+    "smiles": "CNC(=O)OCc1ccc2[nH]c(=O)[nH]c2c1",
+    "qed": 0.698,
+    "logP": 0.712,
+    "sas": 2.283,
+    "svg": "/molecules/794.svg"
+  },
+  {
+    "id": 795,
+    "smiles": "COc1cc(OC)c(NC(=O)c2ccc(Cn3cccn3)cc2)cc1",
+    "qed": 0.75,
+    "logP": 3.201,
+    "sas": 1.85,
+    "svg": "/molecules/795.svg"
+  },
+  {
+    "id": 796,
+    "smiles": "C[C@@H]1CCC[C@@H]([NH+]2CCC3=c4ccccc4=SC[C@H]3C2=O)c1",
+    "qed": 0.596,
+    "logP": 1.577,
+    "sas": 5.68,
+    "svg": "/molecules/796.svg"
+  },
+  {
+    "id": 797,
+    "smiles": "Cn1ncnc1C1CCC(C(=O)OC)CC[C@@H]1[NH3+]",
+    "qed": 0.588,
+    "logP": -0.128,
+    "sas": 4.242,
+    "svg": "/molecules/797.svg"
+  },
+  {
+    "id": 798,
+    "smiles": "CCN(Cc1ccc(C)o1)C(=O)CCc1ncnc2c1cnn2C",
+    "qed": 0.694,
+    "logP": 2.246,
+    "sas": 2.636,
+    "svg": "/molecules/798.svg"
+  },
+  {
+    "id": 799,
+    "smiles": "C[C@H](NCc1ccc(N(C)C2CCCCC2)cc1)C[C@H]1CCCCCO1",
+    "qed": 0.717,
+    "logP": 5.283,
+    "sas": 3.099,
+    "svg": "/molecules/799.svg"
+  },
+  {
+    "id": 800,
+    "smiles": "COc1cccc2cc(-n3cnc(SC=C(F)F)n3)sc12",
+    "qed": 0.67,
+    "logP": 4.321,
+    "sas": 3.51,
+    "svg": "/molecules/800.svg"
+  },
+  {
+    "id": 801,
+    "smiles": "[NH3+][C@@H](CSCc1ccc2c(c1)OCO2)C1CC1",
+    "qed": 0.867,
+    "logP": 1.669,
+    "sas": 3.443,
+    "svg": "/molecules/801.svg"
+  },
+  {
+    "id": 802,
+    "smiles": "CC[C@]1(C(=O)NCCCc2ccccc2)CCOCC1",
+    "qed": 0.811,
+    "logP": 2.942,
+    "sas": 2.15,
+    "svg": "/molecules/802.svg"
+  },
+  {
+    "id": 803,
+    "smiles": "O=C(CSCC(=O)N1C[C@H]2CC[C@@H](C1)C2)NC(=O)Cc1ccc2c(c1)OCO2",
+    "qed": 0.775,
+    "logP": 1.592,
+    "sas": 3.936,
+    "svg": "/molecules/803.svg"
+  },
+  {
+    "id": 804,
+    "smiles": "C[NH2+][C@H]1CCC[C@H](C[NH+]2CCOCC2)C1",
+    "qed": 0.598,
+    "logP": -1.346,
+    "sas": 5.956,
+    "svg": "/molecules/804.svg"
+  },
+  {
+    "id": 805,
+    "smiles": "C[NH+](CCc1cccc(Cl)c1)Cc1csc([C@H]2CCCO2)n1",
+    "qed": 0.877,
+    "logP": 2.905,
+    "sas": 4.11,
+    "svg": "/molecules/805.svg"
+  },
+  {
+    "id": 806,
+    "smiles": "COc1ccc(F)c(C(=O)[C@@H](C)NC(=O)c2cc3c(sc2=O)CC3)c1",
+    "qed": 0.83,
+    "logP": 2.356,
+    "sas": 3.073,
+    "svg": "/molecules/806.svg"
+  },
+  {
+    "id": 807,
+    "smiles": "CC(=O)N1CCC[C@H](C(=O)NCC(=O)NC(=O)C[C@H](C)c2cccs2)C1",
+    "qed": 0.778,
+    "logP": 1.259,
+    "sas": 3.161,
+    "svg": "/molecules/807.svg"
+  },
+  {
+    "id": 808,
+    "smiles": "COc1ccc(C=O)cc1S[C@H](C)[C@@H](C)O",
+    "qed": 0.634,
+    "logP": 2.369,
+    "sas": 3.412,
+    "svg": "/molecules/808.svg"
+  },
+  {
+    "id": 809,
+    "smiles": "CC(C)(C)[NH2+]Cc1cc2c(cc1OC)n(Cc1ccccc1F)C=C2C",
+    "qed": 0.737,
+    "logP": 4.008,
+    "sas": 3.021,
+    "svg": "/molecules/809.svg"
+  },
+  {
+    "id": 810,
+    "smiles": "O=C(Nc1ccc2c(c1)OCO2)Nc1cccc(OC(F)(F)F)c1",
+    "qed": 0.887,
+    "logP": 3.958,
+    "sas": 2.022,
+    "svg": "/molecules/810.svg"
+  },
+  {
+    "id": 811,
+    "smiles": "O=S(=O)(NC[C@@H]1CCCN1C(=O)c1cccs1)c1ccc2cccnc2n1",
+    "qed": 0.707,
+    "logP": 2.274,
+    "sas": 3.07,
+    "svg": "/molecules/811.svg"
+  },
+  {
+    "id": 812,
+    "smiles": "CCN[C@H](CCc1ccc(OC)cc1)C[C@@H]1CCCC[C@@H]1O",
+    "qed": 0.772,
+    "logP": 3.547,
+    "sas": 3.156,
+    "svg": "/molecules/812.svg"
+  },
+  {
+    "id": 813,
+    "smiles": "CCOC(=O)CCNC(=O)N[C@H](C)C(=O)[O-]",
+    "qed": 0.534,
+    "logP": -1.623,
+    "sas": 3.01,
+    "svg": "/molecules/813.svg"
+  },
+  {
+    "id": 814,
+    "smiles": "C[C@H]1SCCC[C@H]1[NH2+]C[C@@H](C)O",
+    "qed": 0.668,
+    "logP": 0.215,
+    "sas": 5.43,
+    "svg": "/molecules/814.svg"
+  },
+  {
+    "id": 815,
+    "smiles": "COc1ccc2c(=O)[nH]c(=O)[nH]c(=O)n21",
+    "qed": 0.609,
+    "logP": -1.315,
+    "sas": 2.916,
+    "svg": "/molecules/815.svg"
+  },
+  {
+    "id": 816,
+    "smiles": "COc1cc2c(cc1OC)[C@@H](C(=O)N[C@H](c1ccc(Cl)cc1)N2)C(=O)[O-]",
+    "qed": 0.784,
+    "logP": 1.431,
+    "sas": 3.538,
+    "svg": "/molecules/816.svg"
+  },
+  {
+    "id": 817,
+    "smiles": "CC(C)CN1CC[NH+](Cc2ccc(C(=O)Nc3ncccn3)cc2)CC1",
+    "qed": 0.815,
+    "logP": 1.085,
+    "sas": 3.25,
+    "svg": "/molecules/817.svg"
+  },
+  {
+    "id": 818,
+    "smiles": "Cc1n[nH]c2cc(C(=O)[O-])cc(C(=O)Nc3cccnc3)c12",
+    "qed": 0.745,
+    "logP": 0.882,
+    "sas": 2.785,
+    "svg": "/molecules/818.svg"
+  },
+  {
+    "id": 819,
+    "smiles": "[NH3+]C[C@H]1CCC[C@H]1CNC(=O)CCC1CCCC1",
+    "qed": 0.744,
+    "logP": 1.731,
+    "sas": 3.545,
+    "svg": "/molecules/819.svg"
+  },
+  {
+    "id": 820,
+    "smiles": "C=CCn1c(SCC(=O)Nc2cccs2)nnc1-c1ccccc1Cl",
+    "qed": 0.474,
+    "logP": 4.577,
+    "sas": 2.385,
+    "svg": "/molecules/820.svg"
+  },
+  {
+    "id": 821,
+    "smiles": "CCc1nnc(NC(=O)CN2C(=O)c3ccccc3[C@H]2C(N)=O)s1",
+    "qed": 0.828,
+    "logP": 0.721,
+    "sas": 2.969,
+    "svg": "/molecules/821.svg"
+  },
+  {
+    "id": 822,
+    "smiles": "O=C(Nc1nc(-c2ccccn2)c[nH]c1=O)N[C@H]1CCS(=O)(=O)C1",
+    "qed": 0.722,
+    "logP": 0.141,
+    "sas": 3.221,
+    "svg": "/molecules/822.svg"
+  },
+  {
+    "id": 823,
+    "smiles": "Cc1ccccc1N1CCN(S(=O)(=O)c2ccc3c(c2)OCCO3)CC1",
+    "qed": 0.825,
+    "logP": 2.277,
+    "sas": 2.027,
+    "svg": "/molecules/823.svg"
+  },
+  {
+    "id": 824,
+    "smiles": "C[C@H](Nc1ccc(S(C)(=O)=O)cc1)[C@@H]1C=CC(=O)N1C",
+    "qed": 0.908,
+    "logP": 1.287,
+    "sas": 3.403,
+    "svg": "/molecules/824.svg"
+  },
+  {
+    "id": 825,
+    "smiles": "C[C@H]1C[C@H]1NS(=O)(=O)c1cc[nH+]c(N2CCCC[C@@H]2C)c1C",
+    "qed": 0.92,
+    "logP": 1.875,
+    "sas": 4.401,
+    "svg": "/molecules/825.svg"
+  },
+  {
+    "id": 826,
+    "smiles": "COC(=O)N[C@@H](CSc1cnc2ccccn12)c1ccc(C#N)cc1",
+    "qed": 0.712,
+    "logP": 3.395,
+    "sas": 3.144,
+    "svg": "/molecules/826.svg"
+  },
+  {
+    "id": 827,
+    "smiles": "O=C(/C=C/c1nc2ccsc2c(=O)[nH]1)NCc1cn2ccsc2n1",
+    "qed": 0.547,
+    "logP": 2.023,
+    "sas": 3.051,
+    "svg": "/molecules/827.svg"
+  },
+  {
+    "id": 828,
+    "smiles": "CN(CC(=O)Nc1ccc(Cl)cc1C#N)[C@H]1CCS(=O)(=O)C1",
+    "qed": 0.89,
+    "logP": 1.269,
+    "sas": 2.859,
+    "svg": "/molecules/828.svg"
+  },
+  {
+    "id": 829,
+    "smiles": "C/C=C/CSc1ccc(C(=O)NN)c([N+](=O)[O-])c1",
+    "qed": 0.212,
+    "logP": 1.867,
+    "sas": 2.689,
+    "svg": "/molecules/829.svg"
+  },
+  {
+    "id": 830,
+    "smiles": "CC(C)[C@H](NC(=O)N1CCN(S(=O)(=O)c2ccc3ccccc3c2)CC1)c1cccnc1",
+    "qed": 0.641,
+    "logP": 3.648,
+    "sas": 2.737,
+    "svg": "/molecules/830.svg"
+  },
+  {
+    "id": 831,
+    "smiles": "CC(=O)N[C@@H](c1ccc2c(c1)CC(=O)OC2)[C@@H]1CCC[NH+]1C[C@@H](C)Cl",
+    "qed": 0.607,
+    "logP": 1.138,
+    "sas": 4.997,
+    "svg": "/molecules/831.svg"
+  },
+  {
+    "id": 832,
+    "smiles": "O=C(CCSc1ccccc1)N1CCC[C@H]1c1ccc(Cl)cc1",
+    "qed": 0.695,
+    "logP": 5.186,
+    "sas": 2.38,
+    "svg": "/molecules/832.svg"
+  },
+  {
+    "id": 833,
+    "smiles": "C[C@@H](O)C[NH+](C)[C@H]1CCC[C@H](C2CC2)c1=O",
+    "qed": 0.71,
+    "logP": 0.03,
+    "sas": 5.013,
+    "svg": "/molecules/833.svg"
+  },
+  {
+    "id": 834,
+    "smiles": "CC(=O)c1ccc(N2CC[C@H](C(=O)[O-])[C@H](c3ccco3)C2)cc1",
+    "qed": 0.805,
+    "logP": 1.842,
+    "sas": 3.372,
+    "svg": "/molecules/834.svg"
+  },
+  {
+    "id": 835,
+    "smiles": "COC(=O)c1ccccc1NC(=O)c1ccc(/N=C2/N[C@H]3CS(=O)(=O)C[C@H]32)cc1",
+    "qed": 0.739,
+    "logP": 1.772,
+    "sas": 3.475,
+    "svg": "/molecules/835.svg"
+  },
+  {
+    "id": 836,
+    "smiles": "Cc1c(NC(=O)Cc2ccccc2)nn([C@H]2CCSC2)c1-c1ccccc1",
+    "qed": 0.7,
+    "logP": 4.718,
+    "sas": 2.992,
+    "svg": "/molecules/836.svg"
+  },
+  {
+    "id": 837,
+    "smiles": "COc1cc(OC)c(CNC(=O)OC(C)(C)C)cc1N1CCCC1=N",
+    "qed": 0.852,
+    "logP": 3.306,
+    "sas": 2.542,
+    "svg": "/molecules/837.svg"
+  },
+  {
+    "id": 838,
+    "smiles": "CC1CCN(C(=O)Nc2nc(N3CCCC3=O)c(C)s2)Cc2ccc(Br)cc21",
+    "qed": 0.691,
+    "logP": 4.882,
+    "sas": 3.291,
+    "svg": "/molecules/838.svg"
+  },
+  {
+    "id": 839,
+    "smiles": "Cc1cccc(C[C@H]2CCCC2=NOC(=O)Cc2ccccc2)c1",
+    "qed": 0.601,
+    "logP": 4.48,
+    "sas": 2.821,
+    "svg": "/molecules/839.svg"
+  },
+  {
+    "id": 840,
+    "smiles": "COc1ccc(OC)c(NC(=O)NCC2(C#N)CCC(C(C)C)CC2)c1",
+    "qed": 0.798,
+    "logP": 4.181,
+    "sas": 2.58,
+    "svg": "/molecules/840.svg"
+  },
+  {
+    "id": 841,
+    "smiles": "C/[NH+]=C(/NCCC(=O)N(C)c1ccccc1F)c1ccc(OC)cc1",
+    "qed": 0.606,
+    "logP": 0.934,
+    "sas": 2.812,
+    "svg": "/molecules/841.svg"
+  },
+  {
+    "id": 842,
+    "smiles": "O=C(NCc1cccc(Oc2ccccc2)c1)[C@@H]1CCCc2ccccc21",
+    "qed": 0.68,
+    "logP": 5.215,
+    "sas": 2.38,
+    "svg": "/molecules/842.svg"
+  },
+  {
+    "id": 843,
+    "smiles": "CCS(=O)(=O)c1c(C(=O)NC(C)(C)CC[NH+](C)C)cccc1Cl",
+    "qed": 0.766,
+    "logP": 1.177,
+    "sas": 3.475,
+    "svg": "/molecules/843.svg"
+  },
+  {
+    "id": 844,
+    "smiles": "CC[C@H](C)N[C@H](C)C(=O)N[C@H](C)c1ccccc1C1CC1",
+    "qed": 0.806,
+    "logP": 3.518,
+    "sas": 3.105,
+    "svg": "/molecules/844.svg"
+  },
+  {
+    "id": 845,
+    "smiles": "Cc1cccc(NC(=O)[C@@H]2Cc3ccccc3CN2C(=O)c2ccccc2F)n1",
+    "qed": 0.742,
+    "logP": 3.735,
+    "sas": 2.629,
+    "svg": "/molecules/845.svg"
+  },
+  {
+    "id": 846,
+    "smiles": "CC[C@H](c1ccccc1)c1nc(-c2cccc(S(=O)(=O)NC3CC3)c2)on1",
+    "qed": 0.672,
+    "logP": 3.719,
+    "sas": 2.776,
+    "svg": "/molecules/846.svg"
+  },
+  {
+    "id": 847,
+    "smiles": "CCC(C)(C)NC(=O)c1cc2c(cc1Cl)OCCN(C(=O)c1ccco1)C2",
+    "qed": 0.859,
+    "logP": 3.886,
+    "sas": 2.532,
+    "svg": "/molecules/847.svg"
+  },
+  {
+    "id": 848,
+    "smiles": "Cc1ccc(S(=O)(=O)N2CCCCC[C@@H]2c2cccc(F)c2)cc1C1CC1",
+    "qed": 0.712,
+    "logP": 5.318,
+    "sas": 2.65,
+    "svg": "/molecules/848.svg"
+  },
+  {
+    "id": 849,
+    "smiles": "CC1(C)CN(CC(=O)NC[C@@H]2CN(C3CCCCC3)CC2=O)CC[NH+]1C",
+    "qed": 0.693,
+    "logP": -0.455,
+    "sas": 4.357,
+    "svg": "/molecules/849.svg"
+  },
+  {
+    "id": 850,
+    "smiles": "CC(=O)N1CCN(C(=O)c2cc3ccccc3oc2=O)[C@H](C)C1",
+    "qed": 0.748,
+    "logP": 1.486,
+    "sas": 2.64,
+    "svg": "/molecules/850.svg"
+  },
+  {
+    "id": 851,
+    "smiles": "[NH3+][C@H]1CCCCC[C@H]1NC(=O)Nc1cc(F)cc(F)c1",
+    "qed": 0.715,
+    "logP": 2.03,
+    "sas": 3.448,
+    "svg": "/molecules/851.svg"
+  },
+  {
+    "id": 852,
+    "smiles": "Fc1ncncc1C(=O)N1CCC[C@H](c2nc[n-]n2)C1",
+    "qed": 0.737,
+    "logP": 0.383,
+    "sas": 4.112,
+    "svg": "/molecules/852.svg"
+  },
+  {
+    "id": 853,
+    "smiles": "C[C@@H]1CN(S(=O)(=O)/C=C(\\C)C2CC2)c2ccccc21",
+    "qed": 0.85,
+    "logP": 3.254,
+    "sas": 3.361,
+    "svg": "/molecules/853.svg"
+  },
+  {
+    "id": 854,
+    "smiles": "CCOC(=O)N1CCN(C(=O)CCc2noc(C3CC3)c2N2CC2)CC1",
+    "qed": 0.716,
+    "logP": 1.605,
+    "sas": 2.652,
+    "svg": "/molecules/854.svg"
+  },
+  {
+    "id": 855,
+    "smiles": "CSn1ccc(CCNC(=O)CNS(=O)(=O)c2cccs2)cc1=O",
+    "qed": 0.694,
+    "logP": 0.673,
+    "sas": 2.878,
+    "svg": "/molecules/855.svg"
+  },
+  {
+    "id": 856,
+    "smiles": "O=C1CN(C(=O)N2CC[C@@H](/C=C3\\CCSC3)C2)CCN1",
+    "qed": 0.732,
+    "logP": 0.923,
+    "sas": 3.892,
+    "svg": "/molecules/856.svg"
+  },
+  {
+    "id": 857,
+    "smiles": "CCS[C@H]1CC[C@@H]([NH+](C)Cc2c(F)ccc(F)c2F)C1",
+    "qed": 0.82,
+    "logP": 2.793,
+    "sas": 4.722,
+    "svg": "/molecules/857.svg"
+  },
+  {
+    "id": 858,
+    "smiles": "Cc1cccc([N+](=O)[O-])c1CCNC(=O)Nc1cccc(CN2CCCC2=O)c1",
+    "qed": 0.553,
+    "logP": 3.39,
+    "sas": 2.322,
+    "svg": "/molecules/858.svg"
+  },
+  {
+    "id": 859,
+    "smiles": "CC[C@@]1(C)C[C@H]1CN(C)C(=O)c1cnn(CC)c1C",
+    "qed": 0.819,
+    "logP": 2.72,
+    "sas": 3.612,
+    "svg": "/molecules/859.svg"
+  },
+  {
+    "id": 860,
+    "smiles": "COc1ccc(S(=O)(=O)N(Cc2ccnc(Cl)c2)C[C@@H]2CCCO2)cc1C",
+    "qed": 0.654,
+    "logP": 3.422,
+    "sas": 2.815,
+    "svg": "/molecules/860.svg"
+  },
+  {
+    "id": 861,
+    "smiles": "Cn1c(=O)n(Cc2ccccc2F)nc1SCc1c[nH]c2ccccc12",
+    "qed": 0.548,
+    "logP": 3.543,
+    "sas": 2.399,
+    "svg": "/molecules/861.svg"
+  },
+  {
+    "id": 862,
+    "smiles": "O=c1cc(CNc2cccc(C#N)c2)c2c(=O)[nH]nnc2cc1Cl",
+    "qed": 0.752,
+    "logP": 1.815,
+    "sas": 2.966,
+    "svg": "/molecules/862.svg"
+  },
+  {
+    "id": 863,
+    "smiles": "CCOC(=O)[C@@H](C)N1CCN(C(=O)Nc2c(C)cnc3ccccc23)C[C@H]1C",
+    "qed": 0.82,
+    "logP": 3.033,
+    "sas": 3.181,
+    "svg": "/molecules/863.svg"
+  },
+  {
+    "id": 864,
+    "smiles": "CNC(=O)CN1CCN(C(=O)c2cc(S(=O)(=O)N3CCCCC3)ccc2O)CC1",
+    "qed": 0.692,
+    "logP": 0.071,
+    "sas": 2.191,
+    "svg": "/molecules/864.svg"
+  },
+  {
+    "id": 865,
+    "smiles": "COC(=O)CCCc1ccc(F)c([N+](=O)[O-])c1",
+    "qed": 0.45,
+    "logP": 2.23,
+    "sas": 1.95,
+    "svg": "/molecules/865.svg"
+  },
+  {
+    "id": 866,
+    "smiles": "C[C@@H](CCc1cc(F)cc(F)c1)N[C@@H]1CCC[NH2+]C1",
+    "qed": 0.835,
+    "logP": 1.601,
+    "sas": 4.08,
+    "svg": "/molecules/866.svg"
+  },
+  {
+    "id": 867,
+    "smiles": "O=C(Cn1cnc2sc3c(c2c1=O)OCCO3)NC[C@@H](c1ccco1)[NH+]1CCCC1",
+    "qed": 0.585,
+    "logP": 0.358,
+    "sas": 4.443,
+    "svg": "/molecules/867.svg"
+  },
+  {
+    "id": 868,
+    "smiles": "CCSC1CC[NH+](Cc2cc(Cl)cs2)CC1",
+    "qed": 0.886,
+    "logP": 2.702,
+    "sas": 4.527,
+    "svg": "/molecules/868.svg"
+  },
+  {
+    "id": 869,
+    "smiles": "C[C@@H]1CN(c2ccc(S(=O)(=O)NC[C@@H]3CCCO3)cc2)C[C@@H]1CO",
+    "qed": 0.803,
+    "logP": 1.208,
+    "sas": 3.346,
+    "svg": "/molecules/869.svg"
+  },
+  {
+    "id": 870,
+    "smiles": "Cc1cc(C(=O)CSc2nc3ccccc3n2C)ccc1F",
+    "qed": 0.539,
+    "logP": 3.996,
+    "sas": 1.989,
+    "svg": "/molecules/870.svg"
+  },
+  {
+    "id": 871,
+    "smiles": "COC(=O)CC1=CCCCN1c1ccc2nc(C)nn2c1",
+    "qed": 0.809,
+    "logP": 2.085,
+    "sas": 3.136,
+    "svg": "/molecules/871.svg"
+  },
+  {
+    "id": 872,
+    "smiles": "Cc1ccc(COc2ccc(NS(=O)(=O)N3CCCC[C@@H]3C)nc2)cc1",
+    "qed": 0.839,
+    "logP": 3.5,
+    "sas": 2.686,
+    "svg": "/molecules/872.svg"
+  },
+  {
+    "id": 873,
+    "smiles": "CC[NH+](CC)CCC[NH2+][C@@H]1CCC[C@@H]1CCc1cccc(F)c1",
+    "qed": 0.613,
+    "logP": 1.805,
+    "sas": 4.823,
+    "svg": "/molecules/873.svg"
+  },
+  {
+    "id": 874,
+    "smiles": "CNC(=O)c1ccccc1NC(=O)C[C@H](O)c1ccc([N+](=O)[O-])cc1",
+    "qed": 0.547,
+    "logP": 2.017,
+    "sas": 2.471,
+    "svg": "/molecules/874.svg"
+  },
+  {
+    "id": 875,
+    "smiles": "CC(C)CCNC(=O)N[C@H]1CCC[C@@H]1c1cccc(Cl)c1",
+    "qed": 0.835,
+    "logP": 4.321,
+    "sas": 2.852,
+    "svg": "/molecules/875.svg"
+  },
+  {
+    "id": 876,
+    "smiles": "C[C@H]1CCCCN1C(=O)CSc1ccccc1Cl",
+    "qed": 0.786,
+    "logP": 3.833,
+    "sas": 2.415,
+    "svg": "/molecules/876.svg"
+  },
+  {
+    "id": 877,
+    "smiles": "CN(Cc1ccc(Cl)s1)C(=O)CSc1nnc(N2CCCC2)s1",
+    "qed": 0.707,
+    "logP": 3.604,
+    "sas": 2.493,
+    "svg": "/molecules/877.svg"
+  },
+  {
+    "id": 878,
+    "smiles": "COC(=O)c1sccc1C[NH+]1C[C@H]2CC[C@@H]1CN(C(=O)[C@H]1CCCO1)CC2",
+    "qed": 0.779,
+    "logP": 1.11,
+    "sas": 5.38,
+    "svg": "/molecules/878.svg"
+  },
+  {
+    "id": 879,
+    "smiles": "CN(Cc1cccnc1)C(=O)CSc1ccc(Cl)c(F)c1",
+    "qed": 0.787,
+    "logP": 3.625,
+    "sas": 2.132,
+    "svg": "/molecules/879.svg"
+  },
+  {
+    "id": 880,
+    "smiles": "O=C([O-])c1cncc(-c2ccc(N)cc2)c1",
+    "qed": 0.744,
+    "logP": 0.694,
+    "sas": 2.447,
+    "svg": "/molecules/880.svg"
+  },
+  {
+    "id": 881,
+    "smiles": "Cc1c(C(=O)N2CCC[C@H](C(=O)N(C)C)C2)csc1N1CCCCCC1",
+    "qed": 0.811,
+    "logP": 3.377,
+    "sas": 3.055,
+    "svg": "/molecules/881.svg"
+  },
+  {
+    "id": 882,
+    "smiles": "CCCOCCOCc1ccccc1",
+    "qed": 0.621,
+    "logP": 2.63,
+    "sas": 1.623,
+    "svg": "/molecules/882.svg"
+  },
+  {
+    "id": 883,
+    "smiles": "O=C(NCCCn1ccnn1)C(=O)Nc1ccc2c(c1)OCCO2",
+    "qed": 0.598,
+    "logP": 0.194,
+    "sas": 2.4,
+    "svg": "/molecules/883.svg"
+  },
+  {
+    "id": 884,
+    "smiles": "Cc1ccc(-c2noc(NCC[NH+]3CCCCC3)n2)cc1",
+    "qed": 0.875,
+    "logP": 1.526,
+    "sas": 3.568,
+    "svg": "/molecules/884.svg"
+  },
+  {
+    "id": 885,
+    "smiles": "CN(Cc1ccccn1)C(=O)c1ccco1",
+    "qed": 0.787,
+    "logP": 1.947,
+    "sas": 2.004,
+    "svg": "/molecules/885.svg"
+  },
+  {
+    "id": 886,
+    "smiles": "CC(C)(C)C(=O)N1CCC(=N\\NC(=O)CCn2c(=O)[nH]c3ccccc32)CC1",
+    "qed": 0.786,
+    "logP": 1.86,
+    "sas": 2.625,
+    "svg": "/molecules/886.svg"
+  },
+  {
+    "id": 887,
+    "smiles": "CN(C)C(=O)c1ccc(S(=O)(=O)Nc2ccccc2OC(F)(F)F)cc1",
+    "qed": 0.854,
+    "logP": 3.088,
+    "sas": 2.033,
+    "svg": "/molecules/887.svg"
+  },
+  {
+    "id": 888,
+    "smiles": "CC(C)c1ccccc1NCC#CCNS(=O)(=O)c1ccccc1",
+    "qed": 0.793,
+    "logP": 3.204,
+    "sas": 2.346,
+    "svg": "/molecules/888.svg"
+  },
+  {
+    "id": 889,
+    "smiles": "O=C(NC[C@@H]1CCCO1)[C@H]1Cc2[nH+]c[nH]c2CN1",
+    "qed": 0.654,
+    "logP": -0.862,
+    "sas": 4.562,
+    "svg": "/molecules/889.svg"
+  },
+  {
+    "id": 890,
+    "smiles": "C[C@@H](C(=O)/N=c1\\[nH]c2ccccc2[nH]1)c1nc([C@@H]2CCCN2C(=O)c2cccs2)on1",
+    "qed": 0.509,
+    "logP": 3.149,
+    "sas": 3.844,
+    "svg": "/molecules/890.svg"
+  },
+  {
+    "id": 891,
+    "smiles": "Cc1ccc(Cn2nc(C(C)C)c3c2O[C@H](C)CCCC3=O)cc1",
+    "qed": 0.834,
+    "logP": 4.497,
+    "sas": 3.065,
+    "svg": "/molecules/891.svg"
+  },
+  {
+    "id": 892,
+    "smiles": "CCN(C(=O)CN1CCN([C@@H](C)C(=O)Nc2ccc(C(N)=O)cc2)CC1)c1ccc(F)c(F)c1",
+    "qed": 0.612,
+    "logP": 2.061,
+    "sas": 2.744,
+    "svg": "/molecules/892.svg"
+  },
+  {
+    "id": 893,
+    "smiles": "COC(=O)[C@]1(F)CC[NH+](CC2(O)CCCCC2)C1",
+    "qed": 0.694,
+    "logP": -0.148,
+    "sas": 4.835,
+    "svg": "/molecules/893.svg"
+  },
+  {
+    "id": 894,
+    "smiles": "Cc1nsnc1[C@@H]1CCCN(c2cc(F)ccc2C)C1",
+    "qed": 0.845,
+    "logP": 3.678,
+    "sas": 3.047,
+    "svg": "/molecules/894.svg"
+  },
+  {
+    "id": 895,
+    "smiles": "Cc1ccccc1NC(=O)CSc1nnnn1-c1ccc(C)o1",
+    "qed": 0.724,
+    "logP": 2.603,
+    "sas": 2.364,
+    "svg": "/molecules/895.svg"
+  },
+  {
+    "id": 896,
+    "smiles": "COCc1[nH]c2ccccc2n1",
+    "qed": 0.73,
+    "logP": 1.709,
+    "sas": 1.9,
+    "svg": "/molecules/896.svg"
+  },
+  {
+    "id": 897,
+    "smiles": "CN(C)c1ccc(NC(=O)N(C)CCC2CCOCC2)cc1",
+    "qed": 0.909,
+    "logP": 3.033,
+    "sas": 2.217,
+    "svg": "/molecules/897.svg"
+  },
+  {
+    "id": 898,
+    "smiles": "COc1ccc([C@H](C)NC(=O)N[C@@H](C)c2ccc(F)cc2F)cc1",
+    "qed": 0.865,
+    "logP": 4.095,
+    "sas": 2.62,
+    "svg": "/molecules/898.svg"
+  },
+  {
+    "id": 899,
+    "smiles": "Cn1ncnc1C(=O)N[C@@H](Cc1ccccc1)C(F)(F)F",
+    "qed": 0.935,
+    "logP": 1.718,
+    "sas": 3.01,
+    "svg": "/molecules/899.svg"
+  },
+  {
+    "id": 900,
+    "smiles": "CC(=O)OC1(C[NH2+]C)C[C@H](C)[NH2+]CC1",
+    "qed": 0.532,
+    "logP": -1.773,
+    "sas": 5.962,
+    "svg": "/molecules/900.svg"
+  },
+  {
+    "id": 901,
+    "smiles": "COc1ccc(CN2CC[NH+]([C@@H](C)C(=O)Nc3ccc(C(=O)N(C)C)cc3)CC2)cc1",
+    "qed": 0.698,
+    "logP": 1.125,
+    "sas": 3.377,
+    "svg": "/molecules/901.svg"
+  },
+  {
+    "id": 902,
+    "smiles": "C[C@@H]([NH2+][C@@H](C)c1nccn(C)c1=O)C1CCCCC1",
+    "qed": 0.893,
+    "logP": 1.373,
+    "sas": 4.104,
+    "svg": "/molecules/902.svg"
+  },
+  {
+    "id": 903,
+    "smiles": "CC(C)(C)C(=O)N1CCCC[C@H]1C(=O)NNC(=O)c1[nH]c2ccc(Cl)cc2c1NC(=O)c1ccco1",
+    "qed": 0.393,
+    "logP": 3.855,
+    "sas": 3.164,
+    "svg": "/molecules/903.svg"
+  },
+  {
+    "id": 904,
+    "smiles": "CC(C)(CNC(=O)NC1CCCCC1)c1nc2c(s1)[C@@H](c1ccc(F)c(F)c1)CC2",
+    "qed": 0.663,
+    "logP": 5.409,
+    "sas": 3.356,
+    "svg": "/molecules/904.svg"
+  },
+  {
+    "id": 905,
+    "smiles": "Cc1nn(C)c(C)c1[C@@H]1CC(=O)Nc2c(Cl)cc(Cl)cc21",
+    "qed": 0.867,
+    "logP": 3.818,
+    "sas": 3.169,
+    "svg": "/molecules/905.svg"
+  },
+  {
+    "id": 906,
+    "smiles": "Cc1cc2ccc(NC(=O)c3cccc(CCC(=O)NCc4ccco4)c3)cc2cc1C",
+    "qed": 0.407,
+    "logP": 5.551,
+    "sas": 2.148,
+    "svg": "/molecules/906.svg"
+  },
+  {
+    "id": 907,
+    "smiles": "Cc1sc(-c2ccccc2)c(C(=O)N2CCC(OCc3cccc(C(F)(F)F)c3)C2)n1",
+    "qed": 0.515,
+    "logP": 5.569,
+    "sas": 2.828,
+    "svg": "/molecules/907.svg"
+  },
+  {
+    "id": 908,
+    "smiles": "Cc1cc(C)c2nnc(C3CC[NH+](CC(=O)NCCc4ccccc4)C3)n2c1N",
+    "qed": 0.574,
+    "logP": 0.659,
+    "sas": 4.237,
+    "svg": "/molecules/908.svg"
+  },
+  {
+    "id": 909,
+    "smiles": "CC(C)n1cnc(S(=O)(=O)Nc2ccc(Br)cc2Cl)c1O",
+    "qed": 0.832,
+    "logP": 3.386,
+    "sas": 2.694,
+    "svg": "/molecules/909.svg"
+  },
+  {
+    "id": 910,
+    "smiles": "C[NH2+][C@H](C[C@@H]1CCCCO1)c1nc2c(s1)C(=O)CC2=O",
+    "qed": 0.844,
+    "logP": 1.106,
+    "sas": 4.571,
+    "svg": "/molecules/910.svg"
+  },
+  {
+    "id": 911,
+    "smiles": "CCc1ccc(C(=O)NC2CC[NH+](CCc3ccccc3)CC2)cc1",
+    "qed": 0.833,
+    "logP": 2.269,
+    "sas": 2.932,
+    "svg": "/molecules/911.svg"
+  },
+  {
+    "id": 912,
+    "smiles": "C[C@@H]1CCC[C@H](OC(=O)[C@H](C)CCc2ccccc2)C1",
+    "qed": 0.745,
+    "logP": 4.377,
+    "sas": 2.953,
+    "svg": "/molecules/912.svg"
+  },
+  {
+    "id": 913,
+    "smiles": "O=C1C(C(=O)NCc2ccc(O)cc2)CCCN1S(=O)(=O)Cc1ccccc1",
+    "qed": 0.717,
+    "logP": 1.777,
+    "sas": 2.774,
+    "svg": "/molecules/913.svg"
+  },
+  {
+    "id": 914,
+    "smiles": "Cc1nn(C)c(CN(C)C(=O)N[C@@H](CO)c2ccco2)c1Cl",
+    "qed": 0.878,
+    "logP": 1.85,
+    "sas": 3.196,
+    "svg": "/molecules/914.svg"
+  },
+  {
+    "id": 915,
+    "smiles": "CCCS(=O)(=O)N1C=Cc2ccccc2C1=O",
+    "qed": 0.832,
+    "logP": 1.589,
+    "sas": 2.303,
+    "svg": "/molecules/915.svg"
+  },
+  {
+    "id": 916,
+    "smiles": "COC(=O)[C@H](NC(=O)c1cccc(SC(C)C)c1)c1ccccn1",
+    "qed": 0.644,
+    "logP": 3.226,
+    "sas": 2.77,
+    "svg": "/molecules/916.svg"
+  },
+  {
+    "id": 917,
+    "smiles": "C[C@H](N[C@@H]1C=C[C@H](Cc2ccccc2Cl)C1=O)c1ccc(C(F)(F)F)cc1",
+    "qed": 0.691,
+    "logP": 5.376,
+    "sas": 3.678,
+    "svg": "/molecules/917.svg"
+  },
+  {
+    "id": 918,
+    "smiles": "Cc1ccc(OCCNC(=O)NC[C@H](C)Oc2ccccc2)cc1",
+    "qed": 0.732,
+    "logP": 3.141,
+    "sas": 2.298,
+    "svg": "/molecules/918.svg"
+  },
+  {
+    "id": 919,
+    "smiles": "COCC[NH+]1CCC(NC(=O)c2nc(C3CC3)nn2CC)CC1",
+    "qed": 0.716,
+    "logP": -0.401,
+    "sas": 4.025,
+    "svg": "/molecules/919.svg"
+  },
+  {
+    "id": 920,
+    "smiles": "CCOc1ccc(C(=O)N2CCC(Nc3ccccc3)C[C@@H]2C)cc1",
+    "qed": 0.889,
+    "logP": 4.191,
+    "sas": 2.647,
+    "svg": "/molecules/920.svg"
+  },
+  {
+    "id": 921,
+    "smiles": "C[C@H](OC(=O)CCCOc1ccccc1)C(=O)N1CCc2ccc(Cl)cc2C1",
+    "qed": 0.519,
+    "logP": 4.016,
+    "sas": 2.542,
+    "svg": "/molecules/921.svg"
+  },
+  {
+    "id": 922,
+    "smiles": "COc1ccc(C(=O)Nc2cc(-c3ccco3)on2)cc1O",
+    "qed": 0.768,
+    "logP": 2.901,
+    "sas": 2.218,
+    "svg": "/molecules/922.svg"
+  },
+  {
+    "id": 923,
+    "smiles": "CNC(=O)c1c(Oc2ccccc2F)oc2ccccc12",
+    "qed": 0.797,
+    "logP": 3.724,
+    "sas": 2.306,
+    "svg": "/molecules/923.svg"
+  },
+  {
+    "id": 924,
+    "smiles": "N/C(NC(=O)C1CCCCC1)N1CCc2ccccc2C1",
+    "qed": 0.836,
+    "logP": 1.983,
+    "sas": 2.796,
+    "svg": "/molecules/924.svg"
+  },
+  {
+    "id": 925,
+    "smiles": "O=C(NCCCC(F)F)[C@H]1CCCN(C(=O)CCC(=O)c2ccccc2F)C1",
+    "qed": 0.513,
+    "logP": 3.189,
+    "sas": 2.768,
+    "svg": "/molecules/925.svg"
+  },
+  {
+    "id": 926,
+    "smiles": "Cc1ccc2c(c1)[C@H]([NH3+])CC[C@@H]2[NH2+]C1CC[NH+](Cc2ccc(F)cc2F)CC1",
+    "qed": 0.705,
+    "logP": 1.202,
+    "sas": 5.261,
+    "svg": "/molecules/926.svg"
+  },
+  {
+    "id": 927,
+    "smiles": "Cc1nc([C@H](C)N2CCC[C@@H]2c2ccccn2)c(F)cc1F",
+    "qed": 0.859,
+    "logP": 3.961,
+    "sas": 3.519,
+    "svg": "/molecules/927.svg"
+  },
+  {
+    "id": 928,
+    "smiles": "CCc1c(C(=O)[C@@H](C)[NH2+][C@H]2CCSC2)cccc1[N+](=O)[O-]",
+    "qed": 0.494,
+    "logP": 1.797,
+    "sas": 4.309,
+    "svg": "/molecules/928.svg"
+  },
+  {
+    "id": 929,
+    "smiles": "CC(=O)N1c2ccccc2[C@H]2c3ccccc3CC[C@@H]1[C@@H]([C@H]([NH3+])c1ccccc1O)c1ccccc12",
+    "qed": 0.412,
+    "logP": 5.321,
+    "sas": 5.126,
+    "svg": "/molecules/929.svg"
+  },
+  {
+    "id": 930,
+    "smiles": "CC1=C(C(=O)Nc2cccc(F)c2F)C(=O)N(C)C1=O",
+    "qed": 0.654,
+    "logP": 1.218,
+    "sas": 2.464,
+    "svg": "/molecules/930.svg"
+  },
+  {
+    "id": 931,
+    "smiles": "CCNC(=O)CCN(C(=O)CO)Cc1ccncc1",
+    "qed": 0.723,
+    "logP": -0.071,
+    "sas": 2.231,
+    "svg": "/molecules/931.svg"
+  },
+  {
+    "id": 932,
+    "smiles": "COc1cccc(C2/N=C(\\C3CCCC3)N(C)C2=O)c1",
+    "qed": 0.849,
+    "logP": 2.797,
+    "sas": 3.096,
+    "svg": "/molecules/932.svg"
+  },
+  {
+    "id": 933,
+    "smiles": "C[C@H]1C[C@@H]1NC(=S)NN(C)c1ccccc1N1CCCC1",
+    "qed": 0.659,
+    "logP": 2.511,
+    "sas": 3.318,
+    "svg": "/molecules/933.svg"
+  },
+  {
+    "id": 934,
+    "smiles": "Cc1ccc([N+](=O)[O-])c(NC(=O)[C@@H]2Cc3cc(O)c(Cl)cc3C2=O)c1",
+    "qed": 0.496,
+    "logP": 3.256,
+    "sas": 2.998,
+    "svg": "/molecules/934.svg"
+  },
+  {
+    "id": 935,
+    "smiles": "Cc1ccc(NC(=O)C(=O)N[C@@H]2CCCc3ncn(CCC)c3c2=O)cc1F",
+    "qed": 0.623,
+    "logP": 2.383,
+    "sas": 3.174,
+    "svg": "/molecules/935.svg"
+  },
+  {
+    "id": 936,
+    "smiles": "C[NH+](C)CCNC(=O)N1CCC[C@H]1c1nc2ccccc2[nH]1",
+    "qed": 0.772,
+    "logP": 0.554,
+    "sas": 3.549,
+    "svg": "/molecules/936.svg"
+  },
+  {
+    "id": 937,
+    "smiles": "CC(C)C/C([O-])=N/c1nnc(-c2ccsc2)s1",
+    "qed": 0.631,
+    "logP": 2.703,
+    "sas": 3.35,
+    "svg": "/molecules/937.svg"
+  },
+  {
+    "id": 938,
+    "smiles": "C[C@H](C[C@H]1CCC[NH2+]1)N[C@H]1CCc2c(O)cccc21",
+    "qed": 0.769,
+    "logP": 1.473,
+    "sas": 4.585,
+    "svg": "/molecules/938.svg"
+  },
+  {
+    "id": 939,
+    "smiles": "Cc1nc(NC(=O)c2ccc3[nH]ccc3c2C)c(C)s1",
+    "qed": 0.752,
+    "logP": 3.802,
+    "sas": 2.606,
+    "svg": "/molecules/939.svg"
+  },
+  {
+    "id": 940,
+    "smiles": "COc1ccc(C#N)cc1NC(=O)c1ccc(Cl)c(C(F)(F)F)c1",
+    "qed": 0.883,
+    "logP": 4.491,
+    "sas": 2.02,
+    "svg": "/molecules/940.svg"
+  },
+  {
+    "id": 941,
+    "smiles": "Cc1cc(S(=O)(=O)N2CCC[C@@H]2c2cccc3c2COCC3)ncn1",
+    "qed": 0.787,
+    "logP": 2.384,
+    "sas": 3.36,
+    "svg": "/molecules/941.svg"
+  },
+  {
+    "id": 942,
+    "smiles": "CN(CC(=O)Nc1ccccc1C(F)(F)F)C(=O)Nc1cc(S(=O)(=O)N2CCCC2)ccc1Cl",
+    "qed": 0.597,
+    "logP": 4.246,
+    "sas": 2.338,
+    "svg": "/molecules/942.svg"
+  },
+  {
+    "id": 943,
+    "smiles": "Cc1cc(C)n(CCN(Cc2cccc(C[NH+]3CCCC3)c2)C(=O)C(C)(C)C)n1",
+    "qed": 0.781,
+    "logP": 2.754,
+    "sas": 3.533,
+    "svg": "/molecules/943.svg"
+  },
+  {
+    "id": 944,
+    "smiles": "Cc1ccc(S(=O)(=O)NC[C@@H]2CCN(c3ncccn3)C2)cc1F",
+    "qed": 0.889,
+    "logP": 1.729,
+    "sas": 2.693,
+    "svg": "/molecules/944.svg"
+  },
+  {
+    "id": 945,
+    "smiles": "CC(=O)NC1CC[NH+](Cc2ccc(C(=O)[O-])o2)CC1",
+    "qed": 0.682,
+    "logP": -1.673,
+    "sas": 4.251,
+    "svg": "/molecules/945.svg"
+  },
+  {
+    "id": 946,
+    "smiles": "O=C(CSc1nc(N2CCOCC2)no1)Nc1cccc(C(=O)NC2CC2)c1",
+    "qed": 0.67,
+    "logP": 1.529,
+    "sas": 2.434,
+    "svg": "/molecules/946.svg"
+  },
+  {
+    "id": 947,
+    "smiles": "COc1ccc(NC(=O)[C@H](C)S[C@H](C)c2ccncc2)cc1",
+    "qed": 0.878,
+    "logP": 3.912,
+    "sas": 2.786,
+    "svg": "/molecules/947.svg"
+  },
+  {
+    "id": 948,
+    "smiles": "C#CCN1CCC(C(=O)N[C@@H]2CC[C@@H]([NH+](CC)CC)CC2)CC1",
+    "qed": 0.707,
+    "logP": 0.684,
+    "sas": 3.522,
+    "svg": "/molecules/948.svg"
+  },
+  {
+    "id": 949,
+    "smiles": "CCOC(=O)[C@H]1OCC[C@H]1CC(=O)NCC[C@@H]1C=c2ccccc2=[NH+]C1",
+    "qed": 0.591,
+    "logP": -1.338,
+    "sas": 4.596,
+    "svg": "/molecules/949.svg"
+  },
+  {
+    "id": 950,
+    "smiles": "Cn1c2ccnc(C(=O)NCc3ccc(Cl)cc3Cl)c2C[C@@H]3CCCC[NH+]3C1=O",
+    "qed": 0.781,
+    "logP": 2.868,
+    "sas": 4.232,
+    "svg": "/molecules/950.svg"
+  },
+  {
+    "id": 951,
+    "smiles": "CCCC(CC)[NH+](Cc1ccoc1)Cc1cccc(C#N)c1",
+    "qed": 0.812,
+    "logP": 3.315,
+    "sas": 4.32,
+    "svg": "/molecules/951.svg"
+  },
+  {
+    "id": 952,
+    "smiles": "O=C(NCC(=O)N1CCN(c2ncccn2)CC1)c1ccncc1",
+    "qed": 0.847,
+    "logP": -0.05,
+    "sas": 2.108,
+    "svg": "/molecules/952.svg"
+  },
+  {
+    "id": 953,
+    "smiles": "CC(C)(C)OC(=O)CN1CCC(O)CC1",
+    "qed": 0.692,
+    "logP": 0.785,
+    "sas": 2.06,
+    "svg": "/molecules/953.svg"
+  },
+  {
+    "id": 954,
+    "smiles": "CCO[C@@H]1CCCN(c2cc(-c3ccc(OC)cc3)ccn2)C1",
+    "qed": 0.842,
+    "logP": 3.763,
+    "sas": 2.508,
+    "svg": "/molecules/954.svg"
+  },
+  {
+    "id": 955,
+    "smiles": "C[C@@H](NCc1cccc2nsnc12)C1(C#N)CCC1",
+    "qed": 0.929,
+    "logP": 2.863,
+    "sas": 3.548,
+    "svg": "/molecules/955.svg"
+  },
+  {
+    "id": 956,
+    "smiles": "OC[C@@H](NC(=O)c1cnc(-c2cccs2)s1)c1ccc(Cl)c(C#N)c1",
+    "qed": 0.693,
+    "logP": 3.86,
+    "sas": 3.073,
+    "svg": "/molecules/956.svg"
+  },
+  {
+    "id": 957,
+    "smiles": "N#Cc1cnc2nc(Cl)ncc2c1",
+    "qed": 0.592,
+    "logP": 1.55,
+    "sas": 2.682,
+    "svg": "/molecules/957.svg"
+  },
+  {
+    "id": 958,
+    "smiles": "c1cc(CNCc2ccc(-c3ccccc3)n2-c2ccccc2)ccc1-c1ccccc1",
+    "qed": 0.3,
+    "logP": 7.101,
+    "sas": 2.05,
+    "svg": "/molecules/958.svg"
+  },
+  {
+    "id": 959,
+    "smiles": "O=C(N[C@H](c1ccccc1)c1ccc(Br)cc1)[C@H]1COCCO1",
+    "qed": 0.892,
+    "logP": 3.07,
+    "sas": 2.859,
+    "svg": "/molecules/959.svg"
+  },
+  {
+    "id": 960,
+    "smiles": "C=CCOC[C@H](O)c1cccc(C[NH+]2CCCC2)c1",
+    "qed": 0.57,
+    "logP": 1.101,
+    "sas": 4.298,
+    "svg": "/molecules/960.svg"
+  },
+  {
+    "id": 961,
+    "smiles": "[NH3+]C1CCC(NC(=O)Nc2ccc(F)c(F)c2F)CC1",
+    "qed": 0.713,
+    "logP": 1.778,
+    "sas": 2.88,
+    "svg": "/molecules/961.svg"
+  },
+  {
+    "id": 962,
+    "smiles": "C[NH2+][C@H](C)[C@H]1CCCCN1S(=O)(=O)c1cc(C)cc(C)c1",
+    "qed": 0.914,
+    "logP": 1.428,
+    "sas": 3.734,
+    "svg": "/molecules/962.svg"
+  },
+  {
+    "id": 963,
+    "smiles": "CCOC[C@H]1CCCN1C(=O)NNC(=O)NCCCO",
+    "qed": 0.401,
+    "logP": -0.206,
+    "sas": 3.027,
+    "svg": "/molecules/963.svg"
+  },
+  {
+    "id": 964,
+    "smiles": "CC(C)c1nccc(C(=O)Nc2cccc(C(N)=O)c2)n1",
+    "qed": 0.896,
+    "logP": 1.951,
+    "sas": 2.098,
+    "svg": "/molecules/964.svg"
+  },
+  {
+    "id": 965,
+    "smiles": "O=C(Nc1ccc(S(=O)(=O)N2CCCC2)c(O)c1)C1=Cc2ccccc2C1",
+    "qed": 0.849,
+    "logP": 2.755,
+    "sas": 2.469,
+    "svg": "/molecules/965.svg"
+  },
+  {
+    "id": 966,
+    "smiles": "C[C@H]1CCCC[C@H]1NC(=O)[C@H]1CCCN(C(=O)Nc2cccc(F)c2F)C1",
+    "qed": 0.837,
+    "logP": 3.904,
+    "sas": 3.121,
+    "svg": "/molecules/966.svg"
+  },
+  {
+    "id": 967,
+    "smiles": "N#C[C@@H](NC(=O)C[NH+]1C[C@@H](C)C[C@H](CO)C1)c1ccco1",
+    "qed": 0.682,
+    "logP": -0.506,
+    "sas": 5.04,
+    "svg": "/molecules/967.svg"
+  },
+  {
+    "id": 968,
+    "smiles": "Cc1nn(Cc2ccccc2)cc1C(=O)C(C)(C)c1ccccc1F",
+    "qed": 0.641,
+    "logP": 4.539,
+    "sas": 2.281,
+    "svg": "/molecules/968.svg"
+  },
+  {
+    "id": 969,
+    "smiles": "CC[S@@](=O)[C@H]1CCCCC[NH+]1Cc1ccoc1C",
+    "qed": 0.902,
+    "logP": 1.642,
+    "sas": 5.022,
+    "svg": "/molecules/969.svg"
+  },
+  {
+    "id": 970,
+    "smiles": "CC(=O)C[C@H](Nc1ccc(C)cc1)C(C)C",
+    "qed": 0.822,
+    "logP": 3.411,
+    "sas": 2.553,
+    "svg": "/molecules/970.svg"
+  },
+  {
+    "id": 971,
+    "smiles": "O=C(NCc1ccc(COc2ccccc2)nc1)c1ccc(F)c(F)c1",
+    "qed": 0.731,
+    "logP": 3.869,
+    "sas": 1.885,
+    "svg": "/molecules/971.svg"
+  },
+  {
+    "id": 972,
+    "smiles": "CCc1cccc(C(C)(C)CNC(=O)c2cccc(N[C@H](C)c3ccc(F)c(F)c3)c2)c1",
+    "qed": 0.428,
+    "logP": 6.408,
+    "sas": 2.7,
+    "svg": "/molecules/972.svg"
+  },
+  {
+    "id": 973,
+    "smiles": "CCCn1nc(C)c(NC(=O)N[C@@H](C)c2nc3ccccc3o2)n1",
+    "qed": 0.75,
+    "logP": 3.02,
+    "sas": 3.274,
+    "svg": "/molecules/973.svg"
+  },
+  {
+    "id": 974,
+    "smiles": "Cc1cccc(NC(=O)NC(=O)c2ccc(Br)s2)c1C",
+    "qed": 0.854,
+    "logP": 4.089,
+    "sas": 2.064,
+    "svg": "/molecules/974.svg"
+  },
+  {
+    "id": 975,
+    "smiles": "CN(C[C@H]1CCSC1)C(=O)c1cc2ccccc2[nH]1",
+    "qed": 0.934,
+    "logP": 2.993,
+    "sas": 3.008,
+    "svg": "/molecules/975.svg"
+  },
+  {
+    "id": 976,
+    "smiles": "CCCc1nn(C)cc1NC(=O)N1CCC[C@@H](COC(C)(C)C)C1",
+    "qed": 0.896,
+    "logP": 3.432,
+    "sas": 3.185,
+    "svg": "/molecules/976.svg"
+  },
+  {
+    "id": 977,
+    "smiles": "C[NH2+][C@@H]1[C@H](Nc2ccccc2C#N)CC1",
+    "qed": 0.758,
+    "logP": 0.694,
+    "sas": 4.052,
+    "svg": "/molecules/977.svg"
+  },
+  {
+    "id": 978,
+    "smiles": "CC[C@@H](C)Sc1ccc(NC(=O)Cn2cc(Br)cn2)cc1",
+    "qed": 0.779,
+    "logP": 4.175,
+    "sas": 2.693,
+    "svg": "/molecules/978.svg"
+  },
+  {
+    "id": 979,
+    "smiles": "C[C@@H]1CCCC[C@@H]1NC(=O)[C@@H]1Cc2ccccc21",
+    "qed": 0.85,
+    "logP": 3.021,
+    "sas": 2.99,
+    "svg": "/molecules/979.svg"
+  },
+  {
+    "id": 980,
+    "smiles": "O=[N+]([O-])c1c(NCc2ccccc2O)noc1-c1ccc2c(c1)OCO2",
+    "qed": 0.528,
+    "logP": 3.296,
+    "sas": 2.613,
+    "svg": "/molecules/980.svg"
+  },
+  {
+    "id": 981,
+    "smiles": "COC(=O)/C(=C\\c1cc(O)ccc1OC)NC(=O)Cn1ncc2ccccc21",
+    "qed": 0.501,
+    "logP": 2.081,
+    "sas": 2.49,
+    "svg": "/molecules/981.svg"
+  },
+  {
+    "id": 982,
+    "smiles": "CCCNC(=O)NC[C@@](N)(CC)C[C@H]1NC(=O)Nc2ccccc21",
+    "qed": 0.527,
+    "logP": 2.07,
+    "sas": 3.604,
+    "svg": "/molecules/982.svg"
+  },
+  {
+    "id": 983,
+    "smiles": "C[C@@H]1Oc2ccc(CNC(=O)Cn3c(=O)oc4ccccc43)cc2CCN1Cc1ccoc1",
+    "qed": 0.488,
+    "logP": 3.287,
+    "sas": 3.244,
+    "svg": "/molecules/983.svg"
+  },
+  {
+    "id": 984,
+    "smiles": "Cc1cc([C@H](C)NCCc2c[nH]nc2-c2ccc(Cl)cc2)cs1",
+    "qed": 0.66,
+    "logP": 4.993,
+    "sas": 3.285,
+    "svg": "/molecules/984.svg"
+  },
+  {
+    "id": 985,
+    "smiles": "CS(=O)(=O)N1CCC[NH+](Cc2ccccc2CS(C)(=O)=O)CC1",
+    "qed": 0.751,
+    "logP": -0.719,
+    "sas": 3.964,
+    "svg": "/molecules/985.svg"
+  },
+  {
+    "id": 986,
+    "smiles": "CC1(C)CCC[C@@H]1NC(=O)C[C@@H]1SC(Cl)=CCC1",
+    "qed": 0.848,
+    "logP": 4.047,
+    "sas": 4.224,
+    "svg": "/molecules/986.svg"
+  },
+  {
+    "id": 987,
+    "smiles": "O=C(c1ccn(-c2ccccc2)n1)N1CCN(Cc2cccs2)CC1",
+    "qed": 0.725,
+    "logP": 2.892,
+    "sas": 2.101,
+    "svg": "/molecules/987.svg"
+  },
+  {
+    "id": 988,
+    "smiles": "C=CCN1C(=O)N=C(N)[C@H]1c1ccc(C(=O)N(C)C)cc1",
+    "qed": 0.85,
+    "logP": 1.408,
+    "sas": 3.168,
+    "svg": "/molecules/988.svg"
+  },
+  {
+    "id": 989,
+    "smiles": "Cc1cccc(NC(=O)CNC(=O)[C@@H](C)c2ccncc2)c(C=O)c1=O",
+    "qed": 0.764,
+    "logP": 1.421,
+    "sas": 2.981,
+    "svg": "/molecules/989.svg"
+  },
+  {
+    "id": 990,
+    "smiles": "O=S(=O)(c1cccnc1)N1CCc2cc(Br)nn2-c2ccccc21",
+    "qed": 0.658,
+    "logP": 2.781,
+    "sas": 2.74,
+    "svg": "/molecules/990.svg"
+  },
+  {
+    "id": 991,
+    "smiles": "CCN(CC)C(=O)Cn1/c(=N/C([O-])=N/S(=O)(=O)c2ccccc2)sc2cc(C)ccc21",
+    "qed": 0.414,
+    "logP": 1.886,
+    "sas": 2.89,
+    "svg": "/molecules/991.svg"
+  },
+  {
+    "id": 992,
+    "smiles": "CC(=O)NCC[NH+]1CCC[C@H]1CNC(=O)C(=O)Nc1c(Cl)cccc1Cl",
+    "qed": 0.514,
+    "logP": 0.232,
+    "sas": 4.185,
+    "svg": "/molecules/992.svg"
+  },
+  {
+    "id": 993,
+    "smiles": "C=C(Cl)[C@@H](NC(=O)c1ccc2ccnn2c1)[n+]1c(C)cc(CNC(C)=O)c(C)c1",
+    "qed": 0.611,
+    "logP": 2.556,
+    "sas": 4.035,
+    "svg": "/molecules/993.svg"
+  },
+  {
+    "id": 994,
+    "smiles": "C[C@H](Cl)C(=O)Nc1ccc(S(=O)(=O)Nc2cc(F)c(F)cc2Cl)cc1",
+    "qed": 0.58,
+    "logP": 3.985,
+    "sas": 2.553,
+    "svg": "/molecules/994.svg"
+  },
+  {
+    "id": 995,
+    "smiles": "C[C@H](NC(=O)c1cc(Cl)ccc1O)C(C)(C)C[C@@H](C)O",
+    "qed": 0.783,
+    "logP": 2.961,
+    "sas": 3.25,
+    "svg": "/molecules/995.svg"
+  },
+  {
+    "id": 996,
+    "smiles": "CC(C)(C)OC(=O)c1csc(C[NH+]2CCC[C@@H](CO)C2)n1",
+    "qed": 0.81,
+    "logP": 0.886,
+    "sas": 4.489,
+    "svg": "/molecules/996.svg"
+  },
+  {
+    "id": 997,
+    "smiles": "COC(=O)c1c(NC(=O)C(C)C)sc2c1CC(C)(C)[C@H](C)C(=O)N2",
+    "qed": 0.818,
+    "logP": 3.286,
+    "sas": 3.516,
+    "svg": "/molecules/997.svg"
+  },
+  {
+    "id": 998,
+    "smiles": "Cc1cc(C)c(C(N)=O)c(NC(=O)[C@@H](C)CCn2ccnn2)c1",
+    "qed": 0.846,
+    "logP": 1.659,
+    "sas": 3.051,
+    "svg": "/molecules/998.svg"
+  },
+  {
+    "id": 999,
+    "smiles": "O=[N+]([O-])c1c(NC[C@H]2CCOC2)nc2sccn2c1=O",
+    "qed": 0.67,
+    "logP": 1.113,
+    "sas": 3.294,
+    "svg": "/molecules/999.svg"
+  },
+  {
+    "id": 1000,
+    "smiles": "CC(=O)N[C@H](C=[NH+]P(=O)c1cccc(N(C)C)c1)[C@H]1CCS(=O)(=O)C1",
+    "qed": 0.48,
+    "logP": -1.057,
+    "sas": 4.824,
+    "svg": "/molecules/1000.svg"
+  }
+]

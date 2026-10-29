@@ -1,25 +1,123 @@
-# Python and IDEs
+# ==============================================================================
+# Comprehensive .gitignore for Drug Discovery VAE & Next.js Web Presentation
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Next.js & Node.js (Web Presentation App)
+# ------------------------------------------------------------------------------
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+out/
+**/out/
+build/
+dist/
+.vercel/
+
+# Node logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Next.js bundle & cache artifacts
+.pnp
+.pnp.js
+*.tsbuildinfo
+
+# ------------------------------------------------------------------------------
+# 2. Environment Variables & Privacy / Security
+# ------------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# ------------------------------------------------------------------------------
+# 3. Python & Virtual Environments
+# ------------------------------------------------------------------------------
 __pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-.vscode/
-.env/
+**/.ipynb_checkpoints/
+
+# Environments
 venv/
+.venv/
 env/
+.env/
+ENV/
 .anaconda/
 .conda/
 
-# Datasets (Too heavy for GitHub, causes errors)
+# Distribution / packaging
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/python*/
+parts/
+var/
+sdist/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# ------------------------------------------------------------------------------
+# 4. Large Datasets (Exceeds GitHub 100MB limit / Raw downloads)
+# ------------------------------------------------------------------------------
 data/raw/
-data/processed/
+data/processed/*.npy
 data/interim/
+*.npy
+*.h5
+*.hdf5
+*.parquet
 
-# Results (Optional: ignore if you don't want 1000s of images tracked)
-# results/
+# ------------------------------------------------------------------------------
+# 5. OS & IDE System Files
+# ------------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
 
-# Model Weights (Uncomment if you want to ignore models)
-# models/*.pt
+# VS Code & JetBrains
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.sublime-workspace
+*.sublime-project
 
-# Private/Unwanted files (Just in case they ever get copied back)
+# ------------------------------------------------------------------------------
+# 6. Temporary & Scratch Files
+# ------------------------------------------------------------------------------
+*.tmp
+*.temp
+scratch_y_axis.png
+scratch/
 Recovered_Drug_Discovery_Chat.md
 Project Breakdown.docx
 Project Breakdown.pdf

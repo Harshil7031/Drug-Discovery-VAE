@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\harsh\\anaconda3\\python.exe",
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none",
+        "reportMissingModuleSource": "none",
+        "reportUndefinedVariable": "none",
+        "reportGeneralTypeIssues": "none"
+    }
+}
